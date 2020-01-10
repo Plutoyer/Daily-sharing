@@ -19,4 +19,4 @@
 - [tachiyomi 安卓最好用的漫画软件](https://tachiyomi.org/)
 
 ## 今日壁纸：
-![Image text](https://github.com/Plutoyer/-Daily-sharing/tree/master/raw/master/image/brage.jpg)
+![](https://github.com/Plutoyer/-Daily-sharing/tree/master/raw/master/image/brage.jpg)
