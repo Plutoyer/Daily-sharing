@@ -12,7 +12,7 @@
 [电子游戏的变革性力量](http://open.163.com/newview/movie/free?pid=MEQ4BOIRT&mid=MEQ4C5H1U)
 
 ## 推荐项目&软件：
-- [Gif 录制神器]（https://www.screentogif.com/?l=zh_cn)   
+- [Gif 录制神器](https://www.screentogif.com/?l=zh_cn)   
   [github项目地址](https://github.com/NickeManarin/ScreenToGif)
 - [百度网盘v10.0.133 去广告SVIP破解版](https://www.lanzous.com/i8hwa8f)
 - [用颜色选择专辑的网站](http://predominant.ly/vibrant-purple)
