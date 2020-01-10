@@ -17,6 +17,3 @@
 - [百度网盘v10.0.133 去广告SVIP破解版](https://www.lanzous.com/i8hwa8f)
 - [用颜色选择专辑的网站](http://predominant.ly/vibrant-purple)
 - [tachiyomi 安卓最好用的漫画软件](https://tachiyomi.org/)
-
-## 今日壁纸：
-![壁纸推荐](https://github.com/Plutoyer/-Daily-sharing/tree/master/raw/master/image/brage.jpg)
