@@ -51,3 +51,20 @@
 - [一个实现了几乎所有效果的轮播图插件网站](http://kenwheeler.github.io/slick/)
 - [一款精致、简洁、扩展性强的开源 Web 浏览器](https://github.com/wexond/desktop)
 - [免费好用的 iOS UI 调试软件](https://lookin.work/)
+
+# 2020-1-16分享
+## 美句分享
+长这么大，你一定也经历过不少挫败和失望。有人说，活着就该逢山开路，遇水架桥。我以前固执地认为，只要你坚持努力，就没有你做不到的事情。后来我终于相信，有些事情不是你努力就会有结果，有些人也不是你坚持就能够的得到。
+
+## 今日演讲
+[贾雷德·戴蒙德：让现代社会中的老人生活的更好](http://open.163.com/newview/movie/free?pid=M9THK5V42&mid=M9THKE3KI)
+
+## 今日科普
+[屁为什么是臭的？人为什么能闻出上万种气味](https://www.youtube.com/watch?v=YSGSAV7vpHM&t=1s)
+
+## 今日推荐
+- [一款免费在线把源代码生成高逼格的图片的网站（可自定义很多样式)](https://codeimg.io/)   
+- [一个提供数千个免费学习教程的网站](https://2uts.com/)   
+- [一个有关计算机技术的免费教程网站](https://www.w3xue.com/)    
+- [一个可以把当前网站的图片打包下载的在线网站](https://imagecyborg.com/)   
+- [一个创建美丽的全屏滚动网站的js库](https://alvarotrigo.com/fullPage/zh/)
