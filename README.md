@@ -56,6 +56,9 @@
 ## 美句分享
 长这么大，你一定也经历过不少挫败和失望。有人说，活着就该逢山开路，遇水架桥。我以前固执地认为，只要你坚持努力，就没有你做不到的事情。后来我终于相信，有些事情不是你努力就会有结果，有些人也不是你坚持就能够的得到。
 
+## 今日阅读
+[我对中国科技行业的看法]https://mp.weixin.qq.com/s/pBvO7yzncMWqKo25Et7b8g
+
 ## 今日演讲
 [贾雷德·戴蒙德：让现代社会中的老人生活的更好](http://open.163.com/newview/movie/free?pid=M9THK5V42&mid=M9THKE3KI)
 
@@ -68,3 +71,20 @@
 - [一个有关计算机技术的免费教程网站](https://www.w3xue.com/)    
 - [一个可以把当前网站的图片打包下载的在线网站](https://imagecyborg.com/)   
 - [一个创建美丽的全屏滚动网站的js库](https://alvarotrigo.com/fullPage/zh/)
+
+# 2020-1-17分享
+## 美句分享
+最惨的，并不是莫名其妙的被人给领上了一条迷路，而是当你背上孤独拿上剑，决定要马不停蹄，一意孤行的时候，突然冒出一个人，把你抱紧，说，少年，我想和你分享这漫长的一生，你一激动，把剑给扔了，把马烤了，一回头，人没了。
+
+## 今日演讲
+[探索世界最深洞穴](https://www.bilibili.com/video/av55899909)
+
+## 今日科普
+[如何判断股票价格是否合理，李永乐老师讲贴现法股票估值](https://www.bilibili.com/video/av55899909)
+
+## 今日推荐
+- [一个可以实时查看台风的在线网站](https://www.windy.com/?22.291,114.150,5)
+- [一个关于网站配色的国外网站](https://coolors.co/)
+- [一个提供有关颜色信息，颜色搭配，颜色代码查询以及各种颜色空间转换的网站](https://www.colorgg.com/)
+- [一个网页设计常用色彩搭配表的网站](http://tool.c7sky.com/webcolor/)
+- [一个markdown编辑器，支持导出pdf、html和markdown文件，并且支持一键发布到hexo博客](https://github.com/froala/design-blocks)
