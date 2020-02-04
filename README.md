@@ -108,3 +108,23 @@
 - [一个人人都能学会的 WordPress 实战课在线文档版](https://www.easywpbook.com/)
 - [一个支持生成折线图、柱状图、饼图、雷达图、全国各省市的地图等图表的PS插件](https://pslkzs.com/)
 - [一个收集了229个免费且高质量的 UI Kits（Sketch、Adobe XD、Figma等工具）在线网站下载](https://www.uistore.design/items/mobile-apps-library/)
+
+# 2020-2-4分享
+## 美句分享
+剑未佩妥，出门已是江湖；酒尚余温，入口不识乾坤。远离尽千帆，归来仍是少年。 
+
+## 今日阅读
+[桃花心木](https://shimo.im/docs/rRCyyvdJr8RjTQCr/)
+
+## 今日演讲
+[韩雪：积极的悲观主义者](http://open.163.com/newview/movie/free?pid=MCP76PT9B&mid=MCP789R9M)
+
+## 今日科普
+[世界杯球场上的诡异足球轨迹，如何用爱因斯坦的理论来解释？李永乐老师讲布朗运动](https://www.bilibili.com/video/av25752782?from=search&seid=8158993074197911163)
+
+## 今日推荐
+- [一个基于爬虫技术和智能算法的个性化匹配，一站式搜索互联网上相关视频内容的在线网站](http://neets.cc/)
+- [一个开发者在GitHub 上整理的 Linux、MySQL、PHP、Git、Shell 等学习笔记 的在线阅读网站](https://github.com/guanguans/notes)
+- [一个将私募和公开市场的估值超过 10 亿美元的创业公司做出分类的网站](https://dujiaoshou.io/)
+- [一个高颜值屏保时钟程序Fliqlo，经典时钟屏保 ，翻页式时间屏保，支持Mac/Windows/iOS设备](https://fliqlo.com/)
+- [一个专业文档检索与下载网站，提供word文档下载、doc文档、pdf文档下载、ppt课件、xls表格文档搜索与文档下载](https://www.guandang.xyz//)
