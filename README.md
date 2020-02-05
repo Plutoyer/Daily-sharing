@@ -128,3 +128,23 @@
 - [一个将私募和公开市场的估值超过 10 亿美元的创业公司做出分类的网站](https://dujiaoshou.io/)
 - [一个高颜值屏保时钟程序Fliqlo，经典时钟屏保 ，翻页式时间屏保，支持Mac/Windows/iOS设备](https://fliqlo.com/)
 - [一个专业文档检索与下载网站，提供word文档下载、doc文档、pdf文档下载、ppt课件、xls表格文档搜索与文档下载](https://www.guandang.xyz//)
+
+# 2020-2-5分享
+## 美句分享
+人间的事，只要生机不灭，即使重遭天灾人祸，暂被阻抑，终有抬头的日子。
+
+## 今日阅读
+[老猴赫尼](https://shimo.im/docs/cJQwCXVdKrwxXkRc/)
+
+## 今日演讲
+[被判无期徒刑的女人: 一首来自监狱中无期徒刑的女人的歌](http://open.163.com/newview/movie/free?pid=MAU20GIGL&mid=MAU41S8C9)
+
+## 今日科普
+[WIFI和微波炉加热食物会对人有害吗？致癌吗？李永乐老师讲微波炉原理](https://www.bilibili.com/video/av29518466?from=search&seid=9915779112821577240)
+
+## 今日推荐
+- [一个Typescript入门的在线文档教程](https://ts.xcatliu.com/)
+- [一个2019年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总](https://github.com/0voice/interview_internal_reference)
+- [一个Chrome插件英雄榜， 为优秀的Chrome插件写一本中文说明书](https://github.com/0voice/interview_internal_reference)
+- [一个在线沙盒，快速搭建你需要的开发工具](https://codesandbox.io/s/)
+- [一个 Mac 应用商店命令行工具，支持搜索、安装、更新应用等操作，用起来十分方便](https://github.com/mas-cli/mas)
