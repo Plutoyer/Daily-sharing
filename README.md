@@ -148,3 +148,24 @@
 - [一个Chrome插件英雄榜， 为优秀的Chrome插件写一本中文说明书](https://github.com/0voice/interview_internal_reference)
 - [一个在线沙盒，快速搭建你需要的开发工具](https://codesandbox.io/s/)
 - [一个 Mac 应用商店命令行工具，支持搜索、安装、更新应用等操作，用起来十分方便](https://github.com/mas-cli/mas)
+
+
+# 2020-2-7分享
+## 美句分享
+我有势必穿越漫长黑夜的决心，也在积攒见到曙光与炽热光明的力量，正是因为——有如同李文亮医生这样的人擎着炬火。  
+
+## 今日阅读
+[人生的什么和什么](https://shimo.im/docs/rTcxCw6rPjxtKcRG/)
+
+## 今日演讲
+[你有拖延症吗?](http://open.163.com/newview/movie/free?pid=MBHQSM52F&mid=MBI15O7QE)
+
+## 今日科普
+[二手车市场中的交易秘密是什么？诺贝尔奖中的柠檬市场是什么原理](https://www.bilibili.com/video/av25407728)
+
+## 今日推荐
+- [一个非常实用的 GitHub 命令行工具，支持在命令行中查看 GitHub 通知、搜索创建 issue、浏览动态、生成 LICENSE 等功能](https://github.com/donnemartin/gitsome)
+- [一个在你输错命令后，fuck 一下，自动帮你更正命令的工具哈](https://github.com/nvbn/thefuck)
+- [一款神奇的命令行工具，能将任意文件隐藏到图片里面](https://github.com/DimitarPetrov/stegify)
+- [一个收录中文 DOS 游戏的项目，可以在线玩游戏](https://github.com/rwv/chinese-dos-games)
+- [一个开源的羡辙 的个人网站，还是蛮有趣的哈，你值得拥有](https://github.com/Ovilia/ovilia.github.io)
