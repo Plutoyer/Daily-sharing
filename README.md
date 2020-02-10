@@ -169,3 +169,23 @@
 - [一款神奇的命令行工具，能将任意文件隐藏到图片里面](https://github.com/DimitarPetrov/stegify)
 - [一个收录中文 DOS 游戏的项目，可以在线玩游戏](https://github.com/rwv/chinese-dos-games)
 - [一个开源的羡辙 的个人网站，还是蛮有趣的哈，你值得拥有](https://github.com/Ovilia/ovilia.github.io)
+
+# 2020-2-10分享
+## 美句分享
+人生最难受的不是越过山丘却发现无人等候，而是明知无人等候，还要咬牙越过山丘。 
+
+## 今日阅读
+[记忆](https://shimo.im/docs/6gDPthHyTd9tjtHR/)
+
+## 今日演讲
+[破解语言学习之谜](http://open.163.com/newview/movie/free?pid=MAVFT31VD&mid=MAVFTJPHR)
+
+## 今日科普
+[埃博拉病毒有多恐怖？人们对付病毒最有效的方法是什么？](https://www.bilibili.com/video/av87775412?from=search&seid=7141878597423094413)
+
+## 今日推荐
+- [一个在线给那些被喷子欺负却无力回击的小朋友用的骂人宝典（刷新换新句子）](https://nmsl.shadiao.app/)
+- [一个在线免费看全国招标信息的网站 - 剑鱼标讯](https://www.jianyu360.com/)
+- [一个在线奥利奥生成器](https://ddiu8081.github.io/oreooo/)
+- [一个在线高质量的 Git 中文教程，源于国外社区的优秀文章和个人实践](https://geeeeeeeeek.github.io/git-recipes/)
+- [万能命令](https://wanneng.run/cn/)
