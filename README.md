@@ -189,3 +189,23 @@
 - [一个在线奥利奥生成器](https://ddiu8081.github.io/oreooo/)
 - [一个在线高质量的 Git 中文教程，源于国外社区的优秀文章和个人实践](https://geeeeeeeeek.github.io/git-recipes/)
 - [万能命令](https://wanneng.run/cn/)
+
+## 2020-2-11分享
+## 美句分享
+假如你思念的人去了足够远的地方，远在地图的边缘，他们反而会和你贴的很近，近到无法遗忘。  --保拉·麦克莱恩 《绕日飞行》
+
+## 今日阅读
+(世界上最酷的爸爸   安吉.K.K.沃德)https://shimo.im/docs/Dhqhxr9g8cKdpTDt/ 
+
+## 今日演讲
+[Jinsop Lee: 五感设计](http://open.163.com/newview/movie/free?pid=M9BLS0NP5&mid=M9BLS97TT)
+
+## 今日科普
+[这个学霸，他为啥不怕百万伏的高压电？李永乐老师讲《加油向未来》的精彩实验](https://www.bilibili.com/video/av31090042)
+
+## 今日推荐
+- [一个从一张图片获取两种主色，生成渐变色背景的工具](https://benhowdle89.github.io/grade/)
+- [一个好用的css速查表，每个属性的详细描述由MDN web docs提供](http://code.ciaoca.com/style/css-cheat-sheet/)
+- [一个小巧实用的 JavaScript 工具类库](https://fjc0k.github.io/vtils/)
+- [一款能帮你生成漂亮的 REAMDE.md 文件小工具](https://github.com/kefranabg/readme-md-generator)
+- [一个通过编写 Markdown 来快速生成演讲幻灯片的项目](https://github.com/hiroppy/fusuma)
