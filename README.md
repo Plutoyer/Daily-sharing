@@ -195,7 +195,7 @@
 假如你思念的人去了足够远的地方，远在地图的边缘，他们反而会和你贴的很近，近到无法遗忘。  --保拉·麦克莱恩 《绕日飞行》
 
 ## 今日阅读
-(世界上最酷的爸爸   安吉.K.K.沃德)https://shimo.im/docs/Dhqhxr9g8cKdpTDt/ 
+[世界上最酷的爸爸   安吉.K.K.沃德](https://shimo.im/docs/Dhqhxr9g8cKdpTDt/ )
 
 ## 今日演讲
 [Jinsop Lee: 五感设计](http://open.163.com/newview/movie/free?pid=M9BLS0NP5&mid=M9BLS97TT)
