@@ -209,3 +209,23 @@
 - [一个小巧实用的 JavaScript 工具类库](https://fjc0k.github.io/vtils/)
 - [一款能帮你生成漂亮的 REAMDE.md 文件小工具](https://github.com/kefranabg/readme-md-generator)
 - [一个通过编写 Markdown 来快速生成演讲幻灯片的项目](https://github.com/hiroppy/fusuma)
+
+## 2020-2-12分享
+## 美句分享
+一个健康的社会不应该只有一种声音！
+
+## 今日阅读
+[《摆脱童稚状态  王小波》](https://shimo.im/docs/3DdXYRtTCk9QrJrV/ )
+
+## 今日演讲
+[如何成为一个更好的交谈者?](http://open.163.com/newview/movie/free?pid=MBFLN6BJF&mid=MBFLNJGFE)
+
+## 今日科普
+[网上热搜：警察抓酒鬼的概率如何求？体检的意义何在？李永乐老师讲贝叶斯公式](https://www.bilibili.com/video/av33197887)
+
+## 今日推荐
+- [一个可以识别视频语音自动生成字幕SRT文件的开源 Windows-GUI 软件工具](https://github.com/wxbool/video-srt-windows)
+- [一个在线方便地查看、搜索谷歌安卓源代码的网站](https://cs.android.com/)
+- [一个免费平面设计软件能够脱机工作并支持.sketch文件的原生Windows应用程序](https://icons8.cn/lunacy)
+- [一个在线查看星空的网站](http://stars.chromeexperiments.com/)
+- [一个在线百度网盘提取码查询的网站](https://pnote.net/pan/)
