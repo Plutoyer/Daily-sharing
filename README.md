@@ -229,3 +229,23 @@
 - [一个免费平面设计软件能够脱机工作并支持.sketch文件的原生Windows应用程序](https://icons8.cn/lunacy)
 - [一个在线查看星空的网站](http://stars.chromeexperiments.com/)
 - [一个在线百度网盘提取码查询的网站](https://pnote.net/pan/)
+
+## 2020-2-313分享
+## 美句分享
+如果尖锐的批评完全消失，温和的批评将会变得刺耳。如果温和的批评也不被允许，沉默将被认为居心叵测。如果沉默也不再允许，赞扬不够卖力将是一种罪行。如果只允许一种声音存在，那么，唯一存在的那个声音是什么？
+
+## 今日阅读
+[《我是为你好     张小娴》](https://shimo.im/docs/XdTxG8KVWddtg8pw/) 
+
+## 今日演讲
+[为什么智能统计数据是打击犯罪的关键](http://open.163.com/newview/movie/free?pid=MADNH40PG&mid=MADP95EML)
+
+## 今日科普
+[瑞德西韦能治新冠肺炎吗？吸烟与肺癌有多大关系？李老师讲双盲对照试验](https://www.youtube.com/watch?v=V5h18sbxMPk)
+
+## 今日推荐
+- [Linux 命令速查手册 - linux-command（手册共收集了 554+ 个 Linux 命令，用户可通过网站、Chrome 插件、Alfred Workflow 速查命令）](https://wangchujiang.com/linux-command/)
+- [一个在线截屏工具。用户只要输入网址，就会显示各种设备的网页截屏，相当方便](https://screendump.techulus.com/)
+- [一个简单、强大、高效的跨平台字幕制作软件，可以运行在Mac、Windows、Linux上](https://arctime.org/)
+- [一个在线可以查询PPT模板图标素材和工具等资源导航站](http://www.hippter.com/)
+- [一个让你在Windows电脑上也可以拥有捷径般效率工具的软件 Quicker](https://getquicker.net/)
