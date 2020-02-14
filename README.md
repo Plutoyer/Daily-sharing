@@ -261,7 +261,7 @@
 [遥远的时间与多元宇宙的迹象](http://open.163.com/newview/movie/free?pid=M778URNQ5&mid=M779ERCHI)
 
 ## 今日科普
-[太空电梯是什么？花多少钱才能去太空旅游？]（https://www.bilibili.com/video/av83891873）
+[太空电梯是什么？花多少钱才能去太空旅游？](https://www.bilibili.com/video/av83891873)
 
 ## 今日推荐
 - [一个网页版短视频解析的网站，支持抖音快手等诸多知名网站的解析](http://yz.lhhz.net/index.php/index/dsp.html)
