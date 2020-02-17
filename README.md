@@ -281,7 +281,7 @@
 [择一城终老，遇一人白首。](http://open.163.com/newview/movie/free?pid=MAU9UMSJE&mid=MAU9V5VO0)
 
 ## 今日科普
-[美国教授提出一元二次方程新解法？你真的会用韦达定理吗？]（https://www.youtube.com/watch?v=qVANpN_wNy4）
+[美国教授提出一元二次方程新解法？你真的会用韦达定理吗？](https://www.youtube.com/watch?v=qVANpN_wNy4)
 
 ## 今日推荐
 - [一个在线二次元头像生成器（可以设置发色、肤色、配饰等属性来随机生成一个二次元角色）]((https://make.girls.moe/#/)
