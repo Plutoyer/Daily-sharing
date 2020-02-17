@@ -284,7 +284,7 @@
 [美国教授提出一元二次方程新解法？你真的会用韦达定理吗？](https://www.youtube.com/watch?v=qVANpN_wNy4)
 
 ## 今日推荐
-- [一个在线二次元头像生成器（可以设置发色、肤色、配饰等属性来随机生成一个二次元角色）]((https://make.girls.moe/#/)
+- [一个在线二次元头像生成器（可以设置发色、肤色、配饰等属性来随机生成一个二次元角色）](https://make.girls.moe/#/)
 - [一个使用 AI 给黑白照片上色的网站，不只是照片，图片、画作也可以的，上传照片后，填写邮箱在 30s 内将获取对应的照片](https://colorize.cc/)
 - [一个在线可以直观展示css tranform各种属性的网站](https://css-transform.moro.es/)
 - [一个简约而不简单无损音乐播放器，轻，透明，无边框，嵌入桌面 Mcool](https://mcool.appinn.me/)
