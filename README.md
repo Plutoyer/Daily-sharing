@@ -269,3 +269,23 @@
 - [一个在线编辑、转化 Markdown 表格网站：Table Convert Online](https://tableconvert.com/)
 - [一款免费的在线PDF提取器。可从PDF文件中提取图像，文本和字体，无需安装，无需注册](https://www.extractpdf.com/zh.html)
 - [一个在线windows系统一句命令激活](https://v0v.bid/)
+
+# 2020-2-17分享
+## 美句分享
+确认生命中的荒诞感绝不可能是一个终点，而恰恰是一个开始。          加缪 《局外人》
+
+## 今日阅读
+[《当我不在世的时候     屠格涅夫》](https://shimo.im/docs/YrJ66HH3VkqydWrG/ )
+
+## 今日演讲
+[择一城终老，遇一人白首。](http://open.163.com/newview/movie/free?pid=MAU9UMSJE&mid=MAU9V5VO0)
+
+## 今日科普
+[美国教授提出一元二次方程新解法？你真的会用韦达定理吗？]（https://www.youtube.com/watch?v=qVANpN_wNy4）
+
+## 今日推荐
+- [一个在线二次元头像生成器（可以设置发色、肤色、配饰等属性来随机生成一个二次元角色）]((https://make.girls.moe/#/)
+- [一个使用 AI 给黑白照片上色的网站，不只是照片，图片、画作也可以的，上传照片后，填写邮箱在 30s 内将获取对应的照片](https://colorize.cc/)
+- [一个在线可以直观展示css tranform各种属性的网站](https://css-transform.moro.es/)
+- [一个简约而不简单无损音乐播放器，轻，透明，无边框，嵌入桌面 Mcool](https://mcool.appinn.me/)
+- [一个让您轻松管理及传输手机与电脑中的资料的软件 - 爱莫助手](https://shuax.com/)
