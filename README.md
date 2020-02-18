@@ -289,3 +289,23 @@
 - [一个在线可以直观展示css tranform各种属性的网站](https://css-transform.moro.es/)
 - [一个简约而不简单无损音乐播放器，轻，透明，无边框，嵌入桌面 Mcool](https://mcool.appinn.me/)
 - [一个让您轻松管理及传输手机与电脑中的资料的软件 - 爱莫助手](https://shuax.com/)
+
+# 2020-2-18分享
+## 美句分享
+被人理解是幸运的，但不被理解未必不幸。一个把自己的价值完全寄托于他人的理解上面的人往往并无价值。
+
+## 今日阅读
+[《志气与欲望       梁漱溟》](https://shimo.im/docs/DPP9GrxDKJrPXHPw/)
+
+## 今日演讲
+[伊万·巴恩: 特殊环境里的不同寻常的房子](http://open.163.com/newview/movie/free?pid=MAC5Q93OS&mid=MAC8MA1M2)
+
+## 今日科普
+[打火机为啥一按就打火？超声波怎么发出来？李永乐老师讲压电效应]（https://www.bilibili.com/video/av32525877）
+
+## 今日推荐
+- [一个支持磁力、种子、电驴、迅雷的万能下载神器，支持边下边播的软件 - 闪电下载](http://bbs.xiaokanba.com/download.html)
+- [一款在线拼接电影字幕的神器 - 字幕拼接](http://screenshots.hpday.cn/)
+- [一个漫画用的图片放大网站 - 图片工具](http://waifu2x.udp.jp/)
+- [一个在线工具集合的网站，支持很多下载的，自行体会 - MikuTools](https://miku.tools/)
+- [一个在线IP地址查看工具，可以查内网和外网的 - IP Address](https://www.ipaddress.com/)
