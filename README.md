@@ -301,7 +301,7 @@
 [伊万·巴恩: 特殊环境里的不同寻常的房子](http://open.163.com/newview/movie/free?pid=MAC5Q93OS&mid=MAC8MA1M2)
 
 ## 今日科普
-[打火机为啥一按就打火？超声波怎么发出来？李永乐老师讲压电效应]（https://www.bilibili.com/video/av32525877）
+[打火机为啥一按就打火？超声波怎么发出来？李永乐老师讲压电效应](https://www.bilibili.com/video/av32525877)
 
 ## 今日推荐
 - [一个支持磁力、种子、电驴、迅雷的万能下载神器，支持边下边播的软件 - 闪电下载](http://bbs.xiaokanba.com/download.html)
