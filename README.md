@@ -321,7 +321,7 @@
 [如何找到自己钟爱的工作](http://open.163.com/newview/movie/free?pid=MC9GRQOVM&mid=MC9GSHHHM)
 
 ## 今日科普
-[追剧买VIP会员去广告，值不值？李永乐老师讲时间成本]（https://www.bilibili.com/video/av84023998?from=search&seid=10716307288998220085）
+[追剧买VIP会员去广告，值不值？李永乐老师讲时间成本](https://www.bilibili.com/video/av84023998?from=search&seid=10716307288998220085)
 
 ## 今日推荐
  - [一个可以“伪造”微博、知乎、豆瓣、简书等网站界面截图的网站 - 虚假截图助手](https://fakes.netlify.com/#/sina/simple)
