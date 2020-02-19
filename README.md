@@ -309,3 +309,23 @@
 - [一个漫画用的图片放大网站 - 图片工具](http://waifu2x.udp.jp/)
 - [一个在线工具集合的网站，支持很多下载的，自行体会 - MikuTools](https://miku.tools/)
 - [一个在线IP地址查看工具，可以查内网和外网的 - IP Address](https://www.ipaddress.com/)
+
+# 2020-2-19分享
+## 美句分享
+人的生命也不过宇宙尘埃划过苍穹的瞬间，更何况聚散离别，如同变幻的星际，世事无常。
+
+## 今日阅读
+[《没有时间的话，请离开    张小娴》](https://shimo.im/docs/QRhvHdkq36XjVJCQ/ )
+
+## 今日演讲
+[如何找到自己钟爱的工作](http://open.163.com/newview/movie/free?pid=MC9GRQOVM&mid=MC9GSHHHM)
+
+## 今日科普
+[追剧买VIP会员去广告，值不值？李永乐老师讲时间成本]（https://www.bilibili.com/video/av84023998?from=search&seid=10716307288998220085）
+
+## 今日推荐
+ - [一个可以“伪造”微博、知乎、豆瓣、简书等网站界面截图的网站 - 虚假截图助手](https://fakes.netlify.com/#/sina/simple)
+ - [一个国外的字体网站，可以下载的 - 国外字体](https://www.stockio.com/free-fonts/)
+ - [一款用电脑控制手机的工具 - 小萝贝](http://www.xiaoluobei.com/)
+ - [一个收集无版权插图的网站，提供 SVG / PNG 格式下载，并且允许更改颜色 - ManyPixels](https://www.manypixels.co/gallery/)
+ - [一个在浏览器将Markdown文件转换为PDF文件的网站 - MD2pdf](https://md2pdf.netlify.com/)
