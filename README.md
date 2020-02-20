@@ -329,3 +329,23 @@
  - [一款用电脑控制手机的工具 - 小萝贝](http://www.xiaoluobei.com/)
  - [一个收集无版权插图的网站，提供 SVG / PNG 格式下载，并且允许更改颜色 - ManyPixels](https://www.manypixels.co/gallery/)
  - [一个在浏览器将Markdown文件转换为PDF文件的网站 - MD2pdf](https://md2pdf.netlify.com/)
+ 
+ # 2020-2-20分享
+ ## 美句分享
+如果我喜欢你，我会主动往你的方向走几步再走几步，如果你看见我走过来了却没有迎接我的意思，那我就会停下来了。世界上有很多东西我们可以靠艰苦奋斗得来，唯独对于爱情我不想太努力。两个人势均力敌公平又平等的爱与被爱，但愿在这个拼得你死我活的世界里，我能有一份不用努力的刚刚好的爱情。
+
+## 今日阅读
+[《集体早操   刘瑜》]https://shimo.im/docs/PrYJPRVrTjx83dJj/ 
+
+## 今日演讲
+[爱情应有的样子](http://open.163.com/newview/movie/free?pid=MC9FQL66A&mid=MCA50R4D7)
+
+## 今日科普
+[如何正确使用酒精消毒？84消毒液和洁厕灵混着用会咋样？](https://www.youtube.com/watch?v=t02ub6nuNAw)
+
+## 今日推荐
+ - [一个Android免root防撤回消息的神器来了，支持QQ和微信 - 防撤回神器](https://www.lanzous.com/i39ajwd)
+ - [ 一款全能的下载工具(支持下载 HTTP、FTP、BT、磁力链、百度网盘等资源) - Motrix](https://motrix.app/zh-CN)
+ - [一款开源的markdown软件 - notable](https://github.com/notable/notable/releases)
+ - [一个增强哔哩哔哩Web端体验的游猴插件 - Bilibili Evolved](https://greasyfork.org/zh-CN/scripts/373563-bilibili-evolved)
+ - [一个window电脑端的电报软件telegram - telegram 1.5.15](https://www.lanzous.com/i3b7f4f)
