@@ -335,7 +335,7 @@
 如果我喜欢你，我会主动往你的方向走几步再走几步，如果你看见我走过来了却没有迎接我的意思，那我就会停下来了。世界上有很多东西我们可以靠艰苦奋斗得来，唯独对于爱情我不想太努力。两个人势均力敌公平又平等的爱与被爱，但愿在这个拼得你死我活的世界里，我能有一份不用努力的刚刚好的爱情。
 
 ## 今日阅读
-[《集体早操   刘瑜》]https://shimo.im/docs/PrYJPRVrTjx83dJj/ 
+[《集体早操   刘瑜》](https://shimo.im/docs/PrYJPRVrTjx83dJj/)
 
 ## 今日演讲
 [爱情应有的样子](http://open.163.com/newview/movie/free?pid=MC9FQL66A&mid=MCA50R4D7)
