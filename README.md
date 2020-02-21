@@ -349,3 +349,26 @@
  - [一款开源的markdown软件 - notable](https://github.com/notable/notable/releases)
  - [一个增强哔哩哔哩Web端体验的游猴插件 - Bilibili Evolved](https://greasyfork.org/zh-CN/scripts/373563-bilibili-evolved)
  - [一个window电脑端的电报软件telegram - telegram 1.5.15](https://www.lanzous.com/i3b7f4f)
+ 
+ # 2020-2-21分享
+## 美句分享
+樱花落下的速度是每秒五厘米， 我该用怎么样的速度，才能与你相遇。
+雨滴降落的速度是每秒十米，我该用怎么样的速度，才能将你挽留。
+陨石坠落的速度是每秒十千米，我该用怎么样的速度，才能将你拯救。
+烟花消散的速度是每秒三亿米，我该用什么样的速度，才能将你追回。
+
+## 今日阅读
+[《惊艳    倪匡》](https://shimo.im/docs/QWjxypDxRjXVPr8r/ )
+
+## 今日演讲
+[年轻人怎么会加入暴力的极端团体](http://open.163.com/newview/movie/free?pid=MERSM3HMF&mid=MERSMLAHE)
+
+## 今日科普
+[重力加速度与缓冲](https://www.bilibili.com/video/av29178114?from=search&seid=898698844197447764)
+
+## 今日推荐
+- [一个在线修仙的网站 - CFantasyClick](https://louisalflame.github.io/CFantasyClick/index.html)
+- [一个开源的VSCode插件，让你能在vscode上划水听音乐 - vsc-netease-music](https://github.com/nondanee/vsc-netease-music)
+- [一个在线能够将网站的地址变成一串Emoji表情的工具 - e.mezw](https://e.mezw.com/)
+- [一个让你在线体验 Windows 93 系统的网站 - windows93](http://www.windows93.net/)
+- [一个在线以将 QR Code 变创意点阵图的网站 - QArt Coder](https://research.swtch.com/qr/draw)
