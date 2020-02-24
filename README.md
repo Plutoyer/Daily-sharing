@@ -350,7 +350,7 @@
  - [一个增强哔哩哔哩Web端体验的游猴插件 - Bilibili Evolved](https://greasyfork.org/zh-CN/scripts/373563-bilibili-evolved)
  - [一个window电脑端的电报软件telegram - telegram 1.5.15](https://www.lanzous.com/i3b7f4f)
  
- # 2020-2-21分享
+# 2020-2-21分享
 ## 美句分享
 樱花落下的速度是每秒五厘米， 我该用怎么样的速度，才能与你相遇。
 雨滴降落的速度是每秒十米，我该用怎么样的速度，才能将你挽留。
@@ -372,3 +372,24 @@
 - [一个在线能够将网站的地址变成一串Emoji表情的工具 - e.mezw](https://e.mezw.com/)
 - [一个让你在线体验 Windows 93 系统的网站 - windows93](http://www.windows93.net/)
 - [一个在线以将 QR Code 变创意点阵图的网站 - QArt Coder](https://research.swtch.com/qr/draw)
+
+# 2020-2-24分享
+## 美句分享
+以前我很害怕得罪人，不敢要求，不敢说错话，怕冷场，怕被忽略，怕对方不高兴，诚惶诚恐的面对所有人。遗憾的是，我并没有得到相应的尊重。后来，我开始宠爱和迁就自己，你迟到我先走，不想做绝不勉强，冷场就玩手机，只顾个人感受，其他人关我屁事。然后发现，我不但被重视，而且更开心了。
+
+## 今日阅读
+[《走钢丝的演员   卡夫卡》](https://shimo.im/docs/qYkhcwwWWRVGkjRR/ )
+
+
+## 今日演讲
+[特斯拉ceo马斯克专访：我们不能等待一个悲惨未来的到来](http://open.163.com/newview/movie/free?pid=MDL11PA3N&mid=MDL11ST57)
+
+## 今日科普
+[NASA立扫帚挑战：地球引力真的会变化吗？](https://www.youtube.com/watch?v=BA2a78k85Go)
+
+## 今日推荐
+- [一个在线妹子图片分享的网站 - porn福利](https://www.pornfuli.com/)
+- [一个在线查询字体版权能商用的网站 - 360查字体](https://fonts.safe.360.cn/)
+- [一个可以轻松快捷的管理和切换多个代理设置的谷歌扩展程序 - Proxy SwitchyOmega](https://proxy-switchyomega.com/)
+- [一个微软Windows/Office原版和其他产品直链下载的网站 - TechBench](https://tb.rg-adguard.net/public.php?lang=zh-CN)
+- [一个可以下载很多国外软件，相当于在线的谷歌应用商店 - apkdl.in](https://apkdl.in/)
