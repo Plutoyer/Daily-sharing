@@ -393,3 +393,23 @@
 - [一个可以轻松快捷的管理和切换多个代理设置的谷歌扩展程序 - Proxy SwitchyOmega](https://proxy-switchyomega.com/)
 - [一个微软Windows/Office原版和其他产品直链下载的网站 - TechBench](https://tb.rg-adguard.net/public.php?lang=zh-CN)
 - [一个可以下载很多国外软件，相当于在线的谷歌应用商店 - apkdl.in](https://apkdl.in/)
+
+# 2020-2-25分享
+## 美句分享
+我一生渴望被人收藏好，妥善安放，细心保存。免我惊，免我苦，免我四下流离，免我无枝可依。 但那人，我知，我一直知，他永不会来。
+
+## 今日阅读
+[《在黑暗中并肩行走   周国平》](https://shimo.im/docs/pTCWJYRJtWtgrvkc/)
+
+## 今日演讲
+[提升自信的技巧](http://open.163.com/newview/movie/free?pid=MBOR278SK&mid=MBP8E2U4J)
+
+## 今日科普
+[中美贸易战，优势理论](https://www.youtube.com/watch?v=nwLqo83iqks&t=205s)
+
+## 今日推荐
+- [一款图像在线编辑工具Photopea（也可以称为在线简版PS） - Photopea](https://www.photopea.com/)
+- [一个需要营养快线供给的论坛网站（永久防屏蔽地址:avcar.vip）](https://avcar.vip/forum.php)
+- [一个演示代码动画示例最简便的方法站 - Glorious Demo](https://github.com/glorious-codes/glorious-demo)
+- [一个在线演示地球从无到有动图演示站点](http://timelineofearth.com/)
+- [一个专门收集整理【免费商用字体】的网站](https://www.100font.com/)
