@@ -413,3 +413,23 @@
 - [一个演示代码动画示例最简便的方法站 - Glorious Demo](https://github.com/glorious-codes/glorious-demo)
 - [一个在线演示地球从无到有动图演示站点](http://timelineofearth.com/)
 - [一个专门收集整理【免费商用字体】的网站](https://www.100font.com/)
+
+# 2020-2-26分享
+## 美句分享
+于浩歌狂热之际中寒，于天上看见深渊，于一切眼中看见无所有，于无所希望中得救。
+
+## 今日阅读
+[《荔枝   肖复兴》](https://shimo.im/docs/kxcwGKXcJTPYvVYj/)
+
+## 今日演讲
+[如何获得好点子？](http://open.163.com/newview/movie/free?pid=MCLBKTON4&mid=MCLBL5GAT)
+
+## 今日科普
+[美国教授提出一元二次方程新解法？你真的会用韦达定理吗？](https://www.bilibili.com/video/av90627255?from=search&seid=15210359367566479833)
+
+## 今日推荐
+- [emojipedia - 可复制 emoji 表情图标搜索引擎](https://emojipedia.org/)
+- [安卓迅雷破解版可下敏感资源](https://www.lanzous.com/i90o35g)
+- [一个多分辨率logo制作工具，可以随机的哦，只需要上传logo图片，它就可以帮你自动生成不同分辨率的图标](https://brandmark.io/logo-crunch/)
+- [一个基于 Canvas 和 WebGL 的在线图像编辑器](https://pixlr.com/x)
+- [起名字工具](https://toolbon.com/tools/giveName)
