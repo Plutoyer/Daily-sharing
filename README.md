@@ -448,8 +448,8 @@
 [输了就加倍下注，能赚钱吗？股票下跌就补仓？李永乐老师讲赌徒谬误](https://www.youtube.com/watch?v=yoOocF47BRI)
 
 ## 今日推荐
-- [使用 React Native 给网站套壳，快速制作套壳 app](https://blog.yux.io/2020/02/03 / 使用 react-native 给网站套壳 /)
 - [Berrycast 是一款非常易用的屏幕录制分享工具，只需要录屏、上传、分享即可](https://www.berrycast.com/)
 - [小论文神器可在一分钟内生成你需要的论文](https://essay.1ts.fun/)
 - [一个将输入文本根据使用字体转化为描边动画的工具](https://oubenruing.github.io/svg-text-animate/tool.html)
 - [一个 Docker 镜像文件的瘦身工具](https://github.com/docker-slim/docker-slim)
+- [一个谷歌上的在线火星地图网站](https://www.google.com/mars/)
