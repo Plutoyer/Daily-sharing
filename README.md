@@ -433,3 +433,23 @@
 - [一个多分辨率logo制作工具，可以随机的哦，只需要上传logo图片，它就可以帮你自动生成不同分辨率的图标](https://brandmark.io/logo-crunch/)
 - [一个基于 Canvas 和 WebGL 的在线图像编辑器](https://pixlr.com/x)
 - [起名字工具](https://toolbon.com/tools/giveName)
+
+# 2020-2-27分享
+## 美句分享
+你知道吗？十八岁的时候，苦闷的年纪。你喜欢的人毫无例外的不喜欢你，喜欢你的人都是傻逼。你似乎觉得自己有那么点才华，但是又不确定。在这灰暗的生活里，只有银幕是发光的。你就拽着银幕投出的光柱，努力爬向光明。我就是这么爱上电影的。
+
+## 今日阅读
+[《裸泳   伊塔洛.卡尔维诺》](https://shimo.im/docs/Yr3CJc3HJtkgDcXx/)
+
+## 今日演讲
+[如何成为一个更好的交谈者?](http://open.163.com/newview/movie/free?pid=MBFLN6BJF&mid=MBFLNJGFE)
+
+## 今日科普
+[输了就加倍下注，能赚钱吗？股票下跌就补仓？李永乐老师讲赌徒谬误](https://www.youtube.com/watch?v=yoOocF47BRI)
+
+## 今日推荐
+- [使用 React Native 给网站套壳，快速制作套壳 app](https://blog.yux.io/2020/02/03 / 使用 react-native 给网站套壳 /)
+- [Berrycast 是一款非常易用的屏幕录制分享工具，只需要录屏、上传、分享即可](https://www.berrycast.com/)
+- [小论文神器可在一分钟内生成你需要的论文](https://essay.1ts.fun/)
+- [一个将输入文本根据使用字体转化为描边动画的工具](https://oubenruing.github.io/svg-text-animate/tool.html)
+- [一个 Docker 镜像文件的瘦身工具](https://github.com/docker-slim/docker-slim)
