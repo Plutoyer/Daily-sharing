@@ -453,3 +453,24 @@
 - [一个将输入文本根据使用字体转化为描边动画的工具](https://oubenruing.github.io/svg-text-animate/tool.html)
 - [一个 Docker 镜像文件的瘦身工具](https://github.com/docker-slim/docker-slim)
 - [一个谷歌上的在线火星地图网站](https://www.google.com/mars/)
+
+# 2020-2-28分享
+## 美句分享
+一份无关紧要的工作是一个危险的陷阱，很多人都会掉进去。想让别人帮你，最好的办法就是你先帮他们，或者去做一些有趣的事。
+致富靠的是权益，而不是工资
+
+## 今日阅读
+[《〈一个人住的第三年〉   周嘉宁》](https://shimo.im/docs/vJHWjRtPd3JpPwGc/)
+
+## 今日演讲
+[战争之后有什么](https://www.ted.com/talks/clemantine_wamariya_war_and_what_comes_after#t-12183)
+
+## 今日科普
+[虫洞解释 - 打破时空](https://www.youtube.com/watch?v=9P6rdqiybaw)
+
+## 今日推荐
+- [一个 Kindle 阅读器的桌面客户端，可以自动同步高亮文本和注释](https://www.lastingpaper.com/)
+- [一个Youtube 的开源前端，等于为 Youtube 换了皮肤，可以自己搭建实例](https://github.com/omarroth/invidious)
+- [一个可以让连接浏览同一网页的人，开启全新的上网体验的网站](http://yiyechat.com/#step-1)
+- [一个以幻灯片的形式展示源码的工具](https://github.com/pomber/code-surfer)
+- [涂鸦王国是中国人气火爆的原创插画师社交平台](https://gracg.com/)
