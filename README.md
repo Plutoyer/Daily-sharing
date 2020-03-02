@@ -474,3 +474,23 @@
 - [一个可以让连接浏览同一网页的人，开启全新的上网体验的网站](http://yiyechat.com/#step-1)
 - [一个以幻灯片的形式展示源码的工具](https://github.com/pomber/code-surfer)
 - [涂鸦王国是中国人气火爆的原创插画师社交平台](https://gracg.com/)
+
+# 2020-3-2分享
+## 美句分享
+于浩歌狂热之际中寒，于天上看见深渊，于一切眼中看见无所有，于无所希望中得救。
+
+## 今日阅读
+[《有病呻吟   林夕》](https://shimo.im/docs/gr8hHRHT3wrP3xWd/)
+
+## 今日演讲
+[我们对慈善的思考是完全错误的](https://www.ted.com/talks/dan_pallotta_the_way_we_think_about_charity_is_dead_wrong?rid=7rhRzm990RTL)
+
+## 今日科普
+[孤独症](https://www.youtube.com/watch?v=n3Xv_g3g-mA)
+
+## 今日推荐
+- [Tixati 是一款 BitTorrent 种子磁力下载工具](https://www.tixati.com/)
+- [一个网站提供免费的远程浏览器，用户可以在本地浏览器里面打开远程浏览器，再通过后者访问网站](https://github.com/dosyago/RemoteView)
+- [一个提供杂志国内热门原版高清电子杂志下载服务](http://gqzzw.com/)
+- [650 个电脑单机游戏含修改器](https://shimo.im/sheets/wkXdHvYxYXcYhcPp/)
+- [一个用户友好、可玩性强的播放器（符合 Unix 哲学的跨平台的音乐播放器）](https://github.com/feeluown/FeelUOwn)
