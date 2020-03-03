@@ -494,3 +494,23 @@
 - [一个提供杂志国内热门原版高清电子杂志下载服务](http://gqzzw.com/)
 - [650 个电脑单机游戏含修改器](https://shimo.im/sheets/wkXdHvYxYXcYhcPp/)
 - [一个用户友好、可玩性强的播放器（符合 Unix 哲学的跨平台的音乐播放器）](https://github.com/feeluown/FeelUOwn)
+
+# 2020-3-3分享
+## 美句分享
+“你知道吗？十八岁的时候，苦闷的年纪。你喜欢的人毫无例外的不喜欢你，喜欢你的人都是傻逼。你似乎觉得自己有那么点才华，但是又不确定。在这灰暗的生活里，只有银幕是发光的。你就拽着银幕投出的光柱，努力爬向光明。我就是这么爱上电影的。”
+
+## 今日阅读
+[《信客   余秋雨》](https://shimo.im/docs/RkQHwCVtrPydjYGC/ )
+
+## 今日演讲
+[what you need to know about stalkerware](https://www.ted.com/talks/eva_galperin_what_you_need_to_know_about_stalkerware)
+
+## 今日科普
+[牛顿在家躲瘟疫时做了什么？红外线温度计啥原理？太阳温度咋测的？](https://www.youtube.com/watch?v=WW5gis6_YRM)
+
+## 今日推荐
+- [画什么最终都会变成鸡儿的网站](https://seoi.net/penint/)
+- [高级音频播放器foobar2000 1.5.2 正式版发布，一款Windows 平台下的高级音频播放器](http://www.foobar2000.org/)
+- [FileZilla Client 3.47.0-rc1 发布，FTP 客户端一种快速、可信赖的 FTP 客户端以及服务器端开源程序，具有多种特色、直观的接口不仅支持 FTP，还支持 FTP over TLS（FTPS）和 SFTP](https://filezilla-project.org/)
+- [电子书合集](https://notepin.co/ebookshare/)
+- [KMS激活服务，slmgr命令激活Windows系统、Office](https://kms.netnr.com/)
