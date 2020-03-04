@@ -514,3 +514,23 @@
 - [FileZilla Client 3.47.0-rc1 发布，FTP 客户端一种快速、可信赖的 FTP 客户端以及服务器端开源程序，具有多种特色、直观的接口不仅支持 FTP，还支持 FTP over TLS（FTPS）和 SFTP](https://filezilla-project.org/)
 - [电子书合集](https://notepin.co/ebookshare/)
 - [KMS激活服务，slmgr命令激活Windows系统、Office](https://kms.netnr.com/)
+
+# 2020-3-4分享
+## 美句分享
+知交零落实是人生常态，能够偶尔话起，而心中仍然温柔，就是好朋友。
+
+## 今日阅读
+[《怎么跌得有尊严 》 龙应台](https://shimo.im/docs/6vVjvTQVgqhHtkQg/)
+
+## 今日演讲
+[A personal plea for humanity at the US-Mexico border](https://www.ted.com/talks/juan_enriquez_a_personal_plea_for_humanity_at_the_us_mexico_border?rid=yAxGEHCfC7d5)
+
+## 今日科普
+[所谓“真实”真的真实？](https://www.youtube.com/watch?v=tlTKTTt47WE)
+
+## 今日推荐
+- [一个 Node.js 模块，用于 PNG 图片的解码和编码。](https://github.com/vivaxy/png)
+- [一个技术文档网站的服务端，适合展示团队的技术文档、API 文档。](https://github.com/star7th/showdoc)
+- [一个在线可以取名字的工具](https://toolbon.com/tools/giveName)
+- [一个在线的声调训练的网站](https://mandarintonetrainer.com/games)
+- [一个提供成人用户脚本的网站。](https://sleazyfork.org/zh-CN)
