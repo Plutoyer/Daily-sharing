@@ -534,3 +534,23 @@
 - [一个在线可以取名字的工具](https://toolbon.com/tools/giveName)
 - [一个在线的声调训练的网站](https://mandarintonetrainer.com/games)
 - [一个提供成人用户脚本的网站。](https://sleazyfork.org/zh-CN)
+
+# 2020-3-5分享
+## 美句分享
+我很为难。因为我并不曾读过什么书，不知道如何来说明我的为人以及对先生的希望。
+
+## 今日阅读
+[《下雨天    林夕》](https://shimo.im/docs/g6TPTHh8xkyykq9d/)
+
+## 今日演讲
+[Art that reveals how technology frames reality](https://www.ted.com/talks/jiabao_li_art_that_reveals_how_technology_frames_reality)
+
+## 今日科普
+[为什么蓝鲸不会得癌症 - 佩托悖论](https://www.youtube.com/watch?v=1AElONvi9WQ)
+
+## 今日推荐
+- [一个开源的短链接生成器](https://github.com/thedevs-network/kutt)
+- [一个将低分辨率图片增强为高分辨率的工具，可以将分辨率增加4倍（即长和宽各增加一倍）](https://pichance.com/)
+- [据说是Android上最好的种子搜索客戶端，专注于最简单，最方便，最强大的种子搜索客戶端!](https://www.lanzous.com/i5e9lwb)
+- [番号神器 破解无敌版](https://www.lanzous.com/i9huplc)
+- [Internet Download Manager 6.36.7 中文特别版(IDM)不反弹](https://www.lanzous.com/b134572/)
