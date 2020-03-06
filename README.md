@@ -554,3 +554,23 @@
 - [据说是Android上最好的种子搜索客戶端，专注于最简单，最方便，最强大的种子搜索客戶端!](https://www.lanzous.com/i5e9lwb)
 - [番号神器 破解无敌版](https://www.lanzous.com/i9huplc)
 - [Internet Download Manager 6.36.7 中文特别版(IDM)不反弹](https://www.lanzous.com/b134572/)
+
+# 2020-3-6分享
+## 美句分享
+人们宁愿去关心一个蹩脚电影演员的吃喝拉撒和鸡毛蒜皮，而不愿了解一个普通人波涛汹涌的内心世界。
+
+## 今日阅读
+[《你永远有做不完的事   理查德.卡尔森》](https://shimo.im/docs/rpK6GVrRDJD6gJrk/)
+
+## 今日演讲
+[six space technologies we can use to improve life on Earth](https://www.ted.com/talks/danielle_wood_6_space_technologies_we_can_use_to_improve_life_on_earth)
+
+## 今日科普
+[如何从超新星逃离：恒星发动机](https://www.youtube.com/watch?v=v3y8AIEX_dU)
+
+## 今日推荐
+- [pixiv桌面客户端，不用破冰，还可以下载图片](https://github.com/Rinacm/Pixeval)
+- [番号神器](https://www.lanzous.com/i9ngyif)
+- [一个自己架设的网址书签服务](https://github.com/sissbruecker/linkding)
+- [一个数码照片的后期处理软件，可以视作 Lightroom 的开源版](https://www.darktable.org/)
+- [一个优秀盗版书籍引擎](https://book.tstrs.me/)
