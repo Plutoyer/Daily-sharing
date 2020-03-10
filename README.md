@@ -574,3 +574,24 @@
 - [一个自己架设的网址书签服务](https://github.com/sissbruecker/linkding)
 - [一个数码照片的后期处理软件，可以视作 Lightroom 的开源版](https://www.darktable.org/)
 - [一个优秀盗版书籍引擎](https://book.tstrs.me/)
+
+# 2020-3-10分享
+## 美句分享
+我们坐在夜里，喝了几杯，上半夜没有月亮，所 以也没有情话。即使在黑夜里，我也看得清这一切，你欲言又止，我也没有再说。后来就散了。自律和克制没能带给我自由，却给了我更明媚的清晨。
+
+## 今日阅读
+[《〈爱因斯坦的梦〉--阿兰.莱特曼》](https://shimo.im/docs/RV6KRwD9QTD3xyY8/)
+
+
+## 今日演讲
+[What we do (and dont) know about the coronavirus](https://www.ted.com/talks/david_heymann_what_we_do_and_don_t_know_about_the_coronavirus)
+
+## 今日科普
+[黑洞为何会删除宇宙-信息悖论](https://www.youtube.com/watch?v=yWO-cvGETRQ)
+
+## 今日推荐
+- [文件管理工具，共享软件](http://xbeta.info/tc/index.htm)
+- [优秀免费的卸载工具 GeekUninstaller](https://geekuninstaller.com/)
+- [免代理浏览/下载Pixiv图片，ACG爱好者福利，三款支持免代理直连及查看动图的第三方Pixiv客户端](https://github.com/Rinacm/Pixeval)
+- [Avgle 网页下载插件](https://github.com/download-online-video/chrome-avgle-helper)
+- [AI 人脸识别，主要针对的是日本的动作片查询。](https://xslist.org/zh)
