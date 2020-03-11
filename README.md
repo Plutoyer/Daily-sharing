@@ -595,3 +595,23 @@
 - [免代理浏览/下载Pixiv图片，ACG爱好者福利，三款支持免代理直连及查看动图的第三方Pixiv客户端](https://github.com/Rinacm/Pixeval)
 - [Avgle 网页下载插件](https://github.com/download-online-video/chrome-avgle-helper)
 - [AI 人脸识别，主要针对的是日本的动作片查询。](https://xslist.org/zh)
+
+# 2020-3-11分享
+## 美句分享
+我很为难。因为我并不曾读过什么书，不知道如何来说明我的为人以及对先生的希望。
+
+## 今日阅读
+[《说给自己听   三毛》](https://shimo.im/docs/YkpDpgpwTXcQ3DjC/)
+
+## 今日演讲
+[How women are revolutionizing Rwanda](https://www.ted.com/talks/agnes_binagwaho_how_women_are_revolutionizing_rwanda?rid=1sc9TcOdKZfS)
+
+## 今日科普
+[复工复产找工作？先来看看这道面试题：双蛋问题](https://www.youtube.com/watch?v=mLV_vOet0ss)
+
+## 今日推荐
+- [i-Book.in 是一款仅索引电子书的搜索引擎](https://book.tstrs.me/)
+- [一个数码照片管理的跨平台桌面软件](https://www.digikam.org/)
+- [自动删除 PC 端微信自动下载的大量文件、视频、图片等数据内容，解放你的空间，该工具不会删除文字的聊天记录，请放心使用](https://github.com/blackboxo/AutoDeleteFileOnPCWechat)
+- [简单易懂的V2ray用戶使用教程](https://book.v2rayx.org/index.html)
+- [JavBus and JabLibrary android app](https://github.com/gentlemansolo/JavbuslibraryRealse/releases)
