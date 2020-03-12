@@ -615,3 +615,23 @@
 - [自动删除 PC 端微信自动下载的大量文件、视频、图片等数据内容，解放你的空间，该工具不会删除文字的聊天记录，请放心使用](https://github.com/blackboxo/AutoDeleteFileOnPCWechat)
 - [简单易懂的V2ray用戶使用教程](https://book.v2rayx.org/index.html)
 - [JavBus and JabLibrary android app](https://github.com/gentlemansolo/JavbuslibraryRealse/releases)
+
+# 2020-3-12分享
+## 美句分享
+如果有人爱上了一朵花，天上的星星有亿万颗，而这只花只长在其中一颗上，这足以让他在仰望星空时感到很快乐。他会告诉自己：在星空的某处有我的花。但如果绵羊把花吃掉了，对他来说就等于所有星星都熄灭了。
+
+## 今日阅读
+[《谁也看不见的阳台   安房直子》](https://shimo.im/docs/PdYvpcydckYYpq39/)
+
+## 今日演讲
+[How we need to remake the intenet](https://www.ted.com/talks/jaron_lanier_how_we_need_to_remake_the_internet?rid=ziCxjH2JqAdj)
+
+## 今日科普
+[如果我们一次引爆所有核弹会发生什么？](https://www.youtube.com/watch?v=JyECrGp-Sw8)
+
+## 今日推荐
+- [数学乐：易懂有趣的方法来演示数学，因为我们觉得数学是富有乐趣的](https://www.shuxuele.com/)
+- [国内可用的谷歌浏览器应用商店](https://www.gugeapps.net)
+- [问题库收录了计算机等级考试、驾照考试题等相关问题与答案](https://questionlib.net/index.html)
+- [一个开源的视频直播平台，可以用来搭建自己的直播网站](https://gitlab.com/Deamos/flask-nginx-rtmp-manager)
+- [一套开源图标，有1500多个，支持 SVG、PNG、Webfonts 多种格式](https://github.com/coreui/coreui-icons/blob/1.0.0/README.md)
