@@ -635,3 +635,23 @@
 - [问题库收录了计算机等级考试、驾照考试题等相关问题与答案](https://questionlib.net/index.html)
 - [一个开源的视频直播平台，可以用来搭建自己的直播网站](https://gitlab.com/Deamos/flask-nginx-rtmp-manager)
 - [一套开源图标，有1500多个，支持 SVG、PNG、Webfonts 多种格式](https://github.com/coreui/coreui-icons/blob/1.0.0/README.md)
+
+# 2020-3-13分享
+## 美句分享
+人有两条路可以走，一条是必须走的，一条是想走的。你要把必须走的路走漂亮了，才可以走想走的路。
+
+## 今日阅读
+[《唐人来自何处   梁实秋》](https://shimo.im/docs/ddrQXYpY6W9qGXhc/)
+
+## 今日演讲
+[The dangers of a noisy ocean--and how we can quiet it down](https://www.ted.com/talks/nicola_jones_the_dangers_of_a_noisy_ocean_and_how_we_can_quiet_it_down)
+
+## 今日科普
+[美股一周两次熔断！中美股民谁更赚钱？股票指数是什么？](https://www.youtube.com/watch?v=GWi_4eeDdeU)
+
+## 今日推荐
+- [一个不错的在线音乐网站，网易云音乐 & QQ音乐 & 咪咕音乐 第三方 web端 (可播放 vip、下架歌曲)](http://music.jsososo.com/#/)
+- [网易云音乐-解锁网易云音乐客户端变灰歌曲](https://github.com/YunxiuXu/Virus-School)
+- [利用GitHub Gists来记笔记](https://usememo.com/)
+- [一个 Python 实现的命令行查看天气工具](https://github.com/chubin/wttr.in)
+- [米酷随机抖音、快手短视频](https://sv.ismicool.cn)
