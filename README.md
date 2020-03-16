@@ -655,3 +655,29 @@
 - [利用GitHub Gists来记笔记](https://usememo.com/)
 - [一个 Python 实现的命令行查看天气工具](https://github.com/chubin/wttr.in)
 - [米酷随机抖音、快手短视频](https://sv.ismicool.cn)
+
+# 2020-3-16分享
+## 美句分享
+分手都喜欢用这6个理由分手：
+1.我还忘不了Ta
+2.我们不太合适
+3.我配不上你，你值得更好的
+4.我们之间没有未来
+5.我妈不喜欢你
+6.我给不了你想要的生活
+
+## 今日阅读
+[《论知识贩卖所的伙计   梁遇春》](https://shimo.im/docs/3C8D8CKjHdKjkVyv/)
+
+## 今日演讲
+[The secret to great opportunities? The person you haven't met yet](https://www.ted.com/talks/tanya_menon_the_secret_to_great_opportunities_the_person_you_haven_t_met_yet)
+
+## 今日科普
+[经济学原理沉没成本](https://youtu.be/IUDIz1WwBXg)
+
+## 今日推荐
+- [一个支持免代理直连及查看动图的 Pixiv 安卓 app](https://github.com/Notsfsssf/Pix-EzViewer)
+- [看小姐姐：一个专门看小姐姐的图片网站](https://www.kanxiaojiejie.com/)
+- [微信读书水墨屏版](https://ink.weread.qq.com/)
+- [网页版灰度测试体验，PanDownload内置的强大搜索引擎，方便大家随时随地获取资源，正式上线网页版](https://www.dupanso.com/#/index)
+- [软件库软件阁线报软件基地](https://www.lanzous.com/b244238)
