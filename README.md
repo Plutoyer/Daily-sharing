@@ -681,3 +681,33 @@
 - [微信读书水墨屏版](https://ink.weread.qq.com/)
 - [网页版灰度测试体验，PanDownload内置的强大搜索引擎，方便大家随时随地获取资源，正式上线网页版](https://www.dupanso.com/#/index)
 - [软件库软件阁线报软件基地](https://www.lanzous.com/b244238)
+
+# 2020-3-17分享
+## 美句分享
+『人生五个三』
+三个遗憾：
+不会选择；不会坚持选择；不断的选择
+三个不斗：
+不与君子斗名；不与小人斗利；不与天地斗巧
+三个修炼：
+看得透想得开；拿得起放得下；立得正行的稳
+三个陷阱：
+大意、轻信、贪婪
+三个悲哀：
+遇良师不学；遇良友不交；遇良机不握
+
+## 今日阅读
+[《一个国家，两个世界   余华》](https://shimo.im/docs/y3wxcJYGYTD6cc3D/)
+
+## 今日演讲
+[What‘s  the  difference between accuracy and precision](https://www.ted.com/talks/matt_anticole_what_s_the_difference_between_accuracy_and_precision?rid=NPsmwPqOtinR)
+
+## 今日科普
+[中子星–除黑洞外最异乎寻常的事物](https://www.youtube.com/watch?v=udFxKZRyQt4)
+
+## 今日推荐
+- [看看您是否也处于数据外泄事件之中，看看黑客已经掌握了您哪些资料，并了解如何先发制人](https://monitor.firefox.com/)
+- [俄国大神版Internet Download Manager（IDM）](https://www.lanzous.com/b00t4x86b)
+- [教长辈使用智能手机视频教程（教程简单易懂）](https://pan.baidu.com/s/1BGD7Bk2ogO5ztNdlQw5VSQ) 提取码:htjj
+- [「最全 B 站学习资源大整理」共计 58950 个视频](https://pan.baidu.com/s/12XcEH-kkWzHzcKyP46eSTw) 提取码:bt1d
+- [iOS 任意版本号 APP 下载 v3.0](https://pan.baidu.com/s/1pQbk5HWj_sDKTkRY9u4N0Q) 提取码：2abz
