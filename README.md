@@ -711,3 +711,29 @@
 - [教长辈使用智能手机视频教程（教程简单易懂）](https://pan.baidu.com/s/1BGD7Bk2ogO5ztNdlQw5VSQ) 提取码:htjj
 - [「最全 B 站学习资源大整理」共计 58950 个视频](https://pan.baidu.com/s/12XcEH-kkWzHzcKyP46eSTw) 提取码:bt1d
 - [iOS 任意版本号 APP 下载 v3.0](https://pan.baidu.com/s/1pQbk5HWj_sDKTkRY9u4N0Q) 提取码：2abz
+
+# 2020-3-18分享
+## 美句分享
+自我管理的6个好习惯   
+1、作息规律，身体健康是一切的前提条件   
+2、坚持读书，读书会潜移默化地改变你   
+3、控制情绪，学会做情绪的主人   
+4、有时间观念，从现在开始合理规划时间   
+5、时常反思自己，人生就是在一次次反思中变得日益完满   
+6、坚定梦想，并朝着这个方向努力，你会得到意想不到的惊喜
+
+## 今日阅读
+[《人话   朱自清》](https://shimo.im/docs/xP9kPJXQt6YVhgVR/)
+
+## 今日演讲
+[Watson Jeopardy and me ，the obsolete know It all](https://www.ted.com/talks/ken_jennings_watson_jeopardy_and_me_the_obsolete_know_it_all)
+
+## 今日科普
+[“群体免疫”能遏制新冠肺炎蔓延吗？制胜法宝【疫苗】已经进入临床试验](https://www.youtube.com/watch?v=JMEY-obUvmw)
+
+## 今日推荐
+- [HappyMod 是一个特殊的安卓 apk 应用市场，主要提供一些破解游戏直装版等。](https://www.lanzous.com/i9y6dah)
+- [安卓全网音乐无损下载 app](https://www.lanzous.com/i9pjhvg)
+- [屏幕，摄像头和白板录像机与集成编辑器](https://www.screentogif.com/?l=zh_cn)
+- [Argon – 一个轻盈、简洁、美观的 WordPress 主题，使用 Argon Design System 前端框架，轻盈美观](https://github.com/solstice23/argon-theme)
+- [基于 ipfs 的在线剪贴板](https://ipfs.ink/)
