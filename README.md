@@ -737,3 +737,23 @@
 - [屏幕，摄像头和白板录像机与集成编辑器](https://www.screentogif.com/?l=zh_cn)
 - [Argon – 一个轻盈、简洁、美观的 WordPress 主题，使用 Argon Design System 前端框架，轻盈美观](https://github.com/solstice23/argon-theme)
 - [基于 ipfs 的在线剪贴板](https://ipfs.ink/)
+
+# 2020-3-19分享
+## 美句分享
+我一个人坐在角落里，但这里也有光芒。 是正午的磅礴大气在照亮我，一万种不适在我体内赛跑，应挺立着身子，更端庄。 甚至能摸到他的良心……他是宽厚，他是河流， 他是最标准的好，是不敢承认的渴望。 我曾经以为一切都是不值得的，但他是正午的神像，张开手掌收留了悲哀的生命。
+
+## 今日阅读
+[《杰德.彼得斯的运气   詹姆斯.瑟伯》](https://shimo.im/docs/R9kRrXW3WdtTVWd6/)
+
+## 今日演讲
+[How wu need to remake the intenet](https://www.ted.com/talks/jaron_lanier_how_we_need_to_remake_the_internet?rid=ziCxjH2JqAdj)
+
+## 今日科普
+[宇宙中最危险的东西 - 奇怪的星星](https://www.youtube.com/watch?v=p_8yK2kmxoo&pbjreload=10)
+
+## 今日推荐
+- [一个不错的在线工具网站](https://zh.pickfrom.net/)
+- [每日更新全网口罩预约抢购信息](https://qiangkouzhao.com/)
+- [一个收费韩国漫画破解软件 ](https://github.com/nrop19/weiman_app)
+- [一个针对加密学的免费学习网站](https://learning.nervos.org/)
+- [一款全平台全设备免费投屏软件](https://letsview.com/zh/)
