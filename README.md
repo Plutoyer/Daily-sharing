@@ -757,3 +757,23 @@
 - [一个收费韩国漫画破解软件 ](https://github.com/nrop19/weiman_app)
 - [一个针对加密学的免费学习网站](https://learning.nervos.org/)
 - [一款全平台全设备免费投屏软件](https://letsview.com/zh/)
+
+# 2020-3-20分享
+## 美句分享
+无须绝望，也无须为你不绝望而绝望，在似乎穷途末路之际，总会产生新的力量，这恰恰意味着我们依旧活着。
+
+## 今日阅读
+[《难忘的八个字   玛丽.安.伯德》](https://shimo.im/docs/tyhcT8gTQJ3X9r8h/)
+
+## 今日演讲
+[你有拖延症吗? 续篇](http://open.163.com/newview/movie/free?pid=MBKJF3H00&mid=MBKJGU197)
+
+## 今日科普
+[我们到底为什么要做一个诚信的人？](https://www.bilibili.com/video/av95872350)
+
+## 今日推荐
+- [一个中国妖怪百集喜欢“怪力乱神”的读者可以看一眼](http://www.cbaigui.com/)
+- [一个专注于为 Web 开发者提供免费在线工具的网站](https://tiny-helpers.dev/)
+- [实时把麦克风声音翻译为字幕，翻译系统声音为字幕(如来自你看的网络电影, 仅支持部分应用, 见使用说明)](http://www.caiyunapp.com/interpretation/)
+- [美国的疫情，推荐看这个网站](https://coronavirus.1point3acres.com/zh)
+- [mjhz 上千个实用网站书签](https://shimo.im/docs/8grG6yRtG3HTrRcy/read)
