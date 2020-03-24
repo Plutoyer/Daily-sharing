@@ -777,3 +777,37 @@
 - [实时把麦克风声音翻译为字幕，翻译系统声音为字幕(如来自你看的网络电影, 仅支持部分应用, 见使用说明)](http://www.caiyunapp.com/interpretation/)
 - [美国的疫情，推荐看这个网站](https://coronavirus.1point3acres.com/zh)
 - [mjhz 上千个实用网站书签](https://shimo.im/docs/8grG6yRtG3HTrRcy/read)
+
+# 2020-3-24分享
+## 美句分享
+每做一件事，必须以「投资」的心态，去计算自己的得失
+如果是因为习惯而做的事，一旦意识到，马上停止，回到「投资」心态，重新调整
+坚持一段时间，看看自己会有什么样的收获
+现在互联网信息流，游戏热充斥着我们多余的富余时间
+努力改掉了「刷APP信息流」的习惯
+当你有动力想要改变的时候，不得不要努力去寻找改变自己的方法
+现在想改变自己的某个习惯还是需要很多努力求实施坚持
+努力「说服」自己，再不有所改变就可能真的就这样了
+可以清晰的认识到自己以后自己想要怎么样的生活
+再不努力可能我们就老了，不要等到清醒的时候才回想过去
+不要专注于某个特定思维，稍微改变一下，看看自己会有什么改变
+就比如：公车上地铁上，你拿手机放手机的习惯
+每天上班下班本就是一线之间，如果想想怎么投资自己，争取改变
+面对想要改正的习惯，你想要的做的是，这个习惯会对我产生什么样的改变
+时间是不等人的，确定了一件事，就不能拖拖拉拉的，世上没有后悔药哦
+
+## 今日阅读
+[《情债肉偿   张小娴》](https://shimo.im/docs/qccwYXhYQPGdTcVY/ )
+
+## 今日演讲
+[休假的力量](http://open.163.com/newview/movie/free?pid=M7E3OH3EG&mid=M7E3P206F)
+
+## 今日科普
+[新型冠状病毒 及 你应该怎么做](https://www.youtube.com/watch?v=BtN-goy9VOY)
+
+## 今日推荐
+- [支持多人合作的：画板工具](https://draw.kejun.me/)
+- [图片质量还可以的图床](https://img.fghrsh.net/explore/popular/?list=images&sort=likes_desc&page=4&seek=4.jSZgG)
+- [注释任何网页](https://via.hypothes.is/)
+- [一个可以去除人声，制作成纯音乐的在线网站](https://www.edityouraudio.com/vocal-remover)
+- [私房写真摄影全套资源包，情而不色！私房写真摄影教程+1100张摆资样片全套资源包   9zeb](pan.baidu.com/s/1-AmZgYwm3KE8bF4nRp-qcA)
