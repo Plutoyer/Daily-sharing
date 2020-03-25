@@ -17,6 +17,8 @@
 - [用颜色选择专辑的网站](http://predominant.ly/vibrant-purple)
 - [tachiyomi 安卓最好用的漫画软件](https://tachiyomi.org/)
 
+![image](https://github.com/Plutoyer/Daily-sharing/blob/master/IMAGE/wallhavenwallhaven-2e2dqx.png)
+
 # 2020-1-13分享
 ## 美句分享：
 很多人暗地里都对我有非议，说我圆滑，说我世故。可是我只知道一件事，如果我自己不保护自己，这个世界上就没有人会保护我。——独木舟《深海里的星星》
