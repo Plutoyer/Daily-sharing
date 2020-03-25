@@ -797,3 +797,23 @@
 - [注释任何网页](https://via.hypothes.is/)
 - [一个可以去除人声，制作成纯音乐的在线网站](https://www.edityouraudio.com/vocal-remover)
 - [私房写真摄影全套资源包，情而不色！私房写真摄影教程+1100张摆资样片全套资源包   9zeb](pan.baidu.com/s/1-AmZgYwm3KE8bF4nRp-qcA)
+
+# 2020-3-25分享
+## 美句分享
+获得真正自由的方法是要学会自我控制，如果情绪总是处于失控状态，就会被感情牵着鼻子走，丧失自由，所以那些精神自由，保持独立思考的人也正是擅长于控制自己情绪的人。
+
+## 今日阅读
+[《晨归   伊达洛.卡尔维诺》](https://shimo.im/docs/VhyxQR6W8vRRGPhv/)
+
+## 今日演讲
+[时间的心理学](http://open.163.com/newview/movie/free?pid=MDQ17QFF3&mid=MDQ17TBSB)
+
+## 今日科普
+[Aliens under the Ice – Life on Rogue Planets](https://www.youtube.com/watch?v=M7CkdB5z9PY)
+
+## 今日推荐
+- [电子作业与在线考试系统 -虐小孩神器，包含小学，初中，高中，大学，基本囊括从小学各学科到大学各专业全国各地能搜集到的试卷](https://www.examcoo.com/index/detail/mid/1/)
+- [周边公交通向哪里](https://bus.daibor.com/)
+- [一款自动组队、导出笔记、听书的微信读书插件](https://chrome.google.com/webstore/detail/%E5%BE%AE%E4%BF%A1%E8%AF%BB%E4%B9%A6%E5%8A%A9%E6%89%8B/ekpegdfbihlbocepglfimeodnpiohcba)
+- [记忆中的QQ头像，QQ经典头像高清版本（已打包，下载地址看下面）](https://www.lanzous.com/ia58rfa)
+- [一个在线压缩图片的免费网站，甚至可以离线运行，支持 jpg/png/jpeg/ico 格式图片，不限制上传大小，自定义同时进行压缩处理的图片数量，自定义目标文件大小](https://tool.tanpok.com/#/)
