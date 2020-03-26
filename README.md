@@ -819,3 +819,24 @@
 - [一款自动组队、导出笔记、听书的微信读书插件](https://chrome.google.com/webstore/detail/%E5%BE%AE%E4%BF%A1%E8%AF%BB%E4%B9%A6%E5%8A%A9%E6%89%8B/ekpegdfbihlbocepglfimeodnpiohcba)
 - [记忆中的QQ头像，QQ经典头像高清版本（已打包，下载地址看下面）](https://www.lanzous.com/ia58rfa)
 - [一个在线压缩图片的免费网站，甚至可以离线运行，支持 jpg/png/jpeg/ico 格式图片，不限制上传大小，自定义同时进行压缩处理的图片数量，自定义目标文件大小](https://tool.tanpok.com/#/)
+
+# 2020-3-26分享
+## 美句分享
+生命中许多吉光片羽，无从名之，难以归类，也构成不了什么重要意义，但它们就是在我心中萦绕不去。
+
+## 今日阅读
+[《我为什么不看电视   李敖》](https://shimo.im/docs/KYyVGRrvt8wpYC8T/)
+
+## 今日演讲
+[提升倾听能力的5个技巧](http://open.163.com/newview/movie/free?pid=MDLBRHG4F&mid=MDLBSUG62)
+
+## 今日科普
+[How to Build a Dyson Sphere - The Ultimate Megastructure](https://www.youtube.com/watch?v=pP44EPBMb8A)
+
+## 今日推荐
+- [谷歌提供的账户导出服务，可以导出该账户下的所有数据。例如将谷歌相册照片快速迁移到 iCloud 中，可以利用谷歌导出将谷歌相册图片进行云端压缩，可以节省很多时间。](https://takeout.google.com/?pli=1)
+- [爱奇艺出品的 GIF 图片分享网站](http://ijinguo.iqiyi.com/)
+- [Pixiv 图片反向代理](https://pixiv.cat/)
+- [一个巨人网上博物馆，里面有16万多幅世界著名画家名画，可以说是资深大师在互联网上最完整的收藏品之一](https://gallerix.asia/)
+- [一个日本浮世绘风格画作，可切换翻译，喜欢的朋友们不要错过](https://ukiyo-e.org/)
+![image](https://github.com/Plutoyer/Daily-sharing/blob/master/IMAGE/wallhavenwallhaven-2e2exx.jpg)
