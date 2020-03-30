@@ -841,3 +841,25 @@
 - [一个日本浮世绘风格画作，可切换翻译，喜欢的朋友们不要错过](https://ukiyo-e.org/)
 
 ![image](https://github.com/Plutoyer/Daily-sharing/blob/master/IMAGE/wallhavenwallhaven-2e2exx.jpg)
+
+# 2020-3-30分享
+## 美句分享
+我们每个人生在世界上都是孤独的。每个人都被囚禁在一座铁塔里，只能靠一些符号同别人传达自己的思想；而这些符号并没有共同的价值，因此它们的意义是模糊的，不确定的。我们非常可怜地想把自己心中的财富传递给别人，但是他们却没有接受这些财富的能力。因此我们只能孤独地行走，尽管身体互相依傍却并不在一起，即不了解别人也不能为别人所了解。
+
+## 今日阅读
+[《生活员   亦舒》](https://shimo.im/docs/Ghh9TtQpcrxx8kXp/ )
+
+## 今日演讲
+[我是如何战胜怯场的](http://open.163.com/newview/movie/free?pid=M9PGGABAT&mid=M9PJL7Q41)
+
+## 今日科普
+[罗翔说刑法  养的狗咬了人，主人要坐牢么？？](https://www.bilibili.com/video/BV1CE411A7hE)
+
+## 今日推荐
+- [快速生成 GitHub 项目简介图片卡](https://github.com/zerosoul/github-social-image-generator)
+- [一个虚拟信用卡工具，可以基于你的信用卡生成多张虚拟信用卡](https://privacy.com/)
+- [一键生成样机效果图软件](https://www.mokupframes.com/download/)
+- [全网最全iPhone使用技巧，赶紧收藏](https://mp.weixin.qq.com/s/jAtG-8Nafiz_C8LOTuCHCg)
+- [16型人格检测，得到一个具体而准确的对自己的描述，了解你行事方式背后的原因。](https://www.16personalities.com/ch)
+
+![image](https://github.com/Plutoyer/Daily-sharing/blob/master/IMAGE/wallhavenwallhaven-2ejrwm.jpg)
