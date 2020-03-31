@@ -863,3 +863,24 @@
 - [16型人格检测，得到一个具体而准确的对自己的描述，了解你行事方式背后的原因。](https://www.16personalities.com/ch)
 
 ![image](https://github.com/Plutoyer/Daily-sharing/blob/master/IMAGE/wallhavenwallhaven-2ejrwm.jpg)
+
+## 美句分享
+当你老了，回顾一生，就会发觉：什么时候出国读书、什么时候决定做第一份职业、何时选定了对象而恋爱、什么时候结婚，其实都是命运的巨变。只是当时站在三岔路口，眼见风云千樯，你作出抉择的那一日，在日记上，相当沉闷和平凡，当时还以为是生命中普通的一天。
+
+## 今日阅读
+[《青春   亦舒》](https://shimo.im/docs/ycTX9pq6YrrW6J6c/)
+
+## 今日演讲
+[埃莉诺·朗登: 内心的喧哗](http://open.163.com/newview/movie/free?pid=M9LNHT8KN&mid=M9M1LA76V)
+
+## 今日科普
+[韩国N号房事件的罪与罚](https://www.bilibili.com/video/BV1X7411y7Kv)
+
+## 今日推荐
+- [批量图片处理工具](https://bench.tanpok.com/#/)
+- [把你手机变成无线鼠标 / 键盘 / 触摸板的应用](http://yx.bsh.me/27140.html)
+- [画质和速度还可以的影视 app，支持安卓苹果，美剧星球](http://meijuxingqiu.com/h5/download)
+- [三百个矢量免费冠状病毒防疫图标，可以做设计用，Free icons for coronavirus awareness](https://www.iconfinder.com/p/coronavirus-awareness-icons)
+- [微软推出了一个基于搜索引擎 Bing 的全球冠状病毒追踪器，用于跟踪全球范围内的新冠病毒疫情变化](https://bing.com/covid)
+
+![image](https://github.com/Plutoyer/Daily-sharing/blob/master/IMAGE/wallhavenwallhaven-2ejpry.png)
