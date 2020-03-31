@@ -883,4 +883,4 @@
 - [三百个矢量免费冠状病毒防疫图标，可以做设计用，Free icons for coronavirus awareness](https://www.iconfinder.com/p/coronavirus-awareness-icons)
 - [微软推出了一个基于搜索引擎 Bing 的全球冠状病毒追踪器，用于跟踪全球范围内的新冠病毒疫情变化](https://bing.com/covid)
 
-![image](https://github.com/Plutoyer/Daily-sharing/blob/master/IMAGE/wallhavenwallhaven-2ejpry.png)
+![image](https://ae01.alicdn.com/kf/Uc81087fe07be4592968735ee5d07327ba.jpg)
