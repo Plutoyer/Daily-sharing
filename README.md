@@ -864,6 +864,7 @@
 
 ![image](https://github.com/Plutoyer/Daily-sharing/blob/master/IMAGE/wallhavenwallhaven-2ejrwm.jpg)
 
+# 2020-3-31分享
 ## 美句分享
 当你老了，回顾一生，就会发觉：什么时候出国读书、什么时候决定做第一份职业、何时选定了对象而恋爱、什么时候结婚，其实都是命运的巨变。只是当时站在三岔路口，眼见风云千樯，你作出抉择的那一日，在日记上，相当沉闷和平凡，当时还以为是生命中普通的一天。
 
@@ -884,3 +885,25 @@
 - [微软推出了一个基于搜索引擎 Bing 的全球冠状病毒追踪器，用于跟踪全球范围内的新冠病毒疫情变化](https://bing.com/covid)
 
 ![image](https://ae01.alicdn.com/kf/Uc81087fe07be4592968735ee5d07327ba.jpg)
+
+# 2020-4-1分享
+## 美句分享
+一个理智的人应该改变自己去适应环境，只有那些不理智的人，才会想去改变环境适应自己。但历史是后一种人创造的。
+
+## 今日阅读
+[《等待   太宰治》](https://shimo.im/docs/T3pWyPvD8dcwd6Kv/)
+
+## 今日演讲
+[《打破坏习惯的简单方法——冥想》](https://www.ted.com/talks/judson_brewer_a_simple_way_to_break_a_bad_habit)
+
+## 今日科普
+[愚人节与虚假消息](https://www.bilibili.com/video/BV1uc411h7iC?from=search&seid=12980721091653614301)
+
+## 今日推荐
+- [如何快速查看自己的DNS是否被运营商通过53端口劫持，网易有个在线DNS检测工具](http://nstool.netease.com/)
+- [安卓磁力链接搜索](https://www.52pojie.cn/thread-1108095-1-1.html)
+- [文章同步助手 ：一个谷歌浏览器扩展，自媒体文章同步工具，同时发布多个平台。](https://www.wechatsync.com/)
+- [Vim 入门教程 & 指南](https://starrycat.me/vim-tutorial-guide.html)
+- [一个百度网盘资源挺多的论坛](http://www.chenf.net/forum-44-1.html)
+
+![image](https://imgchr.com/i/G3RtBR)
