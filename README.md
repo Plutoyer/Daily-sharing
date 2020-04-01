@@ -906,4 +906,4 @@
 - [Vim 入门教程 & 指南](https://starrycat.me/vim-tutorial-guide.html)
 - [一个百度网盘资源挺多的论坛](http://www.chenf.net/forum-44-1.html)
 
-![image](https://imgchr.com/i/G3RtBR)
+![image](https://ae01.alicdn.com/kf/Udae4bbd8125a4432b269a607b1b5402dT.jpg)
