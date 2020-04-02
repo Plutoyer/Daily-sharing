@@ -907,3 +907,25 @@
 - [一个百度网盘资源挺多的论坛](http://www.chenf.net/forum-44-1.html)
 
 ![image](https://ae01.alicdn.com/kf/Udae4bbd8125a4432b269a607b1b5402dT.jpg)
+
+# 2020-4-2分享
+## 美句分享
+哪怕你现在不够好 不够明亮 但你依旧是会发光的星星 也依旧被这个宇宙爱着 不要放弃就可以继续往前走 去更好的地方 不要担心
+
+## 今日阅读
+[《证券经纪人的浪漫故事   欧.亨利》](https://shimo.im/docs/VYrkRGCxYx6Hr3hW/ )
+
+## 今日演讲
+[4个让人生更有意义的建议](http://open.163.com/newview/movie/free?pid=MDL1IHHJG&mid=MDL1ILLIM)
+
+## 今日科普
+[牛奶：必需品还是阴谋？告诉你关于牛奶的一切](https://www.bilibili.com/video/BV1WT4y157ZC?from=search&seid=12817613294146858885)
+
+## 今日推荐
+- [书名【新冠肺炎防治手册】](https://covid-19.alibabacloud.com/zh)
+- [搜索和批量下载透明背景的PNG、ICO图标，可用于个人开发的原创工具、网站Logo](https://www.lanzous.com/i9ya07a)
+- [开源PDF阅读器，功能简单，速度也很快，最主要的是可查看中文pdf，此软件免费、小巧，只有一个执行文件](https://github.com/sumatrapdfreader/sumatrapdf)
+- [A站acfun视频下载工具](https://www.lanzous.com/b0545sluj)
+- [PDF文件优化（压缩、清晰化）终极方案](https://www.douban.com/note/689488787/)
+
+![image](https://ae01.alicdn.com/kf/U1b4c7b53f96b41db8da14116b166a267v.jpg)
