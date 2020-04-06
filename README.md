@@ -929,3 +929,25 @@
 - [PDF文件优化（压缩、清晰化）终极方案](https://www.douban.com/note/689488787/)
 
 ![image](https://ae01.alicdn.com/kf/U1b4c7b53f96b41db8da14116b166a267v.jpg)
+
+# 2020-4-6分享
+## 美句分享
+当你老了，回顾一生，就会发觉：什么时候出国读书、什么时候决定做第一份职业、何时选定了对象而恋爱、什么时候结婚，其实都是命运的巨变。只是当时站在三岔路口，眼见风云千樯，你作出抉择的那一日，在日记上，相当沉闷和平凡，当时还以为是生命中普通的一天。
+
+## 今日阅读
+[《〈不是太早，就是太迟〉   林夕》](https://shimo.im/docs/GvRJvDcC6RpRTPH6/ )
+
+## 今日演讲
+[承担风险，方能提升运气](http://open.163.com/newview/movie/free?pid=MDOVC68S6&mid=MDOVCVLDK)
+
+## 今日科普
+[井底之蛙如何看到广阔天空？猫眼（门镜）啥原理？](https://www.bilibili.com/video/BV1WC4y1s7r8?from=search&seid=13296143128506793751)
+
+## 今日推荐
+- [一个分享电子书的博客类型网站](https://www.chinjua.com/)
+- [GitHub 的官方手机客户端，安卓和 iOS 都支持，可以发 issue、合并 PR、代码 Diff 等等。](https://github.blog/2020-03-17-github-for-mobile-is-now-available/)
+- [开源的远程教育软件](https://github.com/bigbluebutton/bigbluebutton)
+- [一个为网页插入评论的 Web 服务，可以作为 Disqus 的替代品。](https://commento.io/)
+- [程序员的搜索工具，将各种网络资源汇总在一个搜索框里面。](https://socode.pro/)
+
+![image](https://ae01.alicdn.com/kf/U7302de0b90954bad8e2b5093559ec071N.jpg)
