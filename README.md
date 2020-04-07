@@ -954,9 +954,9 @@
 
 # 2020-4-7分享
 ## 美句分享
-叹年光过尽，功名未立；
-书生老去，机会方来。
-使李将军，遇高皇帝，万户侯何足道哉？
+叹年光过尽，功名未立；   
+书生老去，机会方来。   
+使李将军，遇高皇帝，万户侯何足道哉？   
 披衣起，但凄凉四顾，慷慨生哀。
 
 ## 今日阅读
@@ -974,3 +974,5 @@
 - [冯注龙四套课程ps/ppt/Excel/word四套课程合集分享  gOto](https://pan.baidu.com/s/124W-erwjB0UjV0fsPGyXnA )
 - [LE-Monitor： 开源软件的国内镜像站点汇总](https://lework.github.io/lemonitor/#/)
 - [卡通动漫 loli，随机图](http://yunjie.f06.87yun.club/st/)
+
+![image](https://ae01.alicdn.com/kf/U37e33fb243ef421aa326a47a46b5306dd.jpg)
