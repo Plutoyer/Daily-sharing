@@ -951,3 +951,26 @@
 - [程序员的搜索工具，将各种网络资源汇总在一个搜索框里面。](https://socode.pro/)
 
 ![image](https://ae01.alicdn.com/kf/U7302de0b90954bad8e2b5093559ec071N.jpg)
+
+# 2020-4-7分享
+## 美句分享
+叹年光过尽，功名未立；
+书生老去，机会方来。
+使李将军，遇高皇帝，万户侯何足道哉？
+披衣起，但凄凉四顾，慷慨生哀。
+
+## 今日阅读
+[《可以吃的纸   梁文道》](https://shimo.im/docs/QdP886CYwWTkgWy3/)
+
+## 今日演讲
+[我是如何战胜怯场的](http://open.163.com/newview/movie/free?pid=M9PGGABAT&mid=M9PJL7Q41)
+
+## 今日科普
+[拒绝隔离与刑事犯罪](https://www.bilibili.com/video/BV1XC4y1s7fy?from=search&seid=4043289388018893275)
+
+## 今日推荐
+- [首先这是个安卓软件，喜欢折腾的可以看看玩玩](http://bbs.fy-sys.cn/)
+- [一个非常简单易用的白板绘图开源工具](https://excalidraw.com/)
+- [冯注龙四套课程ps/ppt/Excel/word四套课程合集分享  gOto](https://pan.baidu.com/s/124W-erwjB0UjV0fsPGyXnA )
+- [LE-Monitor： 开源软件的国内镜像站点汇总](https://lework.github.io/lemonitor/#/)
+- [卡通动漫 loli，随机图](http://yunjie.f06.87yun.club/st/)
