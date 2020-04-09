@@ -976,3 +976,25 @@
 - [卡通动漫 loli，随机图](http://yunjie.f06.87yun.club/st/)
 
 ![image](https://ae01.alicdn.com/kf/U37e33fb243ef421aa326a47a46b5306dd.jpg)
+
+# 2020-4-9分享
+## 美句分享
+有这样一群人，他们看上去沉默寡言，生人勿近，甚至不合群。在你看来他们是那样的孤独寂寞，但请收起你的怜悯。他们心中自成一方天地，那是别人所不能触及的净土，瑰丽而又惊世；饱含着生命力与自然的野性。对于他们这方土地已经足够热闹，无需尘世喧哗。而所谓的孤独与冷漠不过是这世界的守门人。
+
+## 今日阅读
+[《权力的道德捆绑   刘瑜》](https://shimo.im/docs/dkdRP69VGwD6DHHT/)
+
+## 今日演讲
+[追寻自我价值之路](http://open.163.com/newview/movie/free?pid=MCGVO1CH9&mid=MCGVOC9OA)
+
+## 今日科普
+[愚人节与虚假消息](https://www.bilibili.com/video/BV1uc411h7iC)
+
+## 今日推荐
+- [免费高质量 SVG 图标：300 多个 MIT 许可的 SVG 图标供您在 Web 项目中使用。](https://github.com/tabler/tabler-icons)
+- [不错的书签汇总](http://sakura.ys168.com/)
+- [可以查询域名备案的接入商及微信访问情况的网站](http://www.chaicp.com/icp.html)
+- [HELLO工资条](http://hello.izenuo.com/#/login)
+- [Octoman 微博备份工具 Chrome 扩展](https://github.com/misswell/octoman-weibo-backup)
+
+![image](https://i.loli.net/2020/04/09/IzTYHKmCsr5VJbn.jpg)
