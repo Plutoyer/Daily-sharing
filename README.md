@@ -998,3 +998,23 @@
 - [Octoman 微博备份工具 Chrome 扩展](https://github.com/misswell/octoman-weibo-backup)
 
 ![image](https://i.loli.net/2020/04/09/IzTYHKmCsr5VJbn.jpg)
+
+# 2020-4-10分享
+## 美句分享
+
+我猜你从来没被人群伤害过，所以不太理解那样有多痛。是冰冷的刀口，最刺目的深红，做绝望的死囚，在黑夜里过冬。当你说你没有，你没有。他们才不管你有没有。就看着你颤抖 你嘶吼，整个人生已不需要白昼。
+
+## 今日演讲
+[what coronavirus means for the global economy](https://www.ted.com/talks/ray_dalio_what_coronavirus_means_for_the_global_economy)
+
+## 今日科普
+[暴力伤医者应当受到什么样的制裁](https://www.bilibili.com/video/BV1qi4y187sc?from=search&seid=14911049159613406109)
+
+## 今日推荐
+- [DNote是您可以快速写给任何人看的东西的人](https://dnote.net/)
+- [输入要设置样式的文本，然后按上面的按钮之一，Unicode文本样式器](http://patorjk.com/software/taag/)
+- [文本转ASCII艺术生成器](http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20)
+- [b站视频bv号转av号](https://bv2av.193193.xyz/)
+- [GitHub代下载服务，Git克隆慢，外网源码包没速度，试试这个网站](https://g.widora.cn/)
+
+![image](https://i.loli.net/2020/04/10/4nl1LEXmyPa9k5D.jpg)
