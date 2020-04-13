@@ -1018,3 +1018,25 @@
 - [GitHub代下载服务，Git克隆慢，外网源码包没速度，试试这个网站](https://g.widora.cn/)
 
 ![image](https://i.loli.net/2020/04/10/4nl1LEXmyPa9k5D.jpg)
+
+# 2020-4-13分享
+## 美句分享
+我八千健儿已经牺牲殆尽，敌攻势未衰，前途难卜。若阵地存在，我当生还晋见钧座。如阵地失守，我就死在疆场，身膏野革。他日抗战胜利，你作为抗日名将，乘舰过吴淞口时，如有波涛如山，那就是我来见你了。
+
+## 今日阅读
+[《我不喜欢人类，我想住进森林   阿澜·卢》](https://shimo.im/docs/vrtRqKgr6kggdVQd/ )
+
+## 今日演讲
+[why  lakes and rivers should have the same rights as humans](https://www.ted.com/talks/kelsey_leonard_why_lakes_and_rivers_should_have_the_same_rights_as_humans?rid=v55Wrkz17vcn)
+
+## 今日科普
+[利用特定地位性侵案件的认定](https://www.bilibili.com/video/BV1j5411t7Ap?from=search&seid=2317721166839036078)
+
+## 今日推荐
+- [专业备份导出微博记录，一键导出指定用户的所有微博&文章](https://www.yaozeyuan.online/stablog/)
+- [一个梵高作品、手稿资源站（里面有最全的梵高作品资源、目录、年表）](http://www.vggallery.com/index.html)
+- [超级简单的自动刷新](https://pictureknow.com/extension?id=e989dc270e074422872abd297529fada)
+- [一键清理清除缓存的谷歌浏览器扩展：Clear Cache](https://pictureknow.com/extension?id=e989dc270e074422872abd297529fada)
+- [Windows 微信内测版新增桌面小程序](https://dldir1.qq.com/weixin/Windows/Beta/WeChat2.9.0_Beta.exe)
+
+![image](https://ae01.alicdn.com/kf/Uf53b0008b5454e2bb0409ab39c65cde1D.jpg)
