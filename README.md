@@ -1040,3 +1040,25 @@
 - [Windows 微信内测版新增桌面小程序](https://dldir1.qq.com/weixin/Windows/Beta/WeChat2.9.0_Beta.exe)
 
 ![image](https://ae01.alicdn.com/kf/Uf53b0008b5454e2bb0409ab39c65cde1D.jpg)
+
+# 2020-4-14分享
+## 美句分享
+生命中真正重要的不是你遭遇了什么，而是你记住了哪些事，有时如何铭记的
+
+## 今日阅读
+[《围城   钱钟书》](https://shimo.im/docs/hrTjXG86PpjRRdrx/ )
+
+## 今日演讲
+[the wonders of the molecular world animated](https://www.ted.com/talks/janet_iwasa_the_wonders_of_the_molecular_world_animated)
+
+## 今日科普
+[一场流感如何演变成杀死5000万人的世界大瘟疫？1918西班牙流感始末](https://www.youtube.com/watch?v=4H8K0ucyUOs&pbjreload=10)
+
+## 今日推荐
+- [舔狗日记](https://tiangou.show/)
+- [适于儿童玩的逻辑游戏，一个学习类别和逻辑的网络游戏](https://github.com/StylishSite/StylishSite.github.io)
+- [拼音首字母缩写释义工具，例如awsl等](https://github.com/itorr/nbnhhsh)
+- [比较适合小白的装机教程：从零开始教你利用 U 盘重装系统]（https://www.coolexe.com/1037.html）
+- [ai 作诗：通过深度学习来实现 ai 作诗、对联等](https://www.zq-ai.com/?from=singlemessage#/nlp/newpoem)
+
+![image](https://nsaimg.com/2020/04/14/e84cad1cf3a61.png)
