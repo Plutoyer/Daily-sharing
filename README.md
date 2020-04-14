@@ -1058,7 +1058,7 @@
 - [舔狗日记](https://tiangou.show/)
 - [适于儿童玩的逻辑游戏，一个学习类别和逻辑的网络游戏](https://github.com/StylishSite/StylishSite.github.io)
 - [拼音首字母缩写释义工具，例如awsl等](https://github.com/itorr/nbnhhsh)
-- [比较适合小白的装机教程：从零开始教你利用 U 盘重装系统]（https://www.coolexe.com/1037.html）
+- [比较适合小白的装机教程：从零开始教你利用 U 盘重装系统](https://www.coolexe.com/1037.html）
 - [ai 作诗：通过深度学习来实现 ai 作诗、对联等](https://www.zq-ai.com/?from=singlemessage#/nlp/newpoem)
 
 ![image](https://nsaimg.com/2020/04/14/e84cad1cf3a61.png)
