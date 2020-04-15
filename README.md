@@ -1062,3 +1062,26 @@
 - [ai 作诗：通过深度学习来实现 ai 作诗、对联等](https://www.zq-ai.com/?from=singlemessage#/nlp/newpoem)
 
 ![image](https://nsaimg.com/2020/04/14/e84cad1cf3a61.png)
+
+# 2020-4-15分享
+## 美句分享
+人类一般看不到的内脏的色彩，通过这大手术而展现于天空，得以表面化。最细微的温柔和殷勤与世界苦相结合，最终，苦恼变成了刹那间的快慰。人们在白天死抱着的无数小理论，被卷入天空的巨大情感爆发和灿烂的情感释放之中。人们看透了一切体系的无效。
+
+## 今日阅读
+[《罗生门   芥川龙之介》](https://shimo.im/docs/pqdpTjcXV8Rc6QxD/ )
+
+
+## 今日演讲
+[judith jamison and members of the alvin ailey american dance theater revelations from a lifetime of dance](https://www.ted.com/talks/judith_jamison_and_members_of_the_alvin_ailey_american_dance_theater_revelations_from_a_lifetime_of_dance?rid=p7uliV0UxEuz)
+
+## 今日科普
+[如何才能获得退税？关于个人所得税汇算清缴的一切](https://www.youtube.com/watch?v=NanTBuduuiA)
+
+## 今日推荐
+- [舔狗日记，logo 和域名比较让人眼前一亮](https://we.dog/)
+- [逐梦免费在线表格：灵活的表格制作工具，在线制表 0 门槛](https://zomoon.com/cn)
+- [一款看韩国漫画的微漫 app](https://github.com/nrop19/weiman_app)
+- [网络电视直播](https://808.best/live.htm)
+- [一个在线渐变色神器](https://meshgradient.com/)
+
+![image](https://nsaimg.com/2020/04/15/68058b1b5a75d.jpg)
