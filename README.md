@@ -1085,3 +1085,25 @@
 - [一个在线渐变色神器](https://meshgradient.com/)
 
 ![image](https://nsaimg.com/2020/04/15/68058b1b5a75d.jpg)
+
+# 2020-4-16分享
+## 美句分享
+如果有人爱上了一朵花，天上的星星有亿万颗，而这只花只长在其中一颗上，这足以让他在仰望星空时感到很快乐。他会告诉自己：在星空的某处有我的花。但如果绵羊把花吃掉了，对他来说就等于所有星星都熄灭了。
+
+## 今日阅读
+[《IPOD怎样分割了世界   梁文道》](https://shimo.im/docs/dcJVhy8XgRtdYPKW/ )
+
+## 今日演讲
+[how to spark your curiosity scientifically](https://www.ted.com/talks/nadya_mason_how_to_spark_your_curiosity_scientifically)
+
+## 今日科普
+[为什么给视频网站充了会员，他们一年还是要赔几百亿？](https://www.bilibili.com/video/BV1tE411c7H1)
+
+## 今日推荐
+- [一个在线魔方解密网站](https://rubiks-cube-solver.com/)
+- [一站式工具平台，让工作更简单](https://zh.pickfrom.net/)
+- [一个网站技术分析插件](https://www.wappalyzer.com/)
+- [一个国家标准全文公开系统](http://openstd.samr.gov.cn/bzgk/gb/jsessionid=43CA823F7D972B77DEACA6724E4DEA06)
+- [Windows超级管理器是一款功能强大的系统管理软件](https://www.collithel.com/200.html)
+
+![image](https://nsaimg.com/2020/04/16/23e3a89aac6bd.jpg)
