@@ -1107,3 +1107,25 @@
 - [Windows超级管理器是一款功能强大的系统管理软件](https://www.collithel.com/200.html)
 
 ![image](https://nsaimg.com/2020/04/16/23e3a89aac6bd.jpg)
+
+# 2020-4-20分享
+## 美句分享
+谈到喝酒，你一定喜欢的地方就是每一口都是无法挽回的决定。你直冲向前，掌控着这场游戏。这就和嗑药、吃镇静剂和止痛药一样，每一次都是踏向某条路口决定性的一步。
+
+## 今日阅读
+[《永远的憧憬和追求   萧红》](https://shimo.im/docs/GwPjp8CPxDh6gHvC/ )
+
+## 今日演讲
+[nature beauty gratitude](https://www.ted.com/talks/louie_schwartzberg_nature_beauty_gratitude?rid=1cPX3d8sZz9d)
+
+## 今日科普
+[时间和空间都是相对的](https://www.bilibili.com/video/BV1we411s7S2)
+
+## 今日推荐
+- [华为 P40 Pro 官方壁纸](https://www.lanzous.com/iapjotc)
+- [一个 ipa 安装工具，支持 macOS / Windows吗，支持拖拽第三方 ipa 并安装，一次最多可安装3个应用，每7天需使用 Matrix Store 重新签发证书](https://matrix.store/)
+- [web font 字体裁剪工具](https://github.com/2234839/web-font)
+- [SaltTiger：每天一本编程书（英文），每天进步一点点](https://salttiger.com/archives/)
+- [Treesize，可以看你C盘里面的具体的数值](https://www.jam-software.com/treesize_free)
+
+![iamge](https://nsaimg.com/2020/04/20/7498794f76aff.jpg)
