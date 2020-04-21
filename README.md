@@ -1129,3 +1129,25 @@
 - [Treesize，可以看你C盘里面的具体的数值](https://www.jam-software.com/treesize_free)
 
 ![iamge](https://nsaimg.com/2020/04/20/7498794f76aff.jpg)
+
+# 2020-4-21分享
+## 美句分享
+我心里有一簇迎着烈日而生的花，比一切美酒都要芬芳，滚烫的馨香淹没过稻草人的胸膛，草扎的精神，从此万寿无疆。
+
+## 今日阅读
+[《宗月大师   老舍》](https://shimo.im/docs/VtqQTjYtttqqjkpC/)
+
+## 今日演讲
+[racism has a cost for everyone](https://www.ted.com/talks/heather_c_mcghee_racism_has_a_cost_for_everyone)
+
+## 今日科普
+[聊聊网络喷子与键盘侠](https://www.bilibili.com/video/BV1rk4y1R7id?from=search&seid=12682384748071635114)
+
+## 今日推荐
+- [电子报刊：在线看国内外报纸杂志周刊](http://www.53bk.com/baokan/)
+- [安卓磁力搜索下载 app，支持边下边播](https://www.lanzous.com/s/lovemag)
+- [52 破解苹果手机解锁神器（可绕过 iPhone 和 iPad 的密码）：PassFab iPhone Unlocker 绿色版](https://www.lanzous.com/iasb2de)
+- [李宏毅机器学习笔记(LeeML-Notes)](https://datawhalechina.github.io/leeml-notes/#/)
+- [基于WebAudio/Webassembly的在线音频实时剪辑转码网站](http://www.xaudiopro.com/)
+
+![image](https://nsaimg.com/2020/04/21/ec624329f854f.jpg)
