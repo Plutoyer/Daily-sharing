@@ -1151,3 +1151,26 @@
 - [基于WebAudio/Webassembly的在线音频实时剪辑转码网站](http://www.xaudiopro.com/)
 
 ![image](https://nsaimg.com/2020/04/21/ec624329f854f.jpg)
+
+# 2020-4-22分享
+## 美句分享
+不吁然，不吟唱，只拾掇行囊。   
+趟出这片枯寂，就趟过生长。   
+遇见风起水浪，就遇过虚妄。   
+忍住顷刻回望，就忍过恓惶。   
+一如年少模样。
+
+## 今日演讲
+[how to deconstruct racism one headline at a time](https://www.ted.com/talks/baratunde_thurston_how_to_deconstruct_racism_one_headline_at_a_time?rid=8uIlj52rvnIO)
+
+## 今日科普
+[罗永浩是如何颠覆每一个行业的](https://www.bilibili.com/video/BV16K411L7tR?from=search&seid=8949312997845619324)
+
+## 今日推荐
+- [支持视频预览的开源图片浏览器[Windows/Linux](https://github.com/easymodo/qimgv)
+- [干杯！妈妈再也不担心我不喝水了](https://github.com/sologgfun/drinkNow)
+- [动物森友会趣图](https://www.acpatterns.com/)
+- [一个在线读取照片的2个主色设置成背景的网站](https://jwenjian.github.io/gradex/)
+- [以刻意练习理论为指导、根据练习者掌握情况动态生成训练内容，优先训练练习者掌握不佳内容的五笔输入法训练系统](https://werneror.github.io/FingerMemory/)
+
+![image](https://nsaimg.com/2020/04/22/2a87cd0ed14a7.jpg)
