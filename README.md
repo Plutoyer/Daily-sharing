@@ -1167,10 +1167,32 @@
 [罗永浩是如何颠覆每一个行业的](https://www.bilibili.com/video/BV16K411L7tR?from=search&seid=8949312997845619324)
 
 ## 今日推荐
-- [支持视频预览的开源图片浏览器[Windows/Linux](https://github.com/easymodo/qimgv)
+- [支持视频预览的开源图片浏览器Windows/Linux](https://github.com/easymodo/qimgv)
 - [干杯！妈妈再也不担心我不喝水了](https://github.com/sologgfun/drinkNow)
 - [动物森友会趣图](https://www.acpatterns.com/)
 - [一个在线读取照片的2个主色设置成背景的网站](https://jwenjian.github.io/gradex/)
 - [以刻意练习理论为指导、根据练习者掌握情况动态生成训练内容，优先训练练习者掌握不佳内容的五笔输入法训练系统](https://werneror.github.io/FingerMemory/)
 
 ![image](https://nsaimg.com/2020/04/22/2a87cd0ed14a7.jpg)
+
+# 2020-4-23分享
+## 美句分享
+你那么憎恨那些人，和他们斗了那么久，最终却要变得和他们一样，人世间没有任何理想值得以这样的沉沦作为代价。
+
+## 今日阅读
+[《心田上的百合花开   林清玄》](https://shimo.im/docs/GdG8HhwXyjVYqyYt/)
+
+## 今日演讲
+[the transformative power of_classical music](https://www.ted.com/talks/benjamin_zander_the_transformative_power_of_classical_music?rid=Mzklojgt3YV5)
+
+## 今日科普
+[庞氏骗局的前世今生](https://www.bilibili.com/video/BV1yt4y127py?from=search&seid=16167544690694404007)
+
+## 今日推荐
+- [纯粹的记账软件，小巧安装包，无广告，记账功能方便，有报表和图表功能，支持多个账户（借记类和信用类），非常好用的安卓记账App](https://www.coolapk.com/apk/me.bakumon.moneykeeper/)
+- [在线浏览器翻译插件工具 - 翻译侠，一款简洁优秀的谷歌翻译插件](https://github.com/magic-FE/translate-man)
+- [Android 实时投屏软件：无需 root，支持 Windows 和 MacOS](https://gitee.com/Barryda/QtScrcpy)
+- [GBox 是市面上免费免越狱可给 ipa 签名、安装 ipa 的 iOS 工具](https://gbox.run/)
+- [STEAM 游戏：游戏限时免费汇总：由福利巢不定期更新的 STEAM 游戏限免汇总](https://www.fulichao.com/2509.html)
+
+![image](https://nsaimg.com/2020/04/23/262d8c1eab36c.jpg)
