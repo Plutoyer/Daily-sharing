@@ -1217,4 +1217,4 @@
 - [专业变声器 v3.0★高级版.apk](https://www.lanzous.com/iav30rg)
 - [点击一下即可开启中英双字幕,适用于YouTube™](https://chrome.google.com/webstore/detail/youtube%E5%8F%8C%E5%AD%97%E5%B9%95/pinbfcanggagdlikncmljamikccpkkon)
 
-![image](https://nsaimg.com/2020/04/24/c1d4b0b6f2a4e.jpg)
+![image](https://nsaimg.com/2020/04/24/2c1e37c364ade.png)
