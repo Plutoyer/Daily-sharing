@@ -1196,3 +1196,25 @@
 - [STEAM 游戏：游戏限时免费汇总：由福利巢不定期更新的 STEAM 游戏限免汇总](https://www.fulichao.com/2509.html)
 
 ![image](https://nsaimg.com/2020/04/23/262d8c1eab36c.jpg)
+
+# 2020-4-24分享
+## 美句分享
+生活从来都不容易。当你觉得容易的时候，一定是有人在替你承担属于你的那份不容易——要么是你的父母，要么是未来的自己
+
+## 今日阅读
+[《生活是美好的   契诃夫》](https://shimo.im/docs/w9KXVTxDvDC8TrHk/ )
+
+## 今日演讲
+[a 30 year history of the future](https://www.ted.com/talks/nicholas_negroponte_a_30_year_history_of_the_future)
+
+## 今日科普
+[你真的理解智商税么？](https://www.bilibili.com/video/BV15K411j7eH?from=search&seid=14766632274192975606)
+
+## 今日推荐
+- [Picviewer CE+：批量下载网页图片必备](https://greasyfork.org/zh-CN/scripts/24204-picviewer-ce)
+- [一款免费PDF合并、拆分软件](https://pdfsam.org/zh/download-pdfsam-basic/)
+- [一个在线打太鼓的网站](https://taiko.bui.pm/)
+- [专业变声器 v3.0★高级版.apk](https://www.lanzous.com/iav30rg)
+- [点击一下即可开启中英双字幕,适用于YouTube™](https://chrome.google.com/webstore/detail/youtube%E5%8F%8C%E5%AD%97%E5%B9%95/pinbfcanggagdlikncmljamikccpkkon)
+
+![image](https://nsaimg.com/2020/04/24/c1d4b0b6f2a4e.jpg)
