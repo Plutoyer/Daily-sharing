@@ -1218,3 +1218,25 @@
 - [点击一下即可开启中英双字幕,适用于YouTube™](https://chrome.google.com/webstore/detail/youtube%E5%8F%8C%E5%AD%97%E5%B9%95/pinbfcanggagdlikncmljamikccpkkon)
 
 ![image](https://nsaimg.com/2020/04/24/2c1e37c364ade.png)
+
+# 2020-4-28分享
+## 美句分享
+其实生活中只有三件事，自己的事，别人的事和老天爷的事。你要知道，你只需要做好自己的事，老天爷的事你管不了，别人的事与你无关。
+
+## 今日阅读
+[《工作与人生   王小波》](https://shimo.im/docs/qYVQypTYjgQRhPkX/ )
+
+## 今日演讲
+[the anthropology of mobile phones](https://www.ted.com/talks/jan_chipchase_the_anthropology_of_mobile_phones)
+
+## 今日科普
+[疫情中的救命神器—呼吸机是什么？晚上打鼾早上头痛你也用得到](https://www.bilibili.com/video/BV1QT4y1g7PK)
+
+## 今日推荐
+- [一个轻盈、简洁、美观的 WordPress 主题](https://github.com/solstice23/argon-theme)
+- [前端技术栈月刊：由小蘿蔔丁每月 28 日更新的前端技术栈、文章以及应用](http://xlbd.me/)
+- [收集可用谷歌 (google) 镜像网站：由运维网自 2015 年起每月更新可用网站列表](https://www.iyunv.com/thread-135490-1-1.html)
+- [一个可以让你懂得生活知识的网站](https://www.idongde.com/)
+- [开源的 Markdown 自建云笔记项目](https://github.com/0xGG/crossnote)
+
+![image](https://ae01.alicdn.com/kf/U12f861e26bc74fb4b613637085192845q.png)
