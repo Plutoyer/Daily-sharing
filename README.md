@@ -1240,3 +1240,25 @@
 - [开源的 Markdown 自建云笔记项目](https://github.com/0xGG/crossnote)
 
 ![image](https://ae01.alicdn.com/kf/U12f861e26bc74fb4b613637085192845q.png)
+
+# 2020-5-5分享
+## 美句分享
+激流勇进，逆水行舟、不进则退，逆流而上。审时度势，顺势而为，谋定而后动，聪明的人使自己适应世界，而不明智的人只会坚持要世界适应自己
+
+## 今日阅读
+[《我想和你一起生活   茨维塔耶娃》](https://shimo.im/docs/p6HHXGdvWTh8cwDj/ )
+
+## 今日演讲
+[后浪](https://www.bilibili.com/video/BV1FV411d7u7?from=search&seid=4877603585336146466)
+
+## 今日科普
+[如何躲避投资理财骗局](https://www.bilibili.com/video/BV13g4y1676D?from=search&seid=5400448534510020257)
+
+## 今日推荐
+- [微博日常开车系列](https://weibo.com/6524978930/IAKaboq00?type=comment)
+- [短视频均来源于抖音、火山等，有50GB左右](https://pan.isoyu.com/%E9%9F%B3%E9%A2%91/)
+- [不错的instagram批量下载中转站](https://www.saveimgs.com/zh-cn/)
+- [微信读书如何赚无限卡：比较详细的总结了多种赚取方法](https://www.v2ex.com/t/659751#reply20)
+- [LOL 图床：面向全球互联网提供公共图床服务](https://imagelol.com/page/about/)
+
+![image](https://ae01.alicdn.com/kf/Ub2058a3e037e46e687e4ac521d287684h.jpg)
