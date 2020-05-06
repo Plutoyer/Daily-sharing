@@ -1262,3 +1262,25 @@
 - [LOL 图床：面向全球互联网提供公共图床服务](https://imagelol.com/page/about/)
 
 ![image](https://ae01.alicdn.com/kf/Ub2058a3e037e46e687e4ac521d287684h.jpg)
+
+# 2020-5-6分享
+## 美句分享
+我们每个人都要留意和保护那颗决定要熄灭的星星——他们默不作声地在你身边当你的小星星和小太阳，但实际上已经快要熄灭了…他们可能已经向外界求助过无数次，但人们没有上心；或是人们已经看见了他们的求助，但是束手无策。
+
+## 今日阅读
+[《机舱里的钟声   希区柯克》](https://shimo.im/docs/gKVVGcJrYqWGcw6Q/ )
+
+## 今日演讲
+[how we are using ai to discover new antibiotics](https://www.ted.com/talks/jim_collins_how_we_re_using_ai_to_discover_new_antibiotics)
+
+## 今日科普
+[原油期货价格-37美元/桶！钱赔光了还欠银行钱！期货风险为何这么大？](https://www.bilibili.com/video/BV1qi4y1t7Mg)
+
+## 今日推荐
+- [KMS激活Windows一键脚本](https://kms.ikxin.com/)
+- [VMware15Pro 永久激活 key 密钥：相比注册机和破解补丁密钥，永久激活 key 更可靠](https://www.ikxin.com/459.html)
+- [Rocket 火箭 BT 官网是一款「安卓手机磁力下载神器」，支持磁力、电驴、迅雷链接，下载资源可以在磁力搜索网站中搜索，实测下载速度快，UI 界面清新美观。](https://www.lanzous.com/b024t0dkj)
+- [百度云服务器：新用户个人免费一个月，企业免费六个月，即日起上午 9 点开抢。](https://cloud.baidu.com/campaign/experience/index.html)
+- [微软商店 16 款游戏限免：受疫情影响，微软商店大量游戏限免。](https://shimo.im/docs/QrWGQc9cGpYdpDwq/read)
+
+![image](https://ae01.alicdn.com/kf/Ud9ac90fd49dc460db5c09262311b1552w.jpg)
