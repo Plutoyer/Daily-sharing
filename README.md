@@ -1284,3 +1284,25 @@
 - [微软商店 16 款游戏限免：受疫情影响，微软商店大量游戏限免。](https://shimo.im/docs/QrWGQc9cGpYdpDwq/read)
 
 ![image](https://ae01.alicdn.com/kf/Ud9ac90fd49dc460db5c09262311b1552w.jpg)
+
+# 2020-5-7分享
+## 美句分享
+穷人与富人的最大的差距不在金钱上的，而是在思维上，穷人之所以穷，是因为他们不想让钱生子子生钱，只会紧抓住手里的钱，一毛不拔，成为十足的守财奴。
+
+## 今日阅读
+[《超车   星新一》](https://shimo.im/docs/ptCQGtyPhqCwQwdx/ )
+
+## 今日演讲
+[the cost of work stress and how to reduce it](https://www.ted.com/talks/rob_cooke_the_cost_of_work_stress_and_how_to_reduce_it)
+
+## 今日科普
+[如何成为开车又猛又安全的司机](https://www.bilibili.com/video/BV1Yk4y1k7yh?from=search&seid=549820289250552746)
+
+## 今日推荐
+- [pixivic：国内可用的 pixiv 网站](https://m.pixivic.com/dailyRank?VNK=026e0eae)
+- [一个关于渣男：说话艺术的网站](https://lovelive.tools/)
+- [一个在线可以换证件照底色的网站](https://www.bgconverter.com/)
+- [个用大数据生成词云图的网站](https://www.kt1.com/)
+- [人工智能文章创作助手 V1.0](https://www.52pojie.cn/thread-1147758-1-1.html)
+
+![image](https://ae01.alicdn.com/kf/Ue0c9e7e4e5c94e688e03b8ac897ea364p.jpg)
