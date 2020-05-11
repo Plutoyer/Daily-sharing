@@ -1306,3 +1306,25 @@
 - [人工智能文章创作助手 V1.0](https://www.52pojie.cn/thread-1147758-1-1.html)
 
 ![image](https://ae01.alicdn.com/kf/Ue0c9e7e4e5c94e688e03b8ac897ea364p.jpg)
+
+# 2020-5-11分享
+## 美句分享
+坚强的人只能救赎自己，伟大的人才能救赎他人。人生可以归结为一种简单的选择：不是忙着活，就是忙着死。
+
+## 今日阅读
+[《你永远有做不完的事   理查德.卡尔森》](https://shimo.im/docs/cgjV9cgrDRqC6QvT/ )
+
+## 今日演讲
+[we need to talk about an injustice](https://www.ted.com/talks/bryan_stevenson_we_need_to_talk_about_an_injustice?rid=c0igobMD1TA1)
+
+## 今日科普
+[网红电商背后的产业链](https://www.bilibili.com/video/BV15K4y1b7sQ?from=search&seid=6804127319047682904)
+
+## 今日推荐
+- [GBT小组游戏空间](http://renxufeng.ys168.com/)
+- [少数派Power+ 和Power+ 2.0 付费资源免费分享](https://pan.baidu.com/s/1HrEiPDH3dkK82YPGnjUQbQ#list/path=%2F) kdek
+- [Quicker 为常用操作建立捷径，让效率触手可及!](https://getquicker.net/)
+- [国家中小学云平台视频下载工具](https://www.lanzous.com/iaxylle)
+- [一个使用 纯 JS 处理常见的 dom 维护工作](https://htmldom.dev/)
+
+![image](https://nsaimg.com/2020/05/11/9473810ffcd03.jpg)
