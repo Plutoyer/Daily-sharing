@@ -1343,7 +1343,7 @@
 [为啥家长“喜欢”对孩子进行超前教育？李永乐老师讲博弈论之旅行者困境](https://www.bilibili.com/video/BV13s41137zV?from=search&seid=8099445331469558651)
 
 ## 今日推荐
-- [iOS 面试题汇总](https://trello.com/b/NaN6GOo6/ios-interviews）   
+- [iOS 面试题汇总](https://trello.com/b/NaN6GOo6/ios-interviews)  
 - [UptimeRobot 网站宕机检测](https://github.com/yb/uptime-status)   
 - [一个囊括了世界上基本所有神话体中的神灵和妖魔，物种。可以根据区域搜索，也可以通过关键词找](http://myth.maji.asia/)
 - [一个可以找到所有的编程语言的开源库，支持搜索功能](http://www.lib4dev.in/)
