@@ -1350,3 +1350,25 @@
 - [高效翻译必备工具，多译助您快速翻译，提升翻译效率。支持 Mac 与 Windows 系统，支持划词和截图 OCR 翻译](https://duoyi.io/)
 
 ![image](https://nsaimg.com/2020/05/12/bb80f2462b7fc.jpg)
+
+# 2020-5-13分享
+## 美句分享
+人生就像一道多项选择题，困扰你的，往往是众多的选项，而不是题目本身。 
+
+## 每日阅读
+[《好人总会有人疼   简媜》](https://shimo.im/docs/qR9HR8cchJWGHqTy/ )
+
+## 今日演讲
+[减少人类对海洋造成的噪音污染](https://open.163.com/newview/movie/free?pid=MFB8TLL6Q&mid=MFB8U8GUB)
+
+## 今日科普
+[虎门大桥为何异常抖动？风能吹塌一座桥吗？李永乐老师讲卡门涡街](https://www.youtube.com/watch?v=sR-5ERB7o6c)
+
+## 今日推荐
+- [程序员如何优雅的挣零花钱](http://r.ftqq.com/howto-make-more-money/)
+- [马赛克背景生成器：Awesome Mosaic，一键让你生成酷炫骚气的高清有码背景](https://wangyasai.github.io/Awesome-Mosaic/)
+- [上传一张图片就能一键生成动态倒影](https://watereffect.net/)
+- [M3U8下载器集合版](https://www.lanzous.com/5znnm3u8)
+- [静态托管服务zeit](https://zeit.co/)
+
+![image](https://nsaimg.com/2020/05/13/d490915518175.png)
