@@ -1372,3 +1372,25 @@
 - [静态托管服务zeit](https://zeit.co/)
 
 ![image](https://nsaimg.com/2020/05/13/d490915518175.png)
+
+# 2020-5-14分享
+## 美句分享
+人们的品行有的好像建筑在坚硬的岩石上，有的好像建筑在泥沼里，不过超过一定的限度，我就不在乎它建在什么之上了。
+
+## 今日阅读
+[ 《为什么我们对平凡的人生深怀恐惧？   梁晓声》](https://shimo.im/docs/PdWpTrHwXXvXRcTd/)
+
+## 今日演讲
+[优化农业政策，重视农民的力量](https://open.163.com/newview/movie/free?pid=MFB8QROO2&mid=MFB8R8AQQ)
+
+## 今日科普
+[半佛仙人：想选金融专业发财？建议洗洗睡吧？](https://www.bilibili.com/video/BV1bC4y1H7FJ?from=search&seid=16019446434803763780)
+
+## 今日推荐
+- [网站构建器](https://8b.com/)
+- [一个免费、开源的文件加密软件](https://github.com/Corydonbyte/jiamimao)
+- [一种新颖而简单的方法来设计漂亮的颜色渐变，CSS颜色渐变生成器](https://mybrandnewlogo.com/color-gradient-generator)
+- [直接在Chrome浏览器中使用移动版Instagram](https://chrome.google.com/webstore/detail/desktop-for-instagram/fdfgmkcegdjlpmgjlfkphamedoanpiek)
+- [动森大头菜价格预测工具](http://dodopass.21hz.top/turnip/?tdsourcetag=s_pctim_aiomsg)
+
+![image](https://nsaimg.com/2020/05/14/58e7a80b3de32.jpg)
