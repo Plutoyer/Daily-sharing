@@ -1394,3 +1394,25 @@
 - [动森大头菜价格预测工具](http://dodopass.21hz.top/turnip/?tdsourcetag=s_pctim_aiomsg)
 
 ![image](https://nsaimg.com/2020/05/14/58e7a80b3de32.jpg)
+
+# 2020-5-25分享
+## 美句分享
+大部分人的爱情对象也只是存在于自己的想象之中。他们所爱的并不是现实中的她（他），而只是想象中的她（他），现实中的她（他）只是他们创造梦中情人的一个模板，他们迟早会发现梦中情人与模板之间的差异，如果适应这种差异他们就会走到一起，无法适应就分开，就这么简单。
+
+## 今日阅读
+[《〈你那点痛算什么〉   朱国勇》](https://shimo.im/docs/VqckwWQvt3GwqcvX/ )
+
+## 今日演讲
+[听见你的声音——耳朵是如何工作的](https://open.163.com/newview/movie/free?pid=MFB8SVNPR&mid=MFB8TL9A8)
+
+## 今日科普
+[你了解“来自星星的孩子”吗？请关爱身边的自闭症儿童](https://www.bilibili.com/video/BV1mz411v7Cb)
+
+## 今日推荐
+- [一个简单的音乐播放器，播放周杰伦的歌曲](https://github.com/lvyueyang/web-music)
+- [程序员如何优雅的赚零花钱：不仅仅适合程序员群体，书籍中的思想可以套用很多群体。](http://r.ftqq.com/howto-make-more-money/)
+- [acgbox 妹子图：重新开始运营，图片还是去年倒闭时的资源，部分内容密码：acgbox](https://tu.acgbox.org/)
+- [一个国外各大会员分享网站,Netflix,Hulu等](https://techlacarte.com/)
+- [一个在线阅读的工具, 支持 ebup, mobi](https://ztftrue.github.io/BookReader/)
+
+![image](https://nsaimg.com/2020/05/25/3bc1b0c056b12.jpg)
