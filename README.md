@@ -1416,3 +1416,25 @@
 - [一个在线阅读的工具, 支持 ebup, mobi](https://ztftrue.github.io/BookReader/)
 
 ![image](https://nsaimg.com/2020/05/25/3bc1b0c056b12.jpg)
+
+# 2020-5-26分享
+## 美句分享
+当改变命运的时刻降临，犹豫就会败北。
+
+## 今日阅读
+[《马宗融先生的时间观念   老舍》](https://shimo.im/docs/g9CyxxtCgYgvwkWW/ )
+
+## 今日演讲
+[what if we ended the injustice of bail](https://www.ted.com/talks/robin_steinberg_what_if_we_ended_the_injustice_of_bail?rid=LMV0A06fBvlE)
+
+## 今日科普
+[神奇的鲁伯特之泪：子弹打不碎，一捏就爆炸](https://www.youtube.com/watch?v=En2GKUD1ty0&pbjreload=10)
+
+## 今日推荐
+- [磁力下载神器合集](https://lanzous.com/b0f1awgqb)
+- [一个电影和剧集下载的网站](http://pianyuan.org/)
+- [一个专门存储声音材料（例如循环音乐，BGM和声音效果）的网站](http://dust-sounds.com/)
+- [vip 在线解析网站：界面比较简洁清爽](https://www.nni5.com/vip.html)
+- [adguard beta：填写申请表单即可获取 adguard beta 申请两天左右通过](https://surveys.adguard.com/beta_testing_program/form.html)
+
+![image](https://nsaimg.com/2020/05/26/b1da5b4dc4b6e.jpg)
