@@ -1438,3 +1438,25 @@
 - [adguard beta：填写申请表单即可获取 adguard beta 申请两天左右通过](https://surveys.adguard.com/beta_testing_program/form.html)
 
 ![image](https://nsaimg.com/2020/05/26/b1da5b4dc4b6e.jpg)
+
+# 2020-5-28分享
+## 美句分享
+不是所有坚持都有结果，但是都有一些坚持，能从一寸冰封土地里，培养出十万朵怒放的蔷薇。
+
+## 每日阅读
+[《符号控制   贝纳尔.韦尔贝》](https://shimo.im/docs/8WWWcjwGXGPQ6pXt/ )
+
+## 今日演讲
+[每个人都会死，但不是每个人都活过](https://www.bilibili.com/video/av23848682/)
+
+## 今日科普
+[人类社会的罪恶都从哪里来？](https://www.bilibili.com/video/BV1Zz4y1X7wc?from=search&seid=8330010538843386501)
+
+## 今日推荐
+- [QQ 免费靓号：一周内未激活帐号，系统将自动回收](https://ssl.zc.qq.com/v3/index-chs.html?type=3)
+- [2800 个磁力 密码：6kd2](https://lanzous.com/b073oqjte/)
+- [食用MAC电脑的情报员们可以看看这个，使用Mac的100个小技巧-号称每周更新（让我们期待不断更），感兴趣的可以看看](https://www.bilibili.com/video/BV1Xc411h7ve)
+- [Twitter Intelligence工具，使用Python编写的高级Twitter抓取和OSINT工具，不使用Twitter的API，可让您在逃避大多数API限制的同时抓取用户的关注者，关注者，推文等](https://github.com/twintproject/twint)
+- [一个矢量的手绘草图库 - Retroooooo Folks，它有104张面孔、30个身体、39根头发、11个胡须、7个配件，可提供上千种组合](https://www.manuelalangella.com/retroooo-folks/)
+
+![image](https://nsaimg.com/2020/05/28/0852a228c0451.jpg)
