@@ -1460,3 +1460,37 @@
 - [一个矢量的手绘草图库 - Retroooooo Folks，它有104张面孔、30个身体、39根头发、11个胡须、7个配件，可提供上千种组合](https://www.manuelalangella.com/retroooo-folks/)
 
 ![image](https://nsaimg.com/2020/05/28/0852a228c0451.jpg)
+
+# 2020-6-10分享
+## 美句分享
+有人在大山里起舞
+有人在菜地里高歌
+有人潜入最深的海底
+有人登上最高的山峰
+很多人，不知道漠河冬天泼出开水能成雾霜
+很多人，不知道乌苏里江大马哈鱼有多香
+很多人，不知道新疆哈密瓜地里姑娘有多漂亮
+很多人，不知道曾母暗沙的海底有无数宝藏
+很多人，一生只在一个地方
+我们希望，技术的进步，给更多人提供了“看见”的可能
+那些原来沉默的大多数，就可以不沉默
+那些原来普通的人，就可以不普通
+那些原本平凡的东西，就不再平凡
+
+## 每日阅读
+[ 《心田上的百合花开   林清玄》](https://shimo.im/docs/3VJjhQTP8TcPtWjR/)
+
+## 今日演讲
+[重返火星，探寻新家园](https://open.163.com/newview/movie/free?pid=MFCPPQG3G&mid=MFCPQMRFI)
+
+## 今日科普
+[如何从碰撞过程求圆周率π？一个奇妙的物理、代数、几何结合问题](https://www.bilibili.com/video/BV1gZ4y1H78s?from=search&seid=11840309541074587281)
+
+## 今日推荐
+- [唬爛產生器，繳交報告、湊字數、應付男/女朋友的好夥伴](https://howtobullshit.me/)
+- [Super_preloaderPlus_one_改，预读+翻页..全加速你的浏览体验](https://greasyfork.org/zh-CN/scripts/33522-super-preloaderplus-one-new)
+- [输入ins帐号就可以查看和下载帐号下所有的图片和视频](https://saveig.org/)
+- [无需注册下载全球上万本杂志期刊](https://magazinelib.com/)
+- [搜索：点击搜索框中的 logo 自动切换好用的搜索引擎](https://hao.su/so/)
+
+![image](https://nsaimg.com/2020/06/10/6f2ac1ed4a978.jpg)
