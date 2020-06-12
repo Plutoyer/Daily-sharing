@@ -1494,3 +1494,26 @@
 - [搜索：点击搜索框中的 logo 自动切换好用的搜索引擎](https://hao.su/so/)
 
 ![image](https://nsaimg.com/2020/06/10/8fc8475ebad26.jpg)
+
+# 2020-6-12分享
+## 美句分享
+我一生没做过坏事，为何会这样？
+因为你一生都没有做过坏事。所以，就是这样。
+
+## 今日阅读
+[《发出声音永远是有用的   席慕容》](https://shimo.im/docs/K3GrwJhdX3TpkQpp/ )
+
+## 今日演讲
+[what tech companies know about your kids](https://www.ted.com/talks/veronica_barassi_what_tech_companies_know_about_your_kids)
+
+## 今日科普
+[如何劝一个搜索引擎从良](https://www.bilibili.com/video/BV1nv41167Gh?from=search&seid=15334565408523632529)
+
+## 今日推荐
+- [良心的壁纸网站](https://bz.zzzmh.cn/)
+- [Hacking Tools ：体验盒子维护更新的黑客工具集](https://www.uedbox.com/tools/)
+- [什么值得读 ：看起来还可以的网站](http://www.shenmezhidedu.com/category/shudan/)
+- [2020最新论文去重助手软件，支持设置多国语言](https://www.lanzous.com/ibdvmob)
+- [迷上我（完美排版、绝无仅有文字版），撩妹秘籍，替代左右手](https://haha.lanzous.com/ibgrwof)
+
+![image](https://nsaimg.com/2020/06/12/7b561c85b4765.jpg)
