@@ -1517,3 +1517,24 @@
 - [迷上我（完美排版、绝无仅有文字版），撩妹秘籍，替代左右手](https://haha.lanzous.com/ibgrwof)
 
 ![image](https://nsaimg.com/2020/06/12/7b561c85b4765.jpg)
+
+# 2020-9-15分享
+一、美句分享
+
+温柔正确的人总是难以生存，因为这世界既不温柔，也不正确。
+
+
+二、今日演讲
+[让我们设计能够实现真正变革的社交媒体](http://open.163.com/newview/movie/free?pid=MFKEH5K03&mid=MFKEIBHA1)
+
+三、今日科普
+[如何看待高校相对封闭管理政策？为啥烟草征重税、电车有补贴？](https://youtu.be/JANiC1z40gk)
+
+四、今日推荐
+- [动次：快速截取视频精彩画面并转换 GIF](https://dongci.kawo.com/)
+- [天翼云盘免登陆网页解析：无需登录天翼云盘可直接解析下载地址，稳定性未知，目前可用。](https://api.zzux.net/189/)
+- [利用 namecheap 免费获得无限别名域名邮箱](https://haoduck.com/489.html)
+- [oka 解压：一款还不错的 Mac、iOS 平台解压缩软件，目前限免中可以免费内购获取终身版本，直接在 AppStore 中搜索 oka](https://apps.apple.com/cn/app/%E8%A7%A3%E5%8E%8B%E4%B8%93%E5%AE%B6-oka-%E4%BA%91%E7%9B%98%E6%96%87%E4%BB%B6%E4%B8%8B%E8%BD%BD%E8%A7%A3%E5%8E%8B%E5%8A%A9%E6%89%8B-%E7%BD%91%E7%9B%98%E8%A7%86%E9%A2%91%E6%92%AD%E6%94%BE%E5%99%A8/id1456558069)
+- [夜雨聆风：一个不错的软件下载站，比较良心。](http://www.yeyulingfeng.com/)
+
+![image](https://nsaimg.com/2020/09/15/ec1ab44e6ebc9.jpg)
