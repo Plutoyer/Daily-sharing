@@ -1519,18 +1519,18 @@
 ![image](https://nsaimg.com/2020/06/12/7b561c85b4765.jpg)
 
 # 2020-9-15分享
-一、美句分享
+## 美句分享
 
 温柔正确的人总是难以生存，因为这世界既不温柔，也不正确。
 
 
-二、今日演讲
+## 今日演讲
 [让我们设计能够实现真正变革的社交媒体](http://open.163.com/newview/movie/free?pid=MFKEH5K03&mid=MFKEIBHA1)
 
-三、今日科普
+## 今日科普
 [如何看待高校相对封闭管理政策？为啥烟草征重税、电车有补贴？](https://youtu.be/JANiC1z40gk)
 
-四、今日推荐
+## 今日推荐
 - [动次：快速截取视频精彩画面并转换 GIF](https://dongci.kawo.com/)
 - [天翼云盘免登陆网页解析：无需登录天翼云盘可直接解析下载地址，稳定性未知，目前可用。](https://api.zzux.net/189/)
 - [利用 namecheap 免费获得无限别名域名邮箱](https://haoduck.com/489.html)
