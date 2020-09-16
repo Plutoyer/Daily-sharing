@@ -1538,3 +1538,22 @@
 - [夜雨聆风：一个不错的软件下载站，比较良心。](http://www.yeyulingfeng.com/)
 
 ![image](https://nsaimg.com/2020/09/15/ec1ab44e6ebc9.jpg)
+
+# 2020-9-16分享
+## 美句分享
+想与你饮冰，和你零度看风景，想和你一起走过布宜诺斯艾利斯，绕过密西西比河。去东南亚冲浪，去魁北克滑雪。人类的一生何其漫长，可以历经多少年代，穿越多少战争与和平。而我这一生有很多事情都期待和你一起完成。如果这些都太远，就希望今年的春节也能一边瑟瑟发抖一边和你互道晚安。
+
+## 今日演讲
+[如何成为一个有趣的灵魂？](https://open.163.com/newview/movie/free?pid=MEV9FTEAU&mid=MF5FA49RA#share-mob)
+
+## 今日科普
+[千年奇迹都江堰：2300年前的水利工程如何造就天府之国？](https://www.youtube.com/watch?v=gtFSBftabeU)
+
+## 今日推荐
+- [欧亚影视：欧亚影视改版后看起来还可以，手动更新热门高分影视资源，算是有特色的免费无广告在线影视站。](http://www.oy37.com/)
+- [lala 图库：一个不错的图库，在保持社会主义核心价值的同时图片又不乏看点。](https://233.fi/explore/trending)
+- [微信读书网页版：微信读书网页版现在支持 txt/epub 上传了。可以在网页中阅读上传的小说啦！微信读书网页版，配合 kindle 等墨水屏设备 在浏览器中输入微信读书网页版网址，也有很好的体验。](https://weread.qq.com/#login)
+- [zaix.ru：一个俄罗斯网盘](https://zaix.ru/)
+- [夏冬免费主机：免费的美国、德国、日本虚拟主机，可用于学习网站搭建用途。](https://whatz2333.top/?id=3)
+
+![image](https://nsaimg.com/2020/09/16/ae1af42b80ebd.jpg)
