@@ -1557,3 +1557,22 @@
 - [夏冬免费主机：免费的美国、德国、日本虚拟主机，可用于学习网站搭建用途。](https://whatz2333.top/?id=3)
 
 ![image](https://nsaimg.com/2020/09/16/ae1af42b80ebd.jpg)
+
+# 2020-9-21分享
+## 美句分享
+一个人至少拥有一个梦想，有一个理由去坚强。心若没有栖息的地方，到哪里都是在流浪。
+
+## 今日演讲
+[塑造你的世界观的三种偏见](http://open.163.com/newview/movie/free?pid=MEND0F8MO&mid=MEND0OHCK)
+
+## 今日科普
+[骑自行车为什么比走路省力气？](https://youtu.be/PP2GpVXhfD8)
+
+## 今日推荐
+- [国内高匿 ip 代理：网上免费国外 http/s 代理较多，这个平台是国内普通、高匿名 ip 代理。](http://www.nimadaili.com/gaoni/)
+- [goodgame 盖伦下载器：盖伦下载器包含大概 14t 左右的游戏，利用下载器下载速度快。](http://115.236.47.204:8000/)
+- [鸟叔出品：鸟叔是不死鸟新创建的网站，鉴于近期收到一些让删除敏感信息的邮件，将不死鸟一些相对敏感的内容转移到上面。](https://niao.su/c/)  
+- [整站下载工具 Offline Explorer](https://www.52pojie.cn/thread-790037-1-1.html)
+- [最新全网百度云不限速下载方法合集](https://runine.cn/DuPan/)
+
+![image](https://nsaimg.com/2020/09/21/d48a349a77671.jpg)
