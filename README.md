@@ -1576,3 +1576,22 @@
 - [最新全网百度云不限速下载方法合集](https://runine.cn/DuPan/)
 
 ![image](https://nsaimg.com/2020/09/21/d48a349a77671.jpg)
+
+# 2020-9-22分享
+## 美句分享
+你那么憎恨那些人，和他们斗了那么久，最终却要变得和他们一样，人世间没有任何理想值得以这样的沉沦作为代价。
+
+## 今日演讲
+[五种让你在变化的时代获胜的方式](http://open.163.com/newview/movie/free?pid=MF1EE6E1S&mid=MF1EEHT9H)
+
+## 今日科普
+[人以光速运动会看到什么？追光实验相对论多普勒效应](https://youtu.be/4l5HJSnZkBQ)
+
+## 今日推荐
+- [六耳 tv 资源厂](www.6er.nz)
+- [onego 导航：这个导航索引了很多个人搭建的网盘，里面很多网盘资源量大。](https://ionego.net/)
+- [安卓第三方 rom 下载](https://hao.su/3441/)
+- [GitHub 下载加速](https://niao.su/7/)
+- [wiby：一个简单的搜索引擎，界面干净，搜索结果相对精准。](https://wiby.org/)
+
+![image](https://nsaimg.com/2020/09/22/49179c1a3fcb7.jpg)
