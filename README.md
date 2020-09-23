@@ -1595,3 +1595,22 @@
 - [wiby：一个简单的搜索引擎，界面干净，搜索结果相对精准。](https://wiby.org/)
 
 ![image](https://nsaimg.com/2020/09/22/49179c1a3fcb7.jpg)
+
+# 2020-9-23分享
+## 美句分享
+人的一生有三次死亡。第一次是生物学的死亡；第二次是社会宣布你死亡；第三次是最后一个记得你的人离开这个世界。
+
+## 今日演讲
+[我无家可归的一年](http://open.163.com/newview/movie/free?pid=M94IULLG6&mid=M94IV5DJO)
+
+## 今日科普
+[E=mc²质能方程如何推导](https://www.youtube.com/watch?v=UIp-qO22kQo)
+
+## 今日推荐
+- [ongm：个人搭建的网盘，资源量大，种类较多下载速度快。](https://ongm.net/)
+- [Linux 实用脚本和工具汇总](https://wzfou.com/linux-jiaoben/)
+- [Runine`s bolg：软件分享站](https://runine.cn/)
+- [汇总 PPT 设计利器：一个 PPT 导航，汇总了比较不错的 PPT 素材以及教程网等。](https://www.hippter.com/)
+- [啃芝士：一个科普视频网站，内容不多但质量还可以。](https://www.kenzhishi.com/)
+
+![image](https://nsaimg.com/2020/09/23/e7b18bb07917b.png)
