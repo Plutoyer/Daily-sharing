@@ -1613,4 +1613,4 @@
 - [汇总 PPT 设计利器：一个 PPT 导航，汇总了比较不错的 PPT 素材以及教程网等。](https://www.hippter.com/)
 - [啃芝士：一个科普视频网站，内容不多但质量还可以。](https://www.kenzhishi.com/)
 
-![image](https://nsaimg.com/2020/09/23/e7b18bb07917b.png)
+![image](https://nsaimg.com/2020/09/23/2398ecbb70e19.jpg)
