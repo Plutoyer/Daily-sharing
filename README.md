@@ -1614,3 +1614,22 @@
 - [啃芝士：一个科普视频网站，内容不多但质量还可以。](https://www.kenzhishi.com/)
 
 ![image](https://nsaimg.com/2020/09/23/2398ecbb70e19.jpg)
+
+# 2020-9-24分享
+## 美句分享
+我们听到他的名字不会感到肉体的痛苦，看到他的笔迹也不会发抖，我们不会为了在街上遇见他而改变我们的行程，情感现实逐渐地变成心理现实，成为我们的精神现状：冷漠和遗忘。其实，当我们恋爱时，我们就预见到了日后的结局了，而正是这种预见让我们泪流满面。
+
+## 今日演讲
+[从时装的自由文化里学到的](http://open.163.com/newview/movie/free?pid=M78FJJI92&mid=M78FJR5HH)
+
+## 今日科普
+[布朗运动是什么？太阳光到地球需要多久？](https://www.youtube.com/watch?v=BTdup16T3gc)
+
+## 今日推荐
+- [PDF 全能王：一个微信小程序，初步体验了下还不错的小程序。](https://meta.appinn.net/t/pdf/18786)
+- [美图集：图片较多，首次打开比较慢，黑屏不要关闭耐心等待片刻，可能需要 20 秒以上。](https://hao.su/tu.html)
+- [Keptab for Chrome：一个类似 OneTab 的保存浏览器标签页的谷歌浏览器扩展。](https://www.v2ex.com/t/705082)
+- [我知道你在下载什么](https://iknowwhatyoudownload.com/en/peer/)
+- [UU 在线工具：一个还不错的在线工具网站。](https://uutool.cn/)
+
+![image](https://nsaimg.com/2020/09/24/8f96e97f1d5cb.jpg)
