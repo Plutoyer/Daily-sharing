@@ -1642,7 +1642,7 @@
 [如何让人工智能远离人类的偏见](https://open.163.com/newview/movie/free?pid=MFQAL3OR9&mid=MFQALSL9T)
 
 ## 今日科普
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JhSKLEkrV0c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[蚂蚁金服如何把30亿变成3000亿？资产证券化如何导致美国次贷危机？](https://youtu.be/JhSKLEkrV0c)
 
 ## 今日推荐
 - [六耳 tv 资源厂](www.6er.nz)
@@ -1651,4 +1651,4 @@
 - [GitHub 下载加速](https://niao.su/7/)
 - [wiby：一个简单的搜索引擎，界面干净，搜索结果相对精准。](https://wiby.org/)
 
-![image0(http://qq.tc/image/Vtmc)
+![image](http://qq.tc/image/Vtmc)
