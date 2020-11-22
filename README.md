@@ -1633,3 +1633,22 @@
 - [UU 在线工具：一个还不错的在线工具网站。](https://uutool.cn/)
 
 ![image](https://nsaimg.com/2020/09/24/8f96e97f1d5cb.jpg)
+
+# 2020-11-22分享
+## 美句分享
+我现在开始不迟到，我现在开始比约会时间早到去等人，因为我知道再也没有一个人会那样地去等我，站在约定的地点左顾右盼，所以现在我在重复着你当年的样子，等待着别人的出现，让一个人看到了有人在左顾右盼地等着自己的时候，他肯定也会觉得幸福吧？我并不是突然想起了你的那件奢侈的衣服，只是我在等人无聊的时候想和你说说话，我又没有很想你。
+
+## 今日演讲
+[如何让人工智能远离人类的偏见](https://open.163.com/newview/movie/free?pid=MFQAL3OR9&mid=MFQALSL9T)
+
+## 今日科普
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JhSKLEkrV0c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## 今日推荐
+- [六耳 tv 资源厂](www.6er.nz)
+- [onego 导航：这个导航索引了很多个人搭建的网盘，里面很多网盘资源量大。](https://ionego.net/)
+- [安卓第三方 rom 下载](https://hao.su/3441/)
+- [GitHub 下载加速](https://niao.su/7/)
+- [wiby：一个简单的搜索引擎，界面干净，搜索结果相对精准。](https://wiby.org/)
+
+![image0(http://qq.tc/image/Vtmc)
