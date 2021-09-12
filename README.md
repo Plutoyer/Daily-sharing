@@ -1652,3 +1652,21 @@
 - [wiby：一个简单的搜索引擎，界面干净，搜索结果相对精准。](https://wiby.org/)
 
 ![image](http://qq.tc/image/Vtmc)
+
+# 2021-09-12分享
+## 美句分享
+生活不可能像你想像得那麼美好，但也不會像你想像得那麼糟。 我覺得人的脆弱和堅強都超乎自己的想像。 有時，我們可能脆弱的一句話就淚流滿面， 有時，也發現自己不知不覺咬著牙走了很長的路。
+
+## 今日演讲
+[如果树能说话](https://open.163.com/newview/movie/free?pid=MFNNG19TO&mid=MFNO12NMM)
+
+## 今日科普
+[从北京出发的飞机，绕一圈后还能回到北京吗？答案让你意想不到！](https://www.youtube.com/watch?v=s43wMuXyjto&t=5s)
+四、今日推荐
+- [这个网站通过技术手段让网页上可以正常的玩 FLASH 小游戏](https://1990.games/)
+- [Circle 是一个不错的浏览器扩展，又更新了很多实用功能，喜欢在网页上看小说和大段文字的用户必备扩展](https://ranhe.xyz/circle-reader/)
+- [Windows 文字转语音工具](https://www.52pojie.cn/thread-1492932-1-1.html)
+- [冰点文库 v3.2.9 (0830)](https://szw.lanzoui.com/iY6j9shvh0d)
+- [B 站在线视频解析下载服务](https://xbeibeix.com/api/bilibili/)
+
+![image](https://z3.ax1x.com/2021/09/12/49iqhT.jpg)
