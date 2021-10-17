@@ -1671,3 +1671,22 @@
 - [B 站在线视频解析下载服务](https://xbeibeix.com/api/bilibili/)
 
 ![image](https://z3.ax1x.com/2021/09/12/49iqhT.jpg)
+
+# 2021-10-17分享
+## 美句分享
+用可以想到的一切方法都无法取悦一个人，那只能放弃，这就是最好的取悦。
+
+## 今日演讲
+[这么做，你就能长出新的脑细胞]（https://open.163.com/newview/movie/free?pid=MG76A7331&mid=MG76FR8G1）
+
+## 今日科普
+[中国科学家用CO₂人工合成淀粉！原理是什么？能得诺贝尔奖吗？](https://youtu.be/0i8tqtudhZQ)
+
+## 今日推荐
+- [发送到桌面：一款安卓便捷工具，可以将任何文件以类似电脑快捷方式的形式发送到桌面。](https://andywithqiuer.lanzoui.com/iYNd9t5kz4d)
+- [NanaZip 下载：一款基于 7zip 且支持 Win11 新右键菜单的免费开源压缩软件](https://github.com/M2Team/NanaZip)
+- [可达漫画 iOS：专为 iOS 设计的离线漫画阅读器，目前限免，支持 NAS、WebDAV 的漫画阅读器，并支持图片画质增强](https://apps.apple.com/cn/app/%E5%8F%AF%E8%BE%BE%E6%BC%AB%E7%94%BB-%E6%BC%AB%E7%94%BB-%E5%9B%BE%E7%89%87%E9%98%85%E8%AF%BB%E5%99%A8/id1545372338)
+- [微信 PC 版 (无限多开 + 消息防撤回) 正式版：由极客下载提供的微信 pc 版多开防撤回。](https://www.geekdload.com/7763.html)
+- [在线视频压缩：比较适合短视频压缩，尺寸过大的视频 Windows 可用格式工厂，Mac 可用 HandBrake](http://www.yalijuda.com/%E8%A7%86%E9%A2%91%E5%8E%8B%E7%BC%A9-2/)
+
+![image](https://www.hualigs.cn/image/616bf03665be1.jpg)
