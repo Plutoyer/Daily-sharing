@@ -1706,6 +1706,6 @@
 - [卡音：一款安卓音乐下载器，界面简洁无多余功能](https://lanzouw.com/b015p86wd)
 - [来，跟我一起做 Go 项目](https://www.bilibili.com/video/BV1mu411R7qw)
 - [艾尔登法环：热门游戏艾尔登法环下载](https://www.aliyundrive.com/s/Ubfj7YQLSBx)
-- [各类实用资料：杂七杂八的阿里云 pdf 资源]（https://www.aliyundrive.com/s/5heBgubd98i/）
+- [各类实用资料：杂七杂八的阿里云 pdf 资源](https://www.aliyundrive.com/s/5heBgubd98i/)
 
 ![image](https://gejiba.com/view.php/3ca79520caa226dbac159e4468b92cb9.jpg)
