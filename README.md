@@ -1690,3 +1690,22 @@
 - [在线视频压缩：比较适合短视频压缩，尺寸过大的视频 Windows 可用格式工厂，Mac 可用 HandBrake](http://www.yalijuda.com/%E8%A7%86%E9%A2%91%E5%8E%8B%E7%BC%A9-2/)
 
 ![image](https://www.hualigs.cn/image/616bf03665be1.jpg)
+
+# 2022-3-2分享
+## 美句分享
+你可能不知道自己要的是什麼， 但是， 要先知道自己，不要什麼
+
+## 今日演讲
+[自由公平的互联网惠及所有人]（https://open.163.com/newview/movie/free?pid=MGVT01SC3&mid=MGVT0PHGA）
+
+## 今日科普
+[牛奶：必需品还是阴谋？告诉你关于牛奶的一切]（https://youtu.be/g_Ljlo-_ntU）
+
+## 今日推荐
+- [绝版游戏保护工程：两张光盘容量，近 200 款老游戏]（https://www.appinn.com/preserve-cd/）
+- [卡音：一款安卓音乐下载器，界面简洁无多余功能]（https://lanzouw.com/b015p86wd）
+- [来，跟我一起做 Go 项目](https://www.bilibili.com/video/BV1mu411R7qw)
+- [艾尔登法环：热门游戏艾尔登法环下载](https://www.aliyundrive.com/s/Ubfj7YQLSBx)
+- [各类实用资料：杂七杂八的阿里云 pdf 资源]（https://www.aliyundrive.com/s/5heBgubd98i/）
+
+![image](https://gejiba.com/view.php/3ca79520caa226dbac159e4468b92cb9.jpg)
