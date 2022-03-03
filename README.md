@@ -1709,3 +1709,22 @@
 - [各类实用资料：杂七杂八的阿里云 pdf 资源](https://www.aliyundrive.com/s/5heBgubd98i/)
 
 ![image](https://gejiba.com/view.php/3ca79520caa226dbac159e4468b92cb9.jpg)
+
+# 2022-3-3分享
+## 美句分享
+我们记忆最精华的部分保存在我们的外在世界，在雨日潮湿的空气里、在幽闭空间的气味里、在刚生起火的壁炉的芬芳里，也就是说，在每一个地方，只要我们的理智视为无用而加以摒弃的事物又重新被发现的话。那是过去岁月最后的保留地，是它的精粹，在我们的眼泪流干以后，又让我们重新潸然泪下。
+
+## 今日演讲
+[语言不应成为气候行动的障碍](https://open.163.com/newview/movie/free?pid=MGVSVQOUF&mid=MGVT09CIU)
+
+## 今日科普
+[火炮如何精准命中目标？战争到底带给我们什么？](https://www.youtube.com/watch?v=nalzSo4f0iQ)
+
+## 今日推荐
+- [好工具周刊：发现并分享好用的工具，每周四发布](https://bestxtools.zhubai.love/posts/2108470318578188288)
+- [Pika屏幕截图美化工具：将截图上传，通过简单的设置，就可以快速的将屏幕截图变得更漂亮](https://pika.style/)
+- [小纸条：纯粹的阿里云资源分享网站](https://u.gitcafe.net/)
+- [一个好用的短视频去水印小程序：支持单个作品解析、批量解析、图集解析，支持 100 + 平台](https://4.plus/archives/1698)
+- [WiFi 连接卡：输入 Wi-Fi 信息可以打印分享别人，适合公共 Wi-Fi 或家里经常来不同朋友的人群](https://wificard.io/)
+
+![image](https://gejiba.com/view.php/d70e1790591b95c112599c49a8513628.jpg)
