@@ -1728,3 +1728,22 @@
 - [WiFi 连接卡：输入 Wi-Fi 信息可以打印分享别人，适合公共 Wi-Fi 或家里经常来不同朋友的人群](https://wificard.io/)
 
 ![image](https://gejiba.com/view.php/d70e1790591b95c112599c49a8513628.jpg)
+
+# 2022-3-4分享
+## 美句分享
+我们每个人生在世界上都是孤独的。每个人都被囚禁在一座铁塔里，只能靠一些符号同别人传达自己的思想；而这些符号并没有共同的价值，因此它们的意义是模糊的、不确定的。我们非常可怜地想把自己心中的财富传送给别人，但是他们却没有接受这些财富的能力。因此我们只能孤独的行走，尽管身体相互依傍却并不在一起，既不了解别的人也不能为别人所了解。
+
+## 今日演讲
+[Siri、Alexa、谷歌 ... 接下来是什么？](https://open.163.com/newview/movie/free?pid=MGVSVJLJB&mid=MGVT03V30)
+
+## 今日科普
+[跳台滑雪：运动从百米高空落地为啥不会摔伤？](https://www.youtube.com/watch?v=40qbZ1YYHmA)
+
+## 今日推荐
+- [探索者小舒：一款浏览器扩展，可以帮助你在搜索的时候快速切换到其他搜索引擎](https://ex.xiaoshu.app/)
+- [600 个安卓热门游戏](https://www.aliyundrive.com/s/wFgojgvo8M9)
+- [眺览 TillGlance：一款浏览器扩展，一目十行的阅读方式](https://tillglance.com/)
+- [阿里云盘 tv 版：网友制作维护更新的阿里云盘 tv 版](https://aliyunpantv.gitlab.io/)
+- [小何免费共享网络资源库：腾讯文档整理，持续更新收集阿里云盘资源](https://docs.qq.com/sheet/DWFFJYWRkaVhScVhx?tab=bqu5yv)
+
+![image](https://gejiba.com/view.php/899c177551c43088167435e019abf09b.jpg)
