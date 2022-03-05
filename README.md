@@ -1747,3 +1747,22 @@
 - [小何免费共享网络资源库：腾讯文档整理，持续更新收集阿里云盘资源](https://docs.qq.com/sheet/DWFFJYWRkaVhScVhx?tab=bqu5yv)
 
 ![image](https://gejiba.com/view.php/899c177551c43088167435e019abf09b.jpg)
+
+# 2022-3-5分享
+## 美句分享
+少年时我们追求激情，成熟后却迷恋平庸，在我们寻找，伤害，背离之后，还能一如既往的相信爱情，这是一种勇气。每个人都有属于自己的一片森林，迷失的人迷失了，相逢的人会再相逢。
+
+## 今日演讲
+[脑电波是治愈阿兹海默症的杀手锏吗？](https://open.163.com/newview/movie/free?pid=MGVSV2UVA&mid=MGVSVM5PM)
+
+## 今日科普
+[100⁹⁹和99¹⁰⁰哪个大？谷爱凌在中国上10天课，能顶美国上一年！](https://www.youtube.com/watch?v=WXW2b0eJVsg)
+
+## 今日推荐
+- [Ventoy 多合一 u 盘启动盘制作工具：Ventoy 支持一个 U 盘，同时集成多种系统镜像](https://www.xitmi.com/9126.html)
+- [20TB电子书库](https://www.aliyundrive.com/s/faD3hdLuTws)
+- [中国色：在线配色工具，快速提取 rgb/hex 颜色代码](https://chinese-colors.heyfe.org/)
+- [冰墩墩表情生成器：一键定制属于自己的冰墩墩表情包](https://bdd2022.com/)
+- [a4k 字幕网：简洁无广告的字幕下载站](https://www.a4k.net/)
+
+![image](https://gejiba.com/view.php/3d96d5225d73b6031d0c95e5c3181891.jpg)
