@@ -1766,3 +1766,22 @@
 - [a4k 字幕网：简洁无广告的字幕下载站](https://www.a4k.net/)
 
 ![image](https://gejiba.com/view.php/3d96d5225d73b6031d0c95e5c3181891.jpg)
+
+# 2022-3-6分享
+## 美句分享
+人是从挫折当中去奋进，从怀念中向往未来，从疾病当中恢复健康，从无知当中变得文明，从极度苦恼当中勇敢救赎，不停的自我救赎，并尽可能的帮助他人。人之优势所在，是必须充满精力、自我悔改、自我反省、自我成长，并非一味的向人抱怨。
+
+## 今日演讲
+[网络暴力的失控](https://open.163.com/newview/movie/free?pid=MB2AJMDE1&mid=MB2ALK4GI)
+
+## 今日科普
+[南北极翻转地球毁灭？贾尼别科夫效应最硬核解释](https://www.youtube.com/watch?v=ASzflQV-WXE)
+
+## 今日推荐
+- [Adobe Products：Desktop：Adobe 全家桶 Windows 阿里云盘](https://www.aliyundrive.com/s/pR7WwCSr4TG)
+- [shareba：妹子贴图网站](https://shareba.meetslut.cc/)
+- [IOS 破解游戏：投稿 iOS 破解游戏下载站](https://nk87c.cn/)
+- [最全公开课知识库：由网友维护更新的课程知识库导航索引](https://docs.qq.com/sheet/DRU5MWHZCTHFGQnhM?tab=qb1sze)
+- [莫扎兔影视：蓝光影视在线站](https://www.mozhatu.com/)
+
+![image](https://gejiba.com/view.php/f70d71a62bf7620b3618f61d2c92fa05.jpg)
