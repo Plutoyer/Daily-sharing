@@ -1785,3 +1785,22 @@
 - [莫扎兔影视：蓝光影视在线站](https://www.mozhatu.com/)
 
 ![image](https://gejiba.com/view.php/f70d71a62bf7620b3618f61d2c92fa05.jpg)
+
+# 2022-3-7分享
+## 美句分享
+你爱一个人的时候，你就会怕她。这没什么丢脸的。不过你要记住一点：你可以怕她，但是你不能忘了，你怕是因为你爱她。你爱她是因为你看得起她。她没有权利利用这一点让你顺从她。如果你发现她在利用这个，你就要毫不犹豫地离开她。
+
+## 今日演讲
+[世界一流的医疗保健服务](https://open.163.com/newview/movie/free?pid=M7SMBBJRM&mid=M7SMDN48E)
+
+## 今日科普
+[为何我们能赢0.01秒？短道速滑中国夺冠！](https://youtu.be/9OYBPYKWtQw)
+
+## 今日推荐
+- [wps 智能 ppt： AI 自动美化的在线 PPT 工具](https://aippt.wps.cn/welcome/)
+- [DreamScene2：一个小而快并且功能强大的 Windows 动态桌面软件。支持视频和网页动画播放，支持 Windows10/11 系统。](https://github.com/he55/DreamScene2)
+- [yn：面向程序员的本地 Markdown 笔记工具。一款适合程序员的笔记工具，拥有和其它工具不一样的体验](https://github.com/purocean/yn)
+- [tstock：在命令行看股票走势的工具](https://github.com/Gbox4/tstock)
+- [svg-path-editor：在线 SVG 编辑器](https://github.com/Yqnn/svg-path-editor)
+
+![image](https://gejiba.com/view.php/9838dd88fe15553cc56b18d34b50868d.jpg)
