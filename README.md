@@ -1804,3 +1804,22 @@
 - [svg-path-editor：在线 SVG 编辑器](https://github.com/Yqnn/svg-path-editor)
 
 ![image](https://gejiba.com/view.php/9838dd88fe15553cc56b18d34b50868d.jpg)
+
+# 2022-3-8分享
+## 美句分享
+我们记忆最精华的部分保存在我们的外在世界，在雨日潮湿的空气里、在幽闭空间的气味里、在刚生起火的壁炉的芬芳里，也就是说，在每一个地方，只要我们的理智视为无用而加以摒弃的事物又重新被发现的话。那是过去岁月最后的保留地，是它的精粹，在我们的眼泪流干以后，又让我们重新潸然泪下。
+
+## 今日演讲
+[做一个像样的人，不难](https://open.163.com/newview/movie/free?pid=MCLSCQIJR&mid=MCLSD0C5Q)
+
+## 今日科普
+[生活上省吃俭用，股市里挥金如土！异常消费行为之“心理账户”](https://www.youtube.com/watch?v=U0y0jjMRmyU)
+
+## 今日推荐
+- [resume：简历模板，不需要懂 LaTeX 语法就可以用，适合用来做一页纸简历](https://github.com/billryan/resume)
+- [丁香医生人体调查组：丁香医生出的一本书，介绍一些人们想知道又不方便问的问题，漫画形式，有态度又有趣。](https://musetransfer.com/s/x4itpalnx)
+- [安卓格式工厂：格式工厂推出的安卓版本，此版本移除付费功能，可免费使用所有功能。](https://musetransfer.com/s/oqzn5owqp)
+- [NekoX：国内可用的第三方 tg](https://github.com/NekoX-Dev/NekoX/releases/tag/v8.5.4)
+- [2TB 摄影课程合集](https://www.aliyundrive.com/s/E5Qxiw8z4E6)
+
+![image](https://gejiba.com/view.php/e36e491fb355466ec0d9773c6862ca8b.jpg)
