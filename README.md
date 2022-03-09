@@ -1823,3 +1823,22 @@
 - [2TB 摄影课程合集](https://www.aliyundrive.com/s/E5Qxiw8z4E6)
 
 ![image](https://gejiba.com/view.php/e36e491fb355466ec0d9773c6862ca8b.jpg)
+
+# 2022-3-9分享
+## 美句分享
+当我们到了生命的最后时刻，我们回首往事，审视从前所有的痛苦时光，我们会觉得痛苦的日子才是生命中最好的日子，因为正是那些日子造就了我们，那些开心的年头呢？全浪费了，什么都没学到。从这点看，幸福的时光即虚度的年华。
+
+## 今日演讲
+[动画如何帮助科学家检验假说](https://open.163.com/newview/movie/free?pid=MAFVHHQ1R&mid=MAFVOLVNN)
+
+## 今日科普
+[如何快速筛选质数？费马素性检验和米勒-拉宾测试](https://www.youtube.com/watch?v=E5vtn_OIe-c&list=UUSs4A6HYKmHA2MG_0z-F0xw&index=7)
+
+## 今日推荐
+- [大安全各领域各公司各会议分享的PPT](https://github.com/FeeiCN/Security-PPT)
+- [Deskreen：一个屏幕分享软件，可以把桌面电脑的屏幕（Windows、MacOS、Linux）分享到局域网内的任意设备，只要对方有浏览器就可以接收](https://deskreen.com/lang-zh_CN)
+- [iTab：一个浏览器插件，提供大量选项，让你定制浏览器空白标签页](https://www.itab.link/)
+- [Pixels Chain：一个集体创作的像素画，用户通过连接自己的数字钱包，认领像素点，共同创造完成一幅画，然后做成 NFT](https://www.pixelschain.com/zh)
+- [CyberChef：一个开源网站，集合了上百种实用的小功能（比如 Base64 解码、提取 EXIF、生成 Hash 等等），都包括在一个网页里面。熟悉以后，非常好用。](https://gchq.github.io/CyberChef/)
+
+![image](https://gejiba.com/view.php/25b8718cdf7ff165b98cd1011fc6fc60.jpg)
