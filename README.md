@@ -1842,3 +1842,22 @@
 - [CyberChef：一个开源网站，集合了上百种实用的小功能（比如 Base64 解码、提取 EXIF、生成 Hash 等等），都包括在一个网页里面。熟悉以后，非常好用。](https://gchq.github.io/CyberChef/)
 
 ![image](https://gejiba.com/view.php/25b8718cdf7ff165b98cd1011fc6fc60.jpg)
+
+# 2022-3-10分享
+## 美句分享
+我不记得那是何年何月的事情了。我只知道记忆与我同在，将美好的往事完美的浓缩起来，如同一笔浓墨重彩，涂抹在我们那已经变得灰白单调的生活画布上。
+
+## 今日演讲
+[被判无期徒刑的女人: 一首来自监狱中无期徒刑的女人的歌](https://open.163.com/newview/movie/free?pid=MAU20GIGL&mid=MAU41S8C9）
+
+## 今日科普
+[街头游戏“摸珠子”有多坑？你大爷还是你大爷！](https://www.youtube.com/watch?v=nXDpimkn7vM)
+
+## 今日推荐
+- [计时器掌控者：计时器掌控者是一款基于 Tampermonkey 油猴，用于任意网页的计时器的加 / 减速、视频播放器的快 / 慢放的脚本](https://timer.palerock.cn/)
+- [AnimeCat 动漫播放器](https://meta.appinn.net/t/topic/30610)
+- [讯飞语音提取版](https://wwm.lanzouw.com/i0LSb00uow2j)
+- [GIF123 录屏工具：一款 Windows 平台极简的 GIF 录制软件，单文件绿色软件，免费开源(https://gitee.com/realyoyodadada/haoruanfenxiang/blob/master/List.md)
+- [好软件分享](https://gitee.com/realyoyodadada/haoruanfenxiang/blob/master/List.md)
+
+![image](https://gejiba.com/view.php/364a15a488af5dd9c58774d09291e7ff.png)
