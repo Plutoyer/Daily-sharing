@@ -1861,3 +1861,21 @@
 - [好软件分享](https://gitee.com/realyoyodadada/haoruanfenxiang/blob/master/List.md)
 
 ![image](https://gejiba.com/view.php/364a15a488af5dd9c58774d09291e7ff.png)
+
+一、美句分享
+有一天你会发现，删掉的人可能曾经有过几百页的聊天记录；街上碰见了也不打招呼的人，可能曾经也乐此不疲地整天混在一起；背后把你说得什么都不是的人，曾经也可能是好朋友。身边的人总在不断的更替，有些关系也断的悄无声息。
+
+二、今日演讲
+[达顿解释达尔文主义的美的理论](https://open.163.com/newview/movie/free?pid=M9AHLRI05&mid=M9AHLVFVP)
+
+三、今日科普
+[汤加火山是如何形成的？超级火山喷发如何改变人类命运？](https://www.youtube.com/watch?v=CkpV9pHch04)
+
+四、今日推荐
+[songtaste：一个分享冷门音乐的网站，因版权问题关站多次，目前又复活了](https://songtaste.cm/song/top)
+[PDFPatcher ：多功能的 PDF 工具箱，可用于修改 PDF 文件信息](https://github.com/wmjordan/PDFPatcher)
+[timg：在终端查看图片、动图、视频的命令行工具](https://github.com/hzeller/timg)
+[resume：在线简历生成器](https://github.com/visiky/resume)
+[Hitomi-Downloader：Python 写的桌面下载工具。界面简单使用方便，拥有下载限速、BT 种子、自动提取网页视频等功能，支持下载国内多个视频网站的内容](https://github.com/KurtBestor/Hitomi-Downloader)
+
+![image](https://gejiba.com/view.php/9838dd88fe15553cc56b18d34b50868d.jpg)
