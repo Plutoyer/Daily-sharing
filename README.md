@@ -1862,6 +1862,7 @@
 
 ![image](https://gejiba.com/view.php/364a15a488af5dd9c58774d09291e7ff.png)
 
+# 2022-3-13分享
 ## 美句分享
 有一天你会发现，删掉的人可能曾经有过几百页的聊天记录；街上碰见了也不打招呼的人，可能曾经也乐此不疲地整天混在一起；背后把你说得什么都不是的人，曾经也可能是好朋友。身边的人总在不断的更替，有些关系也断的悄无声息。
 
@@ -1879,3 +1880,22 @@
 [Hitomi-Downloader：Python 写的桌面下载工具。界面简单使用方便，拥有下载限速、BT 种子、自动提取网页视频等功能，支持下载国内多个视频网站的内容](https://github.com/KurtBestor/Hitomi-Downloader)
 
 ![image](https://gejiba.com/view.php/9838dd88fe15553cc56b18d34b50868d.jpg)
+
+# 2022-3-14分享
+## 美句分享
+一个人越成长就越觉得很多东西不必看得太重，比如外界对你的期望，比如无关紧要的人对你喜欢与否。过分看重就会让你迷失自我，仅仅是活出了他人帮你定义的成功。为了讨好别人，踮着脚尖改来改去，而被别人绑架了人生。一路走下来，才明白真正的魅力不是你应该变成谁，而是你本身是谁。
+
+## 今日演讲
+[为什么智能统计数据是打击犯罪的关键](https://open.163.com/newview/movie/free?pid=MADNH40PG&mid=MADP95EML)
+
+## 今日科普
+[100亿美元造的詹姆斯·韦伯空间望远镜望到底能干啥？宇宙演化和外星生命就看它了](https://www.youtube.com/watch?v=Rnz4TpdplAo)
+
+## 今日推荐
+- [trzsz：简单实用的文件传输工具。支持 tmux 和 iTerm2 一起使用，并且有显示上传/下载进度的进度条](https://github.com/trzsz/trzsz)
+ - [萝卜工坊：在线转换手写文档，ai 字体制作](http://www.beautifulcarrot.com/)
+ - [Fosshub：一个国外免费开源软件下载站，下载的软件没有捆绑，没有恶意软件](https://www.fosshub.com/)
+ - [猫影视 tv：推荐一下，猫影视 tv 真的不错](https://www.sharerw.com/a/ziyuan/634.html)
+ - [VNote：发现一个特别好用的 markdown 笔记软件，有无限层级，同步也方便](https://tamlok.gitee.io/vnote/zh_cn/)
+
+![image](https://gejiba.com/view.php/08221de78a9315e469c07d193062fa83.png)
