@@ -1899,3 +1899,22 @@
  - [VNote：发现一个特别好用的 markdown 笔记软件，有无限层级，同步也方便](https://tamlok.gitee.io/vnote/zh_cn/)
 
 ![image](https://gejiba.com/view.php/08221de78a9315e469c07d193062fa83.png)
+
+# 2022-3-17分享
+## 美句分享
+那一瞬間，妳終於發現， 那曾深愛過的人早在告別的那天，已消失在這個世界。 那一瞬間，妳終於發現， 心中的愛和思念，都只是屬於自己，曾經擁有過的紀念。
+
+## 今日演讲
+[破解语言学习之谜](https://open.163.com/newview/movie/free?pid=MAVFT31VD&mid=MAVFTJPHR)
+
+## 今日科普
+[亲测电流速度：每秒200000公里，可绕地球5圈！](https://www.youtube.com/watch?v=sm4I-cxJXco）
+
+## 今日推荐
+- [大师兄 iOS：iOS 上不错的影视 app](https://mp.weixin.qq.com/s/2ly5WIaOh_O8PJhaNtw-jw)
+- [Adobe 全套软件下载：win/mac 全家桶](https://xtayun.com/s/OB5HY)
+- [Pictures for Pexels 限免：一个第三方的 iOS 无版权图库 Pexels 应用](https://apps.apple.com/cn/app/id1464406619)
+- [东方永页机：一个油猴脚本，适配互联网上 90% 网站的自动翻页脚本](https://meta.appinn.net/t/topic/29275)
+- [简洁云盘 sou：一款 Windows 云盘搜索工具，可搜索蓝奏，阿里，度盘 密码:8rxm](https://wwi.lanzouy.com/b0116e7ni )
+
+![image](https://gejiba.com/view.php/44b9ce74bb6cec98f60272e17e159aaf.jpg)
