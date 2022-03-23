@@ -1918,3 +1918,23 @@
 - [简洁云盘 sou：一款 Windows 云盘搜索工具，可搜索蓝奏，阿里，度盘 密码:8rxm](https://wwi.lanzouy.com/b0116e7ni )
 
 ![image](https://gejiba.com/view.php/44b9ce74bb6cec98f60272e17e159aaf.jpg)
+
+# 2022-3-23分享
+## 美句分享
+我不记得那是何年何月的事情了。我只知道记忆与我同在，将美好的往事完美的浓缩起来，如同一笔浓墨重彩，涂抹在我们那已经变得灰白单调的生活画布上。
+
+## 今日演讲
+[想要帮助别人？闭嘴，听人家说！](https://open.163.com/newview/movie/free?pid=M9233REUV&mid=M957HUPR0)
+
+## 今日科普
+[伦镍暴涨，青山控股遭逼空！LME为何“拉偏架帮中国人”？](https://www.youtube.com/watch?v=w-PHZg1qmcU)
+
+## 今日推荐
+- [壹起共享阿里云网盘：腾讯文档整理超过千 t 阿里网盘资源。资源过多，有效性未检测](https://docs.qq.com/sheet/DSlZmRHNtREpnaFFO?tab=BB08J2)
+- [mdsilo：一个基于浏览器的笔记应用，也可作为 PWA 安装为应用](https://mdsilo.com/)
+- [油小猴：一个汇聚了多个实用油猴脚本的黑科技小站](https://www.baiduyun.wiki/)
+- [知识效率集：各种各样资源、技巧教学等](https://www.noisesite.cn/)
+- [知拾收藏：微信绑定知拾收藏小助手后，将内容转发小助手即可收藏文本、图片、语音、视频、文件、地理位置、聊天记录等等，传输后的信息都会保存在云端，可在知拾收藏网页端以及 app 中查看](https://km.bytell.cn/wxcollect)
+
+![image](https://gejiba.com/view.php/f33151d8aee4ccbe1868511edbda3cc2.jpg)
+
