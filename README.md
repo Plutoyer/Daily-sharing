@@ -1938,3 +1938,21 @@
 
 ![image](https://gejiba.com/view.php/f33151d8aee4ccbe1868511edbda3cc2.jpg)
 
+# 2022-3-24分享
+## 美句分享
+寂静在喧嚣里低头不语，沉默在黑夜里与目光结交，于是，我们看错了世界，却说世界欺骗了我们。
+
+## 今日演讲
+[3 reasons for optimism in difficult times](https://www.ted.com/talks/kevin_kelly_3_reasons_for_optimism_in_difficult_times)
+
+## 今日科普
+[解答光真的有质量吗？](https://www.bilibili.com/video/BV13Y411n7Yn?spm_id_from=333.999.0.0)
+
+## 今日推荐
+- [星际黑客：一个域名很好记的互联网安全相关导航](https://xj.hk/)
+- [羊驼网盘： 一个类似蓝奏网盘的国外小文件分享网盘，总容量 2T，单文件 100m，下载速度国内还 ok](https://www.alpacadisk.com/)
+- [报告查一查：一款轻量级的行业研究工具，可快速获取各行业数据及最新分析报告](http://report.seedsufe.com/index)
+- [阿里云盘资源分享社区](https://alyunpan.com/)
+- [opendoodles：一套国外免费的开源插图](https://www.opendoodles.com/)
+
+![image](https://gejiba.com/view.php/44b9ce74bb6cec98f60272e17e159aaf.jpg)
