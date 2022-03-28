@@ -1956,3 +1956,22 @@
 - [opendoodles：一套国外免费的开源插图](https://www.opendoodles.com/)
 
 ![image](https://gejiba.com/view.php/44b9ce74bb6cec98f60272e17e159aaf.jpg)
+
+# 2022-3-28分享
+## 美句分享
+無論如何都不想失去的人，最好保留在朋友的關係以內。 如果跨越界線成為戀人，結局可能是永遠，但也可能是永別。
+
+## 今日演讲
+[NFL四分卫是如何渡过难关和克服自我怀疑的](https://open.163.com/newview/movie/free?pid=MH0CMH1R6&mid=MH0CMTUFD)
+
+## 今日科普
+[中国宇航员太空授课上瘾了！居然用冰墩墩做实验道具！](https://www.youtube.com/watch?v=TT03-L9QB9Q）
+
+# 今日推荐
+- [magiceraser 魔术橡皮擦：免费无需注册的图片魔术橡皮擦，快速删除图片中不想要的元素，也可作为去水印工具使用](https://www.magiceraser.io/)
+- [智影：腾讯出品的在线视频创作平台，集素材搜集、视频剪辑、后期包装、渲染导出和发布于一体的免费在线剪辑平台](https://zenvideo.qq.com/home)
+- [星球视频：一款小小的星球视频就能白飘全部影视资源](https://pttv11.xyz/?utm_source=wechat&utm_medium=gzh31&channel=gzh31)
+- [文字转语音：免费的文字转语音工具，文字时长超过 40 秒无法生成，可以用来生成一些较短的语音](https://toolight.cn/media/reading)
+- [Smart TOC：自动为网页添加页面目录](https://www.appinn.com/new-smart-toc/)
+
+![image](https://gejiba.com/view.php/d9911d6a44358007831fb3c34bac4418.jpg)
