@@ -1975,3 +1975,22 @@
 - [Smart TOC：自动为网页添加页面目录](https://www.appinn.com/new-smart-toc/)
 
 ![image](https://gejiba.com/view.php/d9911d6a44358007831fb3c34bac4418.jpg)
+
+# 2022-3-29分享
+## 美句分享
+我不记得那是何年何月的事情了。我只知道记忆与我同在，将美好的往事完美的浓缩起来，如同一笔浓墨重彩，涂抹在我们那已经变得灰白单调的生活画布上。
+
+## 今日演讲
+[海草和牛嗝如何影响气候变化](https://open.163.com/newview/movie/free?pid=MH256MKT1&mid=MH27U1SJD）
+
+## 今日科普
+[带你回顾一个伟大公式的诞生E=mc²](https://www.bilibili.com/video/BV1DF41147Fn?spm_id_from=333.999.0.0)
+
+## 今日推荐
+- [中国法律快查手册：一款免费 iOS 法律快查 app，希望大家知法懂法守法](https://apps.apple.com/app/cn/id1612953870)
+- [Video DownloadHelper：一个影音嗅探下载扩展，可以点击扩展 logo 自动嗅探网页中的媒体文件](https://chrome.crxsoso.com/addon/detail/jmkaglaafmhbcpleggkmaliipiilhldn)
+- [发音转换器：可以将中文的发音对应到外语发音，以达到用外语说中文的效果](http://uahh.syouzyo.org/fyzhq)
+- [文件驿站：网友基于 pikpak 制作的便捷服务，无需注册登录，可以一键离线下载](https://file.progo.cc/#/)
+- [Stream Recorder：下载流媒体视频的谷歌浏览器扩展](https://mp.weixin.qq.com/s/8NSBQoNIYTZBYBdZIu-XKg）
+
+![image](https://gejiba.com/view.php/253e9166d67b12e83d563e5a38573e2d.jpg)
