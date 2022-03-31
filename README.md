@@ -1994,3 +1994,20 @@
 - [Stream Recorder：下载流媒体视频的谷歌浏览器扩展](https://mp.weixin.qq.com/s/8NSBQoNIYTZBYBdZIu-XKg）
 
 ![image](https://gejiba.com/view.php/253e9166d67b12e83d563e5a38573e2d.jpg)
+
+# 2022-3-29分享
+## 美句分享
+生活不可能像你想像得那麼美好，但也不會像你想像得那麼糟，我覺得人的脆弱和堅強都超乎自己的想像，有時我們可能脆弱的一句話就淚流滿面，有時，也發現自己不知不覺咬著牙走了很長的路。
+
+## 今日演讲
+[对美国大学运动员的剥削](https://open.163.com/newview/movie/free?pid=MH0CNEKQF&mid=MH0CNQE31)
+
+## 今日科普
+[哥尼斯堡七桥问题：什么样的图形可以一笔画？](https://www.youtube.com/watch?v=QsMycO8B4M0)
+
+## 今日推荐
+- [Can I Run It：Can I Run It 是一个帮你测试电脑性能的网站，它的游戏数据库中拥有超过 8500 款游戏，只需要选择你想要玩的游戏，下载一个小程序，几秒钟后就会告诉你：你的电脑能运行它吗](https://www.appinn.com/can-i-run-it/)
+- [Orange 文件搜索引擎：一款免费跨平台的文件搜索工具。毫秒级搜索响应低 CPU、内存资源占用]（https://github.com/naaive/orange/blob/master/README_cn.md）
+- [抖音无水印下载：抖音无水印下载工具，仅 700KB 的 Windows 单程序，打开就能用](https://www.aliyundrive.com/s/9E9A6MZArmp)
+- [啰里啰唆：一个分享和探讨这个世界一切有趣，有价值的周刊]（https://luoliluosuo.zhubai.love/)
+- [时光音乐会：比较不错的音乐综艺，一群歌手坐下来聊聊天唱唱歌](https://www.aliyundrive.com/s/9QrZMz462o3)
