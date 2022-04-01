@@ -2011,3 +2011,23 @@
 - [抖音无水印下载：抖音无水印下载工具，仅 700KB 的 Windows 单程序，打开就能用](https://www.aliyundrive.com/s/9E9A6MZArmp)
 - [啰里啰唆：一个分享和探讨这个世界一切有趣，有价值的周刊]（https://luoliluosuo.zhubai.love/)
 - [时光音乐会：比较不错的音乐综艺，一群歌手坐下来聊聊天唱唱歌](https://www.aliyundrive.com/s/9QrZMz462o3)
+
+# 2022-4-1分享
+## 美句分享
+我祈求时间静止，静止在你对我微笑的那一刻，那一刻我能感受你的温柔；我祈求时间倒流，可以再次跟你擦肩而过，再次看你如水的眼眸。望着你的背影渐行渐远、时隐时现，我确信你已离开我的生活。我告诉生命不曾遇见你，然而你真实的来过我的世界，带来了浓浓的甜蜜，却留下淡淡的回忆。来与不来，是走是留，我都微笑依旧，我都真心依旧
+
+## 今日演讲
+[神秘的深时艺术](https://open.163.com/newview/movie/free?pid=MH2KJEN0E&mid=MH2KJP6IJ)
+
+## 今日科普
+[如何快速筛选质数？费马素性检验和米勒-拉宾测试]](https://www.youtube.com/watch?v=E5vtn_OIe-c&t=2s)
+
+## 今日推荐
+- [伪 PanDownload：一款百度网盘不限速下载工具](https://www.fy6b.com/pandown.html)
+- [byrut：俄罗斯最大的游戏资源破解网站](https://byrut.org/)
+- [程序员做菜指南：之前只有 GitHub 页面，现在有单独网页](https://cook.aiurs.co/)
+- [Terrain2STL：该网站可以获取全球任何一个地点的地形图，生成 STL 文件供下载，你可以用 3D 打印机把地形打印成模型](https://jthatch.com/Terrain2STL/)
+- [AirPods 跳绳计数 App：AirPods 新增了三轴加速度运动传感器，基于该传感器可以实现跳绳计数，只需戴着耳机就能知道跳了多少次](https://apps.apple.com/cn/app/id1485959492)
+
+![image](https://gejiba.com/view.php/6e84abe40b77809fbb5acaf7ae7f6af2.jpg)
+
