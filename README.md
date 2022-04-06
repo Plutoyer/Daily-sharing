@@ -2031,3 +2031,23 @@
 
 ![image](https://gejiba.com/view.php/6e84abe40b77809fbb5acaf7ae7f6af2.jpg)
 
+# 2022-4-6分享
+## 美句分享
+少年时我们追求激情，成熟后却迷恋平庸，在我们寻找，伤害，背离之后，还能一如既往的相信爱情，这是一种勇气。每个人都有属于自己的一片森林，迷失的人迷失了，相逢的人会再相逢。
+
+## 今日演讲
+[一副不断进化的地球万物地图](https://open.163.com/newview/movie/free?pid=MH2K1FQPG&mid=MH2K1N4MN)
+
+## 今日科普
+[“马”能不重复的走遍整个象棋盘吗？图论之骑士巡游问题](https://youtu.be/IzhEc0oaRBc)
+
+## 今日推荐
+- [Process Hacker：一款 Windows 软件，用来监控系统信息，能够查看每个进程的详细情况](https://processhacker.sourceforge.io/)
+- [TreeSheets：一个电子白板的桌面程序，很适合记笔记，要比思维脑图好用，也可以用作自由格式的电子表格](https://strlen.com/treesheets/)
+- [Fossil Wiki：一个开源的 Wiki 软件，出自 SQLite 作者之手，质量肯定没有问题。它同时也是一个版本管理系统，数据保存在 SQLite 里面](https://fossil-scm.org/home/doc/trunk/www/wikitheory.wiki)
+- [go-mitmproxy：Go 语言写的中间人拦截工具，可以拦截 HTTPS 通信，带有插件扩展功能和 Web 界面](https://github.com/lqqyt2423/go-mitmproxy/blob/main/README_CN.md)
+- [S2：一个表格可视化引擎，可以为数据表制作各种各样的效果](https://s2.antv.vision/zh)
+
+![image](https://gejiba.com/view.php/6e84abe40b77809fbb5acaf7ae7f6af2.jpg)
+
+
