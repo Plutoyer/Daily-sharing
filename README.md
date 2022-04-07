@@ -2050,4 +2050,21 @@
 
 ![image](https://gejiba.com/view.php/6e84abe40b77809fbb5acaf7ae7f6af2.jpg)
 
+# 2022-4-7分享
+## 美句分享
+無論如何都不想失去的人，最好保留在朋友的關係內。如果跨越界線成為戀人，結局可能是永遠，但也可能是永別。
 
+## 今日演讲
+[零碳燃料改变货运方式](https://open.163.com/newview/movie/free?pid=MH25D7DIG&mid=MH2KHVOVF)
+
+## 今日科普
+[100亿美元造的詹姆斯·韦伯空间望远镜望到底能干啥？宇宙演化和外星生命就看它了](https://www.youtube.com/watch?v=Rnz4TpdplAo&t=17s)
+
+## 今日推荐
+- [Smart TOC：一个开源的浏览器插件，自动为网页内容生成目录，便于浏览与跳转](https://github.com/lcomplete/smart-toc)
+- [Unicode 向 utf8 转化演示：这个网页工具可以演示 Unicode 码点如何转成 UTF-8 编码](https://devtool.tech/utf8)
+- [Unredacter：这个工具可以还原马赛克图片的原始内容](https://github.com/bishopfox/unredacter)
+- [Grist：一个开源的电子表格程序，特点是可以使用 Python 语法写的表格公式](https://github.com/gristlabs/grist-core)
+- [野生架构师周刊：网友写的中文周刊，介绍软件开发的各种内容，目前发到第11期](https://www.getrevue.co/profile/lcomplete)
+
+![image](https://gejiba.com/view.php/6dd5b916125bfc0630aa1cab7d38027d.jpg)
