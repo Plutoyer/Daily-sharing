@@ -2068,3 +2068,22 @@
 - [野生架构师周刊：网友写的中文周刊，介绍软件开发的各种内容，目前发到第11期](https://www.getrevue.co/profile/lcomplete)
 
 ![image](https://gejiba.com/view.php/6dd5b916125bfc0630aa1cab7d38027d.jpg)
+
+# 2022-4-11分享
+## 美句分享
+我们每个人生在世界上都是孤独的。每个人都被囚禁在一座铁塔里，只能靠一些符号同别人传达自己的思想；而这些符号并没有共同的价值，因此它们的意义是模糊的、不确定的。我们非常可怜地想把自己心中的财富传送给别人，但是他们却没有接受这些财富的能力。因此我们只能孤独的行走，尽管身体相互依傍却并不在一起，既不了解别的人也不能为别人所了解。
+
+## 今日演讲
+[丈量无名之地的旅程](https://open.163.com/newview/movie/free?pid=MH2KIU6IU&mid=MH2KJ42UN)
+
+## 今日科普
+[地球自转加快一天已不足24小时！地球如何形成？谁推动它旋转？](https://www.youtube.com/watch?v=QPonfTNJ9JI)
+
+## 今日推荐
+- [开始音乐创作之旅：可视化的音乐教程，介绍了音乐的组成：鼓、贝斯、和弦与旋律，用户可以在网页界面上按照其提供的基本组成来构建自己的 demo](https://learningmusic.ableton.com/zh-Hans/)
+- [Awesome Games：这个仓库收集 GitHub 上面的所有开源游戏](https://github.com/michelpereira/awesome-open-source-games)
+- [领奖台播客 app：一款支持安卓 /iOS 的播客 app，无需登录，不收集数据，不推送广告的播客应用](https://www.lingjiangtai.com/app)
+- [阿里云盘旧版：阿里云盘推出了会员制，该版本可免费看 1080p](https://www.xitmi.com/10565.html)
+- [免费开源视频剪辑软件 OpenShot：新手友好支持多平台](https://www.openshot.org/zh-hans/download/)
+
+![image](https://gejiba.com/view.php/75e96fe9408eb23027c42a472c98d772.jpg)
