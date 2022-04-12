@@ -2087,3 +2087,22 @@
 - [免费开源视频剪辑软件 OpenShot：新手友好支持多平台](https://www.openshot.org/zh-hans/download/)
 
 ![image](https://gejiba.com/view.php/75e96fe9408eb23027c42a472c98d772.jpg)
+
+# 2022-4-12分享
+## 美句分享
+一个人越成长就越觉得很多东西不必看得太重，比如外界对你的期望，比如无关紧要的人对你喜欢与否。过分看重就会让你迷失自我，仅仅是活出了他人帮你定义的成功。为了讨好别人，踮着脚尖改来改去，而被别人绑架了人生。一路走下来，才明白真正的魅力不是你应该变成谁，而是你本身是谁。
+
+## 今日演讲
+[为后代留下一个更好的世界](https://open.163.com/newview/movie/free?pid=MH2UT5V8V&mid=MH2UT9SE3)
+
+## 今日科普
+[什么车能吸在隧道顶狂飙？不得不学的空气动力学！](https://www.youtube.com/watch?v=PoGRJBsYnpg)
+
+## 今日推荐
+- [motrix 下载器 ：更新下载速度更快的分发链接](https://motrix.app/zh-CN/)
+- [9Apps 安卓第三方应用市场：更新官网最新版本](https://musetransfer.com/s/icgy6fwnh)
+- [ndm 免费的多线程下载工具：更新下载速度更快的分发链接](https://www.neatdownloadmanager.com/index.php/en/)
+- [椒盐音乐：比较清爽干净的安卓本地音乐播放器](https://moriafly.xyz/HiMoriafly/salt-player/download.html#%E4%B8%8B%E8%BD%BD%E8%AF%B4%E6%98%8E)
+- [学习猫：一个学习资源分享网站](https://learncat.cn/home)
+
+![image](https://gejiba.com/view.php/e2aab62ec63ef9c49e3a4650bfca1a80.png)
