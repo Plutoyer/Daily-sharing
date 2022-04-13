@@ -2106,3 +2106,22 @@
 - [学习猫：一个学习资源分享网站](https://learncat.cn/home)
 
 ![image](https://gejiba.com/view.php/e2aab62ec63ef9c49e3a4650bfca1a80.png)
+
+# 2022-4-13分享
+## 美句分享
+你還好嗎？」這句話是面照妖鏡，會反射出自己的原型， 你的堅強與脆弱在它面前都無所遁形。要離開傷心或許沒那麼容易， 但想要痊癒就要多點耐心，必須學會不心急、不脅迫，而摧毀與重建都是一個堅定的過程， 平心靜氣才是告別一個人的終點。每個人最終能夠拯救自己的，都只有自己， 能夠讓自己好起來的，也只有自己。一個人時，都要學會照顧自己。 真正的痊癒，是指能夠在面對過往時不嘆氣、看見回憶迎面而來時不別過頭去， 然後，在它走遠的時候，不再頻頻回顧。
+
+## 今日演讲
+[一个可以减少碳排放的“泥”点子](https://open.163.com/newview/movie/free?pid=MH31KCVUI&mid=MH31KGAT1)
+
+## 今日科普
+[核酸检测准不准？数学告诉你答案](https://www.youtube.com/watch?v=Seje2u1fltQ)
+
+## 今日推荐
+- [hashcat ：一款强大的密码恢复工具。破解速度超快支持多种算法，适用于 Linux、macOS 和 Windows 操作系统](https://github.com/hashcat/hashcat)
+- [Monitorian：轻松调节多个显示器亮度的 Windows 桌面工具。操作界面支持中文，使用时显示器需要开启 DDC/CI](https://github.com/emoacht/Monitorian）
+- [hh-lol-prophet ：英雄联盟对局先知工具。免费合法不封号，原理是基于 LOL 客户端接口获取用户数据，实现开局前对玩家信息分析和打分](https://github.com/real-web-world/hh-lol-prophet)
+- [reveal.js ：一款 HTML 演示框架。让你摆脱传统死板的 PPT 制作方法，可以方便地使用 HTML、Markdown 语言制作 PPT](https://github.com/hakimel/reveal.js)
+- [charts：简单、零依赖、响应式的 SVG 图表库](https://github.com/frappe/charts)
+
+![image](https://gejiba.com/view.php/17df9f089d5cb28456bbd7868162e86a.png)
