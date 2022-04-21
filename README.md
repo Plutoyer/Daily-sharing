@@ -2125,3 +2125,22 @@
 - [charts：简单、零依赖、响应式的 SVG 图表库](https://github.com/frappe/charts)
 
 ![image](https://gejiba.com/view.php/17df9f089d5cb28456bbd7868162e86a.png)
+
+# 2022-4-21分享
+## 美句分享
+当我们到了生命的最后时刻，我们回首往事，审视从前所有的痛苦时光，我们会觉得痛苦的日子才是生命中最好的日子，因为正是那些日子造就了我们，那些开心的年头呢？全浪费了，什么都没学到。从这点看，幸福的时光即虚度的年华。
+
+## 今日演讲
+[一个“洁净”网络的代价](https://open.163.com/newview/movie/free?pid=MH3EF9236&mid=MH3EFI9QL)
+
+## 今日科普
+[什么车能吸在隧道顶狂飙？不得不学的空气动力学！](https://www.youtube.com/watch?v=PoGRJBsYnpg&t=2s)
+
+## 今日推荐
+- [imgggg：将链接转换为精美的分享图片的小工具，以图片的方式截取并分享万物](https://imgg.gg/)
+- [Screely：一款简单的截图美化工具](https://www.screely.com/)
+- [Kill the Newsletter：一个开源服务，可以将新闻邮件（Newsletter），转为 RSS feed 输出。用户可以自己架设服务](https://github.com/leafac/kill-the-newsletter)
+- [follow.it：以 Newsletter 的形式订阅任意 RSS 的服务](https://follow.it/enter-website)
+- [View Source：可以在手机查看网页源码的工具](https://neatnik.net/view-source/)
+
+![image](https://img.gejiba.com/image/v7xG8)
