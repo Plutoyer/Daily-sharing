@@ -2144,3 +2144,22 @@
 - [View Source：可以在手机查看网页源码的工具](https://neatnik.net/view-source/)
 
 ![image](https://img.gejiba.com/image/v7xG8)
+
+# 2022-4-24分享
+## 美句分享
+三毛曾经说过：“永远不抗拒生命给我们的重负，才是一个勇者。”所以20多岁即便贫穷，也要踏踏实实地生活，让青春和岁月打磨出最优秀的你。未来其实没有那么光鲜也不至于空白。
+
+## 今日演讲
+[面对新型冠状病毒：已知与未知](https://open.163.com/newview/movie/free?pid=MH3EDRP6L&mid=MH3EE0PTM)
+
+## 今日科普
+[病毒为何不停变异？旅行推销员问题和遗传算法](https://www.youtube.com/watch?v=iM-VKHWd_JE)
+
+## 今日推荐
+- [Magic Eraser：使用人工智能技术从图片中删除你不需要的东西，100%免费，无需注册](https://www.magiceraser.io/)
+- [Yandex 图片在线翻译器：这个工具可以将图片上的文本内容进行识别并翻译成各种语言]（https://translate.yandex.com/ocr）
+- [Poet.so：将 Twitter 推文转成漂亮的图片的工具](https://poet.so/)
+- [艺术二维码生成器：免费开源的二维码美化工具](https://qrbtf.com/)
+- [Multiavatar：免费的头像生成工具，可产生 120 亿个独特的头像化身。可以免费使用任何生成的头像作为你的头像图片，游戏标志，作为你设计项目的一部分等等](https://multiavatar.com/)
+
+![image](https://img.gejiba.com/image/01vLp)
