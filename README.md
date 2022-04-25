@@ -2163,3 +2163,20 @@
 - [Multiavatar：免费的头像生成工具，可产生 120 亿个独特的头像化身。可以免费使用任何生成的头像作为你的头像图片，游戏标志，作为你设计项目的一部分等等](https://multiavatar.com/)
 
 ![image](https://img.gejiba.com/image/01vLp)
+
+# 2022-4-25分享
+## 美句分享
+旭日东升，在山峦与山峦之间。刹那间，明媚的日光照散一重一重的雾气，倾洒人间，日出而生，依然如初；皓月悬空，在繁星群中。披衣到窗前，顺着清澈透明的光，恍惚间看到，月上广寒宫的仙子，挥动飘飘衣袂，翘袖轻盈，舞动千万年，不知疲乏。皓月当空，舞姿依然；早晨，早醒时分，见心爱之人卧与身侧，望其酣睡的眉眼，小日子依然。愿你所珍爱的一切也是，依然如初。
+
+## 今日演讲
+[有农民才能有饭吃、有衣穿、有酒喝](https://open.163.com/newview/movie/free?pid=MH3OL32VV&mid=MH3OL87S1)
+
+## 今日科普
+[古代科举考试考什么？科举制度为何能延续1300年？](https://www.youtube.com/watch?v=6Hgk8GApTqw)
+
+## 今日推荐
+- [微软数学求解器（Microsoft Math Solver）：微软推出的在线数学求解器。有网页版，iOS、安卓端应用](https://mathsolver.microsoft.com/zh)
+- [emojimix：将两个不同的 Emoji 符号组合成一个新的符号](https://tikolu.net/emojimix/)
+- [SQLite Viewer Web App：一个可以在浏览器里使用的 SQLite 数据库浏览工具，使用了浏览器的原生文件系统 API 来打开 .sqlite 文件](https://sqliteviewer.app/)
+- [Device Info：一个网页工具，显示从浏览器可以收集的所有关于用户设备的信息，比如电池、麦克风、蓝牙等](https://www.deviceinfo.me/)
+- [Carbon - 将代码片段转为美观的图片：将代码片段转为美观的图片，可以贴到社交媒体或博客上面](https://carbon.now.sh/)
