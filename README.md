@@ -2180,3 +2180,24 @@
 - [SQLite Viewer Web App：一个可以在浏览器里使用的 SQLite 数据库浏览工具，使用了浏览器的原生文件系统 API 来打开 .sqlite 文件](https://sqliteviewer.app/)
 - [Device Info：一个网页工具，显示从浏览器可以收集的所有关于用户设备的信息，比如电池、麦克风、蓝牙等](https://www.deviceinfo.me/)
 - [Carbon - 将代码片段转为美观的图片：将代码片段转为美观的图片，可以贴到社交媒体或博客上面](https://carbon.now.sh/)
+
+![image](https://img.gejiba.com/image/13flB)
+
+# 2022-4-26分享
+## 美句分享
+沒什麼如果當初，不管重來多少次，人生肯定有遺憾。
+
+## 今日演讲
+[如何赋予人们法律的力量？](https://open.163.com/newview/movie/free?pid=MH42PLF36&mid=MH42PVGGE)
+
+## 今日科普
+[新中国最严重溃坝事故：河南“75.8”特大水灾是如何发生的？](https://www.youtube.com/watch?v=A-SUR7UyZJ0)
+
+## 今日推荐
+- [QRCode Monkey：一个完全免费的二维码生成器，可定制 LOGO、二维码形状等等、功能完全不输某些付费二维码生成器](https://www.qrcode-monkey.com/)
+- [WatermarkRemover.io：通过人工智能技术去除图片上的水印的工具](https://www.watermarkremover.io/)
+- [nginx playground：一个类似 codepen 的线上的 nginx 游乐场。你可以在网页上填写 nginx 配置文件，然后在线启动一个 nginx 实例。接着，你输入各种 curl 或 http 命令，与这个实例互动](https://nginx-playground.wizardzines.com/)
+- [Glassmorphism CSS Generator：通过修改参数，生成毛玻璃效果 CSS 代码的工具](https://ui.glass/generator/)
+- [Checkbox Painter：一款使用 checkbox 作画的工具。分享 URL 给别人，可以让别人看到你的作品](https://mrdoob.com/lab/javascript/checkbox_painter/)
+
+![image](https://img.gejiba.com/image/13xiv)
