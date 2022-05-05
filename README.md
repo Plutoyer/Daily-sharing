@@ -2201,3 +2201,22 @@
 - [Checkbox Painter：一款使用 checkbox 作画的工具。分享 URL 给别人，可以让别人看到你的作品](https://mrdoob.com/lab/javascript/checkbox_painter/)
 
 ![image](https://img.gejiba.com/image/13xiv)
+
+# 2022-5-5分享
+## 美句分享
+可在顾海的心中，爱白洛因是没有任何尺度的。九年前，他就可以为白洛因做尽任何荒唐事，九年后，他依旧可以。
+
+## 今日演讲
+[未来的30年历史](https://open.163.com/newview/movie/free?pid=MH4VC0JNS&mid=MH4VCA20G)
+
+## 今日科普
+[极度舒适！拿来救命的药，原来是这样在身体里释放的](https://www.bilibili.com/video/BV1bF411q7ue?spm_id_from=333.337.search-card.all.click)
+
+## 今日推荐
+- [Outline：把网页转换成阅读模式的网页的工具。转换后的网页的网址可以分享给别人](https://outline.com/)
+- [Screenshot API：一个允许开发者通过一个简单的 API 调用来截屏网站的工具。每个月可以免费使用 100 次](https://www.screenshotapi.net/)
+- [Fancy Text Generator：生成特殊字体文字的工具](https://www.coolgenerator.com/fancy-text-generator)
+- [readme.so：辅助生成 README 文档的工具，各种模版可种选择](https://readme.so/)
+- [密码生成器：一个可以在线生成随机密码的工具](http://www.icosaedro.it/PasswordGenerator.htm)
+
+![image](https://s1.nsatu.com/u/22/05/05/62737ea9c9e65.jpg)
