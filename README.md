@@ -2220,3 +2220,22 @@
 - [密码生成器：一个可以在线生成随机密码的工具](http://www.icosaedro.it/PasswordGenerator.htm)
 
 ![image](https://s1.nsatu.com/u/22/05/05/62737ea9c9e65.jpg)
+
+# 2022-5-6分享
+## 美句分享
+遗憾的是我们都没有学会好好沟通，特别是我，我总是不知道该怎么去表达自己的情绪，我觉得我这辈子都学不会畅所欲言的去表达，很多根本都没有解决的问题，都攒到了一起，到了最后，我讲了些违心的话，你也就随了我的意
+
+## 今日演讲
+[我们为什么要相信科学家？(https://open.163.com/newview/movie/free?pid=MH4VCI9L7&mid=MH4VCQN8Q)
+
+## 今日科普
+[大开眼界！一滴水放大1000倍，见证微观生物的生殖、捕食和死亡！](https://www.bilibili.com/video/BV16i4y1k7GL?spm_id_from=333.999.0.0)
+
+## 今日推荐
+- [Animatize：简单的在线动画制作工具。在网页上上传背景图片和前景图片，然后将后者拖进前者，就会生成动画](https://animatize.com/)
+- [狐猴浏览器：基于 Chromium 内核、支持安装扩展插件和油猴脚本的浏览器，跟 kiwi 浏览器区别不大。优点是：支持安装来自 edge 浏览器的扩展插件](https://lemurbrowser.com/app/zh/)
+- [open2share ：一款开源的 Android 应用，它能够解决微信无法分享文件到电脑的问题。可以很方便的调用系统分享菜单，分享文件到你想分享的任何地方、任何应用](https://github.com/linesoft2/open2share)
+- [寒光游戏中心：Windows 客户端注册，免费解锁 STEAM 游戏 3 款，可用于入正前的体验](https://www.hanguangyouxi.com/)
+- [PeaZip：一个开源的桌面压缩软件，带有图形界面，优点是支持一些新的压缩算法，包括 Zstandard 和 Brotli 算法](https://peazip.github.io/)
+
+![image](https://s1.nsatu.com/u/22/05/06/6274f55fc0f48.png)
