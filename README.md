@@ -2239,3 +2239,22 @@
 - [PeaZip：一个开源的桌面压缩软件，带有图形界面，优点是支持一些新的压缩算法，包括 Zstandard 和 Brotli 算法](https://peazip.github.io/)
 
 ![image](https://s1.nsatu.com/u/22/05/06/6274f55fc0f48.png)
+
+# 2022-5-10分享
+## 美句分享
+有阴晴圆缺，人有悲欢离合，命有否泰变化，年有四季更替。熬过长夜，你便能见到黎明；饱受痛苦，你便能拥有快乐；耐过寒冬，你便无须蛰伏；落尽寒梅，你便能企盼新春。
+
+## 今日演讲
+[胡安·恩利克斯：令人吃惊的新科技](https://open.163.com/newview/movie/free?pid=M8GV1NMA7&mid=M8GVEIUPO)
+
+## 今日科普
+[谷歌面试题：12个小球里找次品，天平最少秤几次？](https://www.youtube.com/watch?v=aEhp-N-kZFM)
+
+## 今日推荐
+- [Speech To Code：一个实验性的语音编程项目，通过口述指令生成代码，这里试用 Demo](https://github.com/pedrooaugusto/speech-to-code)
+- [HertzBeat 赫兹跳动：一个国产的开源云监控系统，具有监控网站、PING 连通性、端口可用性、数据库、操作系统、阈值告警等功能，告警通知可通过邮件、微信、钉钉、飞书等发送。](https://hertzbeat.com/)
+- [stop-mess-around：一个浏览器插件，减少摸鱼的时间和频率。打开插件后，一旦访问指定的消磨时间的网址，它就会自动统计浏览时间，达到门槛值就会弹出提醒。](https://github.com/OBKoro1/stop-mess-around)
+- [视频 PPT 提取器：某些教学视频都在讲解 PPT 文案，或者需要导出 PPT 供以后学习，这个工具可以从视频里面提取 PPT，保存为 PDF 文件。](https://github.com/wudududu/extract-video-ppt)
+- [sqlite-utils：一个命令行工具，可以直接对 SQLite 数据库执行 SQL 查询。](https://github.com/simonw/sqlite-utils)
+
+![image](https://s1.nsatu.com/u/22/05/10/627a15c455bea.jpg)
