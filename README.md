@@ -2258,3 +2258,23 @@
 - [sqlite-utils：一个命令行工具，可以直接对 SQLite 数据库执行 SQL 查询。](https://github.com/simonw/sqlite-utils)
 
 ![image](https://s1.nsatu.com/u/22/05/10/627a15c455bea.jpg)
+
+# 2022-5-12分享
+## 美句分享
+其实我很早就知道我们不合适，但我还是拒绝了所有人，陪你走过一段没有结果的路。虽然时间不长，但毕生难忘。想想真是心酸，留住你和放下你，我都做不到。
+
+## 今日演讲
+[可以彻底改变医学的微小脂肪球](https://open.163.com/newview/movie/free?pid=MH639CE5D&mid=MH639QTKT)
+
+## 今日科普
+[核酸检测原理是什么？如何从千万人中找到阳性感染者？](https://www.youtube.com/watch?v=CTny_GTaSnU）
+
+## 今日推荐
+- [Simple.css：一个极简化的 CSS 框架，追求"无类化使用"，即不用指定 class，直接对 HTML 标签生效。](https://github.com/kevquirk/simple.css)
+- [lemmy：一个开源的论坛聚合服务，只要是支持 Fediverse 协议的论坛，都可以用它订阅。然后就可以在一个页面上，同时浏览多个论坛并发帖。](https://github.com/LemmyNet/lemmy)
+- [xiu2 油猴脚本合集：xiu2 写的脚本质量都还可以，特别是自动无缝翻页。](https://userscript.xiu2.xyz/)
+- [几何小说：安卓上免费无广告小说 app，可换源，自带很多书源，适合不喜欢折腾的老哥用。](https://damobao.lanzouf.com/i3aaG02brpzg)
+- [抖音 tiktok 无水印解析：抖音 / TikTok 无水印在线解析，支持口令解析。](https://douyin.wtf/)
+
+![image](https://s1.nsatu.com/u/22/05/12/627ce03b3d304.jpg)
+
