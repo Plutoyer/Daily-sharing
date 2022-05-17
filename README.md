@@ -2278,3 +2278,21 @@
 
 ![image](https://s1.nsatu.com/u/22/05/12/627ce03b3d304.jpg)
 
+# 2022-5-17分享
+## 美句分享
+你太急切的想要一个答案了。想要风光的学位，瞬间的博学，想要意气风发，想闪着金光走向喜欢的人。但现实告诉我，操之过急便会败北，他要我等，要我耐得住不断延长的时间线，要我交付出足够的努力堆砌在沉闷、晦涩的时光里，才肯将一切“我想要”一点一点递送至我手里。
+
+## 今日演讲
+[展现被忽视妇女生活的有力照片](https://open.163.com/newview/movie/free?pid=MH60IENQ4&mid=MH60J2FIF)
+
+## 今日科普
+[浙江舟山惊现“血红色天空”！专家是这样解释的……](https://www.youtube.com/watch?v=jZb2JFQT1Oc)
+
+## 今日推荐
+- [小时百科：专业的物理和数学百科](https://wuli.wiki/index.html)
+- [背个 x 啊： 可辅助记忆的小工具](http://beigexa.com/)
+- [免费人格测试： 16 型人格测试]（https://www.16personalities.com/ch）
+- [retire：输入自己的月薪，在浏览器标签栏实时更新今天赚到了多少钱，挺有趣的小工具](https://retire.run/)
+- [diagrams.net ：一个开源免费的在线画流程图的网站。无需注册，无需登录，可以下载，可以导出为 png, jpeg, svg, pdf 等格式](https://app.diagrams.net/)
+
+![image](https://s1.nsatu.com/u/22/05/17/628361abbb6e1.jpg)
