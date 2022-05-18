@@ -2296,3 +2296,22 @@
 - [diagrams.net ：一个开源免费的在线画流程图的网站。无需注册，无需登录，可以下载，可以导出为 png, jpeg, svg, pdf 等格式](https://app.diagrams.net/)
 
 ![image](https://s1.nsatu.com/u/22/05/17/628361abbb6e1.jpg)
+
+# 2022-5-18分享
+## 美句分享
+我知道你最近很累，是那种看不见的，身体上和精神上的疲惫感，但是请你一定要坚持下去。就算无人问津也好，技不如人也罢，千万别让烦恼和焦虑毁了你本就不多的热情和定力。别贪心，我们不可能什么都有，别担心，我们也不可能什么都没有。
+
+## 今日演讲
+[帮助印度农民的“盒子里的温室”](https://open.163.com/newview/movie/free?pid=MH60JBG5J&mid=MH60K0DDU)
+
+## 今日科普
+[伦镍暴涨，青山控股遭逼空！LME为何“拉偏架帮中国人”？](https://www.youtube.com/watch?v=w-PHZg1qmcU)
+
+## 今日推荐
+- [Gridzzly.com ：可以在线制作并打印出可以辅助你绘图的网格纸，界面简洁，操作方便](https://www.gridzzly.com/)
+- [TOONME.COM：可以在线将上传的照片转换为可爱的卡通图片，在延续了原图造型的基础上，重新利用 AI 绘制出不同风格的卡通形象](https://toonme.com/)
+- [PhotoFunia - 图片效果生成器：在线免费图片编辑器，带有图片效果和照片滤镜库。汇集各类图片效果生成，比如雪地写字效果、百老汇广告牌效果等，文字效果只适用英文和数字。](https://photofunia.com/cn/)
+- [JSON Visio：一个开源的 JSON 可视化工具，可以将 JSON 数据转换成树状图](https://jsonvisio.com/)
+- [鸭力巨大：一款完全免费、即用即走的图片/视频压缩神器。无需注册登录、无需下载任何软件，致力于为大家提供简单、快捷的压缩服务](https://www.yalijuda.com/)
+
+![image](https://s1.nsatu.com/u/22/05/18/6284c41ea103b.jpg)
