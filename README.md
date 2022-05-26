@@ -2315,3 +2315,22 @@
 - [鸭力巨大：一款完全免费、即用即走的图片/视频压缩神器。无需注册登录、无需下载任何软件，致力于为大家提供简单、快捷的压缩服务](https://www.yalijuda.com/)
 
 ![image](https://s1.nsatu.com/u/22/05/18/6284c41ea103b.jpg)
+
+# 2022-5-26分享
+## 美句分享
+我是你头顶的云，是你耳畔的风，是你涉过潮来潮去，是你眼中烂漫山花，亦是你行过的万里山河。
+
+## 今日演讲
+[用创新的方式支援有特殊需求的孩子](https://open.163.com/newview/movie/free?pid=MH6L6FK4J&mid=MH6L6M3S4)
+
+## 今日科普
+[为什么要反垄断？中美反垄断手段谁更强？]（https://www.youtube.com/watch?v=UVpNYdkuzpI)
+
+## 今日推荐
+- [favicon.io：免费、好用、没有广告、无需注册的 favicon 制作工具。可以把 PNG、文字、emoji 转成 favicon](https://links.bestxtools.com/favicon.io/)
+- [Pixel Art Together：一款开源的多人协作像素画编辑器](https://github.com/liveblocks/pixel-art-together?utm_source=bestxtools.com)
+- [Look Scanned：不需要打印机和扫描仪，把 PDF 变成好像扫描过的样子。完全在浏览器端处理，不会把文件上传到服务器，保证安全](https://lookscanned.io/?utm_source=bestxtools.com)
+- [Coverview：一个开源的快速制作文章封面图的工具](https://github.com/rutikwankhade/CoverView?utm_source=bestxtools.com)
+- [bookmark.style：一款将任意链接转换生成分享图的工具，适用于开发者、创作者、公众号写手，它可以美化你的链接，让你的链接“开口说话”](https://www.bookmark.style/?utm_source=bestxtools.com)
+
+![image](https://s1.nsatu.com/u/22/05/26/628f53781dd45.jpg)
